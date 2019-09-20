@@ -34064,7 +34064,7 @@
 	</Ad>
 	<Ad>
 		<Id>vvpvr6</Id>
-		<DateEnd>2019-10-07T16:19:20+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -45831,7 +45831,7 @@
 	</Ad>
 	<Ad>
 		<Id>yCUNOq</Id>
-		<DateEnd>2019-10-14T13:15:53+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -55622,6 +55622,58 @@
 		<Price>10299</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Xiaomi%20Redmi%20Note%205/kzn/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>f8aw0r</Id>
+		<DateEnd>2019-10-20T14:27:50+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy Note 8</Title>
+		<Description><![CDATA[<p>Samsung Galaxy Note 8</p><p>- б/у, не ремонтный<br>- протестирован по 26+ пунктам<br>- внешний вид: отличный<br>- imei 358505086589922</p><p>Нюансы оплаты в фотоленте!</p><p>- реф = 25899₽</p>]]></Description>
+		<Price>23699</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Samsung%20Galaxy%20Note%208/kzn/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>LRSnSm</Id>
+		<DateEnd>2019-10-20T14:29:21+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S4</Title>
+		<Description><![CDATA[<p>Samsung Galaxy S4</p><p>- б/у, не ремонтировался<br>- проверен по 26+ критериям<br>- внешний вид: 5-<br>- imei 359535050862624</p><p>Возможности оплаты на фотографиях!</p><p>- реф = 5499₽</p>]]></Description>
+		<Price>4499</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Samsung%20Galaxy%20S4/msk/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>KgG5kP</Id>
+		<DateEnd>2019-10-20T14:30:08+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S6</Title>
+		<Description><![CDATA[<p>Samsung Galaxy S6</p><p>- б/у, без ремонтов<br>- опробован по 26+ параметрам<br>- внешне: 5-<br>- imei 357568068319487</p><p>Нюансы приобретения в фотоленте!</p><p>- реф = 10299₽</p>]]></Description>
+		<Price>7899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Samsung%20Galaxy%20S6/msk/Cj8ICB_0.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
