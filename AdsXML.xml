@@ -24121,7 +24121,7 @@
 	</Ad>
 	<Ad>
 		<Id>Rvaw2X</Id>
-		<DateEnd>2019-10-02T13:19:58+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -41236,7 +41236,7 @@
 	</Ad>
 	<Ad>
 		<Id>VBmd5N</Id>
-		<DateEnd>2019-10-11T12:02:38+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -55760,6 +55760,40 @@
 		<Price>12299</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%206S%2032Gb/msk/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>NEXPu7</Id>
+		<DateEnd>2019-10-20T14:54:08+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S Plus 64Gb</Title>
+		<Description><![CDATA[<p>iPhone 6S Plus 64Gb</p><p>- б/у, в оригинале<br>- исправен по 26+ параметрам<br>- смотрится: отличный<br>- imei 353336074338527</p><p>Нюансы оплаты на фотографиях!</p><p>- реф = 15499₽</p>]]></Description>
+		<Price>16699</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%206S%20Plus%2064Gb/msk/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>dMX3G5</Id>
+		<DateEnd>2019-10-20T14:55:47+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S10 Plus</Title>
+		<Description><![CDATA[<p>Samsung Galaxy S10 Plus</p><p>- б/у, в оригинале<br>- исправен по 26+ пунктам<br>- по корпусу/экрану: достойный<br>- imei 354653102022348</p><p>Нюансы приобретения на фото!</p><p>- неактив = 54199₽</p>]]></Description>
+		<Price>44999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Samsung%20Galaxy%20S10%20Plus/msk/Cj8ICB_0.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
