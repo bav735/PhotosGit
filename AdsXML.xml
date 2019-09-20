@@ -28861,7 +28861,7 @@
 	</Ad>
 	<Ad>
 		<Id>pFhgbt</Id>
-		<DateEnd>2019-10-05T08:57:59+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -47150,7 +47150,7 @@
 	</Ad>
 	<Ad>
 		<Id>OeP8Ri</Id>
-		<DateEnd>2019-10-15T13:02:50+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -54004,6 +54004,42 @@
 		<Price>56099</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%20XS%2064Gb/kzn/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>2lrWM1</Id>
+		<DateEnd>2019-10-20T08:25:28+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S9</Title>
+		<Description><![CDATA[<p>Samsung Galaxy S9</p><p>- б/у, без ремонтов<br>- протестирован по 26+ пунктам<br>- по состоянию: достойный<br>- imei 352712090770730</p><p>Возможности покупки на фото!</p><p>- реф = 26499₽<br>- неактив = 38699₽</p>]]></Description>
+		<Price>23199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Samsung%20Galaxy%20S9/kzn/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>ThkXsW</Id>
+		<DateEnd>2019-10-20T08:26:16+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 32Gb</Title>
+		<Description><![CDATA[<p>iPhone 7 32Gb</p><p>- б/у, не восстановленный<br>- исправен по 26+ критериям<br>- внешне: достойный<br>- imei 355330085333690</p><p>Возможности оплаты на фотографиях!</p><p>- реф = 16099₽<br>- неактив = 29199₽</p>]]></Description>
+		<Price>18399</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%207%2032Gb/kzn/Cj8ICB_0.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
