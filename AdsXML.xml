@@ -43662,7 +43662,7 @@
 	</Ad>
 	<Ad>
 		<Id>O8K6Pz</Id>
-		<DateEnd>2019-10-12T14:57:06+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -45174,7 +45174,7 @@
 	</Ad>
 	<Ad>
 		<Id>qidREY</Id>
-		<DateEnd>2019-10-13T19:09:19+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -46494,7 +46494,7 @@
 	</Ad>
 	<Ad>
 		<Id>5AYhc2</Id>
-		<DateEnd>2019-10-14T18:02:24+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -46528,7 +46528,7 @@
 	</Ad>
 	<Ad>
 		<Id>WEcKiP</Id>
-		<DateEnd>2019-10-15T08:18:33+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -48486,7 +48486,7 @@
 	</Ad>
 	<Ad>
 		<Id>oxnt4h</Id>
-		<DateEnd>2019-10-16T12:41:16+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -48660,7 +48660,7 @@
 	</Ad>
 	<Ad>
 		<Id>4dXHTY</Id>
-		<DateEnd>2019-10-16T13:16:14+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -51051,7 +51051,7 @@
 	</Ad>
 	<Ad>
 		<Id>skZXoL</Id>
-		<DateEnd>2019-10-17T14:37:39+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -54893,6 +54893,160 @@
 		<Price>4099</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%204S%2064Gb/msk/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>05ZgiY</Id>
+		<DateEnd>2019-10-20T11:30:56+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone SE 32Gb</Title>
+		<Description><![CDATA[<p>iPhone SE 32Gb</p><p>- б/у, не ремонтный<br>- проверен по 26+ пунктам<br>- смотрится: отличный<br>- imei 353848085009764</p><p>Возможности оплаты в фотоленте!</p><p>- реф = 10399₽<br>- неактив = 16999₽</p>]]></Description>
+		<Price>8899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%20SE%2032Gb/msk/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>7pNg9u</Id>
+		<DateEnd>2019-10-20T11:31:29+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone X 64Gb</Title>
+		<Description><![CDATA[<p>iPhone X 64Gb</p><p>- б/у, без ремонтов<br>- исправен по 26+ пунктам<br>- внешне: 5-<br>- imei 353040093393824</p><p>Нюансы оплаты на фото!</p><p>- реф = 42699₽<br>- неактив = 55899₽</p>]]></Description>
+		<Price>44999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%20X%2064Gb/msk/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>MigGRr</Id>
+		<DateEnd>2019-10-20T11:35:16+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 32Gb</Title>
+		<Description><![CDATA[<p>iPhone 7 32Gb</p><p>- б/у, не восстановленный<br>- проверен по 26+ параметрам<br>- внешне: 5-<br>- imei 355324085264112</p><p>Нюансы оплаты на фото!</p><p>- реф = 16099₽<br>- неактив = 29199₽</p>]]></Description>
+		<Price>18399</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%207%2032Gb/msk/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>4UXqAr</Id>
+		<DateEnd>2019-10-20T11:36:11+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S9 Plus</Title>
+		<Description><![CDATA[<p>Samsung Galaxy S9 Plus</p><p>- б/у, не ремонтировался<br>- протестирован по 26+ пунктам<br>- по состоянию: отличный<br>- imei 352420092306483</p><p>Возможности покупки на фото!</p><p>- реф = 28899₽<br>- неактив = 40899₽</p>]]></Description>
+		<Price>26099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Samsung%20Galaxy%20S9%20Plus/msk/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>35EIQ6</Id>
+		<DateEnd>2019-10-20T11:37:41+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 6 Pro 64Gb</Title>
+		<Description><![CDATA[<p>Xiaomi Redmi 6 Pro 64Gb</p><p>- б/у, не ремонтировался<br>- проверен по 26+ пунктам<br>- по состоянию: невидные царапинки<br>- imei 865041045127261</p><p>Условия оплаты на фото!</p><p>- реф = 11799₽</p>]]></Description>
+		<Price>10299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Xiaomi%20Redmi%206%20Pro%2064Gb/msk/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>3thkTU</Id>
+		<DateEnd>2019-10-20T11:42:45+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XS Max 256Gb</Title>
+		<Description><![CDATA[<p>iPhone XS Max 256Gb</p><p>- б/у, в оригинале<br>- опробован по 26+ критериям<br>- внешний вид: отличный<br>- imei 357265096700867</p><p>Нюансы покупки в фотоленте!</p><p>- реф = 70899₽<br>- неактив = 78099₽</p>]]></Description>
+		<Price>68899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%20XS%20Max%20256Gb/msk/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>Xr7HZJ</Id>
+		<DateEnd>2019-10-20T11:58:42+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 Plus 32Gb</Title>
+		<Description><![CDATA[<p>iPhone 7 Plus 32Gb</p><p>- б/у, не восстановленный<br>- исправен по 26+ критериям<br>- внешне: отличный<br>- imei 353808082017525</p><p>Возможности оплаты на фото!</p><p>- реф = 23499₽<br>- неактив = 34199₽</p>]]></Description>
+		<Price>24499</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%207%20Plus%2032Gb/msk/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>B9Agj1</Id>
+		<DateEnd>2019-10-20T12:00:54+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy Note 3</Title>
+		<Description><![CDATA[<p>Samsung Galaxy Note 3</p><p>- б/у, не восстановленный<br>- исправен по 26+ параметрам<br>- по корпусу/экрану: достойный<br>- imei 357518054406418</p><p>Нюансы приобретения на фото!</p><p>- реф = 7899₽</p>]]></Description>
+		<Price>6699</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Samsung%20Galaxy%20Note%203/kzn/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>QuKXk7</Id>
+		<DateEnd>2019-10-20T12:02:15+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S8 Plus</Title>
+		<Description><![CDATA[<p>Samsung Galaxy S8 Plus</p><p>- б/у, не ремонтный<br>- протестирован по 26+ параметрам<br>- по состоянию: отличный<br>- imei 354359080763974</p><p>Условия приобретения в фотоленте!</p><p>- реф = 20499₽</p>]]></Description>
+		<Price>19999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Samsung%20Galaxy%20S8%20Plus/msk/Cj8ICB_0.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
