@@ -21188,7 +21188,7 @@
 	</Ad>
 	<Ad>
 		<Id>jokRkT</Id>
-		<DateEnd>2019-09-30T14:08:29+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -55569,6 +55569,41 @@
 		<Price>68899</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%20XS%20Max%20256Gb/msk/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>TOUVWM</Id>
+		<DateEnd>2019-10-20T14:12:07+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 4S 32Gb</Title>
+		<Description><![CDATA[<p>iPhone 4S 32Gb</p><p>- б/у, не восстановленный<br>- опробован по 26+ пунктам<br>- по состоянию: пять с минусом<br>- imei 013178000517820</p><p>Возможности покупки на фотографиях!</p><p>- реф = 3599₽</p>]]></Description>
+		<Price>3799</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%204S%2032Gb/msk/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>nMBX65</Id>
+		<DateEnd>2019-10-20T14:13:47+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 5A</Title>
+		<Description><![CDATA[<p>Xiaomi Redmi 5A</p><p>- б/у, без ремонтов<br>- протестирован по 26+ критериям<br>- внешне: незаметные царапинки<br>- imei 869815039073516</p><p>Нюансы оплаты в фотоленте!</p><p>- реф = 6799₽</p>]]></Description>
+		<Price>5699</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Xiaomi%20Redmi%205A/kzn/Cj8ICB_0.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
