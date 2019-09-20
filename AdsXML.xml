@@ -40352,7 +40352,7 @@
 	</Ad>
 	<Ad>
 		<Id>9XlLYK</Id>
-		<DateEnd>2019-10-11T09:35:55+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -47046,7 +47046,7 @@
 	</Ad>
 	<Ad>
 		<Id>gQHNNb</Id>
-		<DateEnd>2019-10-15T12:22:57+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -54094,6 +54094,42 @@
 		<Price>68899</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%20XS%20Max%20256Gb/kzn/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>wCkhTH</Id>
+		<DateEnd>2019-10-20T08:54:06+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S 32Gb</Title>
+		<Description><![CDATA[<p>iPhone 6S 32Gb</p><p>- б/у, без ремонтов<br>- прошел проверку по 26+ критериям<br>- внешне: достойный<br>- imei 353797084758055</p><p>Условия оплаты на фото!</p><p>- реф = 11299₽<br>- неактив = 21999₽</p>]]></Description>
+		<Price>12299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%206S%2032Gb/kzn/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>TNTq3j</Id>
+		<DateEnd>2019-10-20T08:54:52+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 Plus</Title>
+		<Description><![CDATA[<p>iPhone 6 Plus</p><p>- б/у, без ремонтов<br>- проверен по 26+ параметрам<br>- внешний вид: 5 с минусом<br>- imei 354386063983634</p><p>Возможности приобретения на фотографиях!</p><p>- реф = 11499₽</p>]]></Description>
+		<Price>12299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%206%20Plus/kzn/Cj8ICB_1.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
