@@ -50068,7 +50068,7 @@
 	</Ad>
 	<Ad>
 		<Id>QzgCjV</Id>
-		<DateEnd>2019-10-17T10:20:34+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -55100,6 +55100,24 @@
 		<Price>8099</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%20SE/kzn/Cj8ICB_2.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>UF80Hm</Id>
+		<DateEnd>2019-10-20T12:17:31+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 Plus</Title>
+		<Description><![CDATA[<p>iPhone 7 Plus</p><p>- б/у, не восстановленный<br>- опробован по 26+ критериям<br>- выглядит: неприметные царапинки<br>- imei 355349086131937</p><p>Нюансы приобретения в фотоленте!</p><p>- реф = 23499₽<br>- неактив = 34199₽</p>]]></Description>
+		<Price>24499</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%207%20Plus/kzn/Cj8ICB_3.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
