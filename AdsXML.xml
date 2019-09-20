@@ -18364,7 +18364,7 @@
 	</Ad>
 	<Ad>
 		<Id>ekfDUD</Id>
-		<DateEnd>2019-09-28T16:56:27+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -43749,7 +43749,7 @@
 	</Ad>
 	<Ad>
 		<Id>fRyZJf</Id>
-		<DateEnd>2019-10-12T15:15:34+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -55951,6 +55951,41 @@
 		<Price>17799</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Samsung%20Galaxy%20S8/kzn/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>GtonsA</Id>
+		<DateEnd>2019-10-20T15:51:11+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S10</Title>
+		<Description><![CDATA[<p>Samsung Galaxy S10</p><p>- б/у, без ремонтов<br>- проверен по 26+ критериям<br>- внешний вид: 5-<br>- imei 351911103330869</p><p>Возможности покупки в фотоленте!</p><p>- неактив = 48699₽</p>]]></Description>
+		<Price>39499</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Samsung%20Galaxy%20S10/kzn/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>ANAMwt</Id>
+		<DateEnd>2019-10-20T15:54:55+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy Note 9</Title>
+		<Description><![CDATA[<p>Samsung Galaxy Note 9</p><p>- б/у, не ремонтный<br>- исправен по 26+ критериям<br>- по корпусу/экрану: неприметные царапинки<br>- imei 359443099477639</p><p>Нюансы покупки на фотографиях!</p><p>- неактив = 46399₽</p>]]></Description>
+		<Price>35199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Samsung%20Galaxy%20Note%209/msk/Cj8ICB_1.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
