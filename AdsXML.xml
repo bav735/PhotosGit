@@ -52198,7 +52198,7 @@
 	</Ad>
 	<Ad>
 		<Id>JQaFnP</Id>
-		<DateEnd>2019-10-18T11:14:11+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -52630,7 +52630,7 @@
 	</Ad>
 	<Ad>
 		<Id>fBz7ru</Id>
-		<DateEnd>2019-10-18T14:14:18+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -54171,7 +54171,7 @@
 	</Ad>
 	<Ad>
 		<Id>0dolYC</Id>
-		<DateEnd>2019-10-20T09:21:09+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -54533,7 +54533,7 @@
 	</Ad>
 	<Ad>
 		<Id>uribbR</Id>
-		<DateEnd>2019-10-20T10:26:10+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -59849,6 +59849,76 @@
 		<Price>8099</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20SE/Cj8ICB_6.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>5nw17W</Id>
+		<DateEnd>2019-10-22T14:34:45+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 16Gb</Title>
+		<Description><![CDATA[<p>iPhone 6 16Gb</p><p>- б/у, не ремонтировался<br>- прошел проверку по 26+ критериям<br>- по состоянию: достойный<br>- imei 352014079820739</p><p>Условия оплаты на фото!</p><p>- реф = 9499₽</p>]]></Description>
+		<Price>8899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206/Cj8ICB_12.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>bpUSeT</Id>
+		<DateEnd>2019-10-22T14:36:11+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 5S</Title>
+		<Description><![CDATA[<p>iPhone 5S</p><p>- б/у, не ремонтный<br>- протестирован по 26+ пунктам<br>- внешний вид: отличный<br>- imei 352029064178455</p><p>Условия приобретения на фотографиях!</p><p>- реф = 6699₽</p>]]></Description>
+		<Price>5599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%205S/kzn/Cj8ICB_5.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>Kr46pp</Id>
+		<DateEnd>2019-10-22T14:37+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 Plus 256Gb</Title>
+		<Description><![CDATA[<p>iPhone 7 Plus 256Gb</p><p>- б/у, не ремонтный<br>- проверен по 26+ критериям<br>- внешний вид: невидные царапинки<br>- imei 359172072801248</p><p>Возможности приобретения на фотографиях!</p><p>- реф = 27699₽<br>- неактив = 41999₽</p>]]></Description>
+		<Price>29499</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207%20Plus/Cj8ICB_9.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>3OOuEi</Id>
+		<DateEnd>2019-10-22T14:38:39+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone SE 32Gb</Title>
+		<Description><![CDATA[<p>iPhone SE 32Gb</p><p>- б/у, не ремонтный<br>- прошел проверку по 26+ параметрам<br>- выглядит: 5-<br>- imei 353848087857541</p><p>Возможности приобретения в фотоленте!</p><p>- реф = 10399₽<br>- неактив = 16999₽</p>]]></Description>
+		<Price>8899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%20SE%2032Gb/kzn/Cj8ICB_5.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
