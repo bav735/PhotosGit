@@ -59571,4 +59571,21 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>hNMTrf</Id>
+		<DateEnd>2019-10-22T13:18:22+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone X</Title>
+		<Description><![CDATA[<p>iPhone X</p><p>- б/у, в оригинале<br>- опробован по 26+ критериям<br>- внешне: 5 с минусом<br>- imei 353051099913069</p><p>Нюансы приобретения в фотоленте!</p><p>- реф = 42699₽<br>- неактив = 55899₽</p>]]></Description>
+		<Price>44999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20X/Cj8ICB_9.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
