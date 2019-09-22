@@ -58598,4 +58598,55 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>XvatQx</Id>
+		<DateEnd>2019-10-22T09:34:48+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7</Title>
+		<Description><![CDATA[<p>iPhone 7</p><p>- б/у, не ремонтировался<br>- опробован по 26+ параметрам<br>- выглядит: пять с минусом<br>- imei 356559085880750</p><p>Возможности приобретения на фото!</p><p>- реф = 16099₽<br>- неактив = 28099₽</p>]]></Description>
+		<Price>18399</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207/Cj8ICB_8.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>u2CGkJ</Id>
+		<DateEnd>2019-10-22T09:35:33+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8</Title>
+		<Description><![CDATA[<p>iPhone 8</p><p>- б/у, не восстановленный<br>- протестирован по 26+ критериям<br>- выглядит: отличный<br>- imei 356765082468412</p><p>Возможности оплаты в фотоленте!</p><p>- реф = 26299₽<br>- неактив = 36999₽</p>]]></Description>
+		<Price>27899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208/Cj8ICB_6.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>4T1FwR</Id>
+		<DateEnd>2019-10-22T09:37:04+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S</Title>
+		<Description><![CDATA[<p>iPhone 6S</p><p>- б/у, без ремонтов<br>- опробован по 26+ параметрам<br>- выглядит: незаметные царапинки<br>- imei 353315072981348</p><p>Условия оплаты на фото!</p><p>- реф = 10899₽</p>]]></Description>
+		<Price>11199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S/Cj8ICB_9.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
