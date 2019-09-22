@@ -19643,7 +19643,7 @@
 	</Ad>
 	<Ad>
 		<Id>YFOoMC</Id>
-		<DateEnd>2019-09-29T15:59:20+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -51883,7 +51883,7 @@
 	</Ad>
 	<Ad>
 		<Id>q8EvFv</Id>
-		<DateEnd>2019-10-18T09:24:14+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -55315,7 +55315,7 @@
 	</Ad>
 	<Ad>
 		<Id>xJpA74</Id>
-		<DateEnd>2019-10-20T12:45:53+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -59237,6 +59237,77 @@
 		<Price>24499</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%207%20Plus/kzn/Cj8ICB_5.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>VFgnNA</Id>
+		<DateEnd>2019-10-22T12:25+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S Plus 16Gb</Title>
+		<Description><![CDATA[<p>iPhone 6S Plus 16Gb</p><p>- б/у, не восстановленный<br>- опробован по 26+ пунктам<br>- выглядит: 5-<br>- imei 353325076641145</p><p>Возможности оплаты в фотоленте!</p><p>- реф = 14999₽</p>]]></Description>
+		<Price>14999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%206S%20Plus%2016Gb/kzn/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>2hvsAY</Id>
+		<DateEnd>2019-10-22T12:25:51+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S 64Gb</Title>
+		<Description><![CDATA[<p>iPhone 6S 64Gb</p><p>- б/у, не ремонтный<br>- проверен по 26+ критериям<br>- выглядит: достойный<br>- imei 353268078062896</p><p>Условия оплаты на фотографиях!</p><p>- реф = 12099₽</p>]]></Description>
+		<Price>12799</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S/Cj8ICB_11.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>0uJHU0</Id>
+		<DateEnd>2019-10-22T12:27:13+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 128Gb</Title>
+		<Description><![CDATA[<p>iPhone 6 128Gb</p><p>- б/у, не ремонтный<br>- исправен по 26+ пунктам<br>- смотрится: 5-<br>- imei 353321075242464</p><p>Нюансы приобретения на фотографиях!</p><p>- реф = 12699₽</p>]]></Description>
+		<Price>11699</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%206%20128Gb/kzn/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>B5tA2S</Id>
+		<DateEnd>2019-10-22T12:27:59+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 4S</Title>
+		<Description><![CDATA[<p>iPhone 4S</p><p>- б/у, в оригинале<br>- протестирован по 26+ критериям<br>- по корпусу: 5 с минусом<br>- imei 013536006074601</p><p>Нюансы оплаты на фотографиях!</p><p>- реф = 3499₽</p>]]></Description>
+		<Price>3199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%204S/kzn/Cj8ICB_4.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
