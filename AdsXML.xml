@@ -53201,7 +53201,7 @@
 	</Ad>
 	<Ad>
 		<Id>FsrXNU</Id>
-		<DateEnd>2019-10-18T17:00:49+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -61342,6 +61342,23 @@
 		<Price>10299</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206/Cj8ICB_18.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>DJgxoK</Id>
+		<DateEnd>2019-10-23T12:33:19+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S 16Gb</Title>
+		<Description><![CDATA[<p>iPhone 6S 16Gb</p><p>- б/у, не ремонтный<br>- исправен по 26+ критериям<br>- внешний вид: 5-<br>- imei 358564073985023</p><p>Нюансы оплаты на фото!</p><p>- реф = 10899₽</p>]]></Description>
+		<Price>11199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S/Cj8ICB_20.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
