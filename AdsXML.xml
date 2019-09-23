@@ -38756,7 +38756,7 @@
 	</Ad>
 	<Ad>
 		<Id>Wl7UzC</Id>
-		<DateEnd>2019-10-10T12:07:15+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -61553,6 +61553,23 @@
 		<Price>11199</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S/Cj8ICB_21.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>oHO37k</Id>
+		<DateEnd>2019-10-23T13:49:54+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S Plus 16Gb</Title>
+		<Description><![CDATA[<p>iPhone 6S Plus 16Gb</p><p>- б/у, не ремонтировался<br>- протестирован по 26+ параметрам<br>- по корпусу/экрану: 5-<br>- imei 358604079050495</p><p>Возможности приобретения на фото!</p><p>- реф = 14999₽</p>]]></Description>
+		<Price>14999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S%20Plus/Cj8ICB_8.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
