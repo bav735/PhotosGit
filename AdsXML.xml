@@ -39049,7 +39049,7 @@
 	</Ad>
 	<Ad>
 		<Id>fzMnvr</Id>
-		<DateEnd>2019-10-10T14:27:39+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -51205,7 +51205,7 @@
 	</Ad>
 	<Ad>
 		<Id>2mVFTJ</Id>
-		<DateEnd>2019-10-17T15:19:19+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -60910,6 +60910,40 @@
 		<Price>24499</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207%20Plus/Cj8ICB_13.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>mwVQt5</Id>
+		<DateEnd>2019-10-23T10:57:20+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 256Gb</Title>
+		<Description><![CDATA[<p>iPhone 7 256Gb</p><p>- б/у, не ремонтировался<br>- прошел проверку по 26+ критериям<br>- по корпусу/экрану: отличный<br>- imei 359210070027786</p><p>Нюансы приобретения на фотографиях!</p><p>- реф = 19099₽<br>- неактив = 34799₽</p>]]></Description>
+		<Price>22799</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207/Cj8ICB_16.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>XSiakI</Id>
+		<DateEnd>2019-10-23T10:58:09+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi Note 4 64Gb</Title>
+		<Description><![CDATA[<p>Xiaomi Redmi Note 4 64Gb</p><p>- б/у, не ремонтный<br>- проверен по 26+ пунктам<br>- по состоянию: пять с минусом<br>- imei 866037032659737</p><p>Условия покупки на фотографиях!</p><p>- реф = 7699₽</p>]]></Description>
+		<Price>6499</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%20Note%204/Cj8ICB_3.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
