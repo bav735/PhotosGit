@@ -55403,7 +55403,7 @@
 	</Ad>
 	<Ad>
 		<Id>o1qJWG</Id>
-		<DateEnd>2019-10-20T13:18:05+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -61325,6 +61325,23 @@
 		<Price>56099</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%20XS%2064Gb/kzn/Cj8ICB_2.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>jPrzOt</Id>
+		<DateEnd>2019-10-23T12:27:56+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 32Gb</Title>
+		<Description><![CDATA[<p>iPhone 6 32Gb</p><p>- б/у, не восстановленный<br>- протестирован по 26+ пунктам<br>- по состоянию: легкие царапинки<br>- imei 356679082256810</p><p>Нюансы покупки на фото!</p><p>- реф = 10099₽<br>- неактив = 19299₽</p>]]></Description>
+		<Price>10299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206/Cj8ICB_18.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
