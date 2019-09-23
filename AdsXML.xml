@@ -60442,4 +60442,21 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>2UpZ8R</Id>
+		<DateEnd>2019-10-23T09:40:01+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Mi 8 128Gb</Title>
+		<Description><![CDATA[<p>Xiaomi Mi 8 128Gb</p><p>- б/у, не восстановленный<br>- протестирован по 26+ критериям<br>- выглядит: незаметные царапинки<br>- imei 869785030186577</p><p>Условия оплаты на фотографиях!</p><p>- неактив = 23699₽</p>]]></Description>
+		<Price>19499</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Mi%208/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
