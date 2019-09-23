@@ -24435,7 +24435,7 @@
 	</Ad>
 	<Ad>
 		<Id>Yu2UnJ</Id>
-		<DateEnd>2019-10-02T14:58:25+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -48002,7 +48002,7 @@
 	</Ad>
 	<Ad>
 		<Id>Wytjw0</Id>
-		<DateEnd>2019-10-16T09:52:57+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -50671,7 +50671,7 @@
 	</Ad>
 	<Ad>
 		<Id>0OBOdI</Id>
-		<DateEnd>2019-10-17T13:06:07+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -61272,6 +61272,59 @@
 		<Price>12299</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S/Cj8ICB_19.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>c42niR</Id>
+		<DateEnd>2019-10-23T11:57:13+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 256Gb</Title>
+		<Description><![CDATA[<p>iPhone 8 256Gb</p><p>- б/у, без ремонтов<br>- протестирован по 26+ параметрам<br>- внешне: достойный<br>- imei 356760088991343</p><p>Нюансы оплаты в фотоленте!</p><p>- реф = 28899₽<br>- неактив = 44199₽</p>]]></Description>
+		<Price>32399</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208/Cj8ICB_13.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>u87mDu</Id>
+		<DateEnd>2019-10-23T11:58:07+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 128Gb</Title>
+		<Description><![CDATA[<p>iPhone 7 128Gb</p><p>- б/у, без ремонтов<br>- опробован по 26+ пунктам<br>- внешний вид: незначительные царапинки<br>- imei 355317085765658</p><p>Нюансы покупки на фотографиях!</p><p>- реф = 18099₽<br>- неактив = 33699₽</p>]]></Description>
+		<Price>20599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%207%20128Gb/kzn/Cj8ICB_3.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>UcI5wm</Id>
+		<DateEnd>2019-10-23T11:58:52+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XS 64Gb</Title>
+		<Description><![CDATA[<p>iPhone XS 64Gb</p><p>- б/у, в оригинале<br>- проверен по 26+ пунктам<br>- выглядит: невидные царапинки<br>- imei 357236098774465</p><p>Условия оплаты в фотоленте!</p><p>- реф = 52899₽<br>- неактив = 66999₽</p>]]></Description>
+		<Price>56099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%20XS%2064Gb/kzn/Cj8ICB_2.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
