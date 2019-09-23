@@ -61729,4 +61729,21 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>DPvat8</Id>
+		<DateEnd>2019-10-23T14:48:55+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 5A 16Gb</Title>
+		<Description><![CDATA[<p>Xiaomi Redmi 5A 16Gb</p><p>- б/у, в оригинале<br>- исправен по 26+ критериям<br>- выглядит: отличный<br>- imei 869815030793062</p><p>Нюансы покупки на фото!</p>]]></Description>
+		<Price>5699</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%205A/Cj8ICB_3.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add2_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
