@@ -62304,4 +62304,72 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>MIN2fs</Id>
+		<DateEnd>2019-10-24T09:37:12+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 Plus</Title>
+		<Description><![CDATA[<p>iPhone 8 Plus</p><p>- б/у, не ремонтировался<br>- опробован по 26+ пунктам<br>- по состоянию: достойный<br>- imei 352977097374113</p><p>Условия оплаты на фотографиях!</p>]]></Description>
+		<Price>33899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208%20Plus/Cj8ICB_16.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>9QdgCE</Id>
+		<DateEnd>2019-10-24T09:37:41+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 5</Title>
+		<Description><![CDATA[<p>iPhone 5</p><p>- б/у, не восстановленный<br>- исправен по 26+ критериям<br>- по состоянию: достойный<br>- imei 013436004541299</p><p>Условия покупки на фотографиях!</p>]]></Description>
+		<Price>3899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%205/Cj8ICB_6.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>Y1f4rr</Id>
+		<DateEnd>2019-10-24T09:38:25+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 4S</Title>
+		<Description><![CDATA[<p>iPhone 4S</p><p>- б/у, не ремонтировался<br>- протестирован по 26+ параметрам<br>- выглядит: невидные царапинки<br>- imei 013035002457514</p><p>Условия покупки в фотоленте!</p>]]></Description>
+		<Price>3199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%204S/Cj8ICB_4.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>Em0E0D</Id>
+		<DateEnd>2019-10-24T09:40:04+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi Note 5</Title>
+		<Description><![CDATA[<p>Xiaomi Redmi Note 5</p><p>- б/у, не восстановленный<br>- проверен по 26+ критериям<br>- внешний вид: незначительные царапинки<br>- imei 867192034843398</p><p>Условия покупки на фото!</p>]]></Description>
+		<Price>10299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%20Note%205/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
