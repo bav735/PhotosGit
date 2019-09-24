@@ -63557,4 +63557,21 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>4aDEs2</Id>
+		<DateEnd>2019-10-24T17:34:26+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Mi 8</Title>
+		<Description><![CDATA[<p>Xiaomi Mi 8</p><p>- б/у, не ремонтировался<br>- прошел проверку по 26+ параметрам<br>- по корпусу/экрану: 5 с минусом<br>- imei 860758042488256</p><p>Нюансы оплаты на фото!</p>]]></Description>
+		<Price>17299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Mi%208/Cj8ICB_3.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
