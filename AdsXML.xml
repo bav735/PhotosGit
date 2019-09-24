@@ -41808,7 +41808,7 @@
 	</Ad>
 	<Ad>
 		<Id>jmDghZ</Id>
-		<DateEnd>2019-10-11T14:12:37+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -62976,6 +62976,41 @@
 		<Price>10299</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Xiaomi%20Redmi%20Note%205/kzn/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>Zi3jlW</Id>
+		<DateEnd>2019-10-24T14:14:08+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 64Gb</Title>
+		<Description><![CDATA[<p>iPhone 8 64Gb</p><p>- б/у, не ремонтировался<br>- прошел проверку по 26+ критериям<br>- выглядит: достойный<br>- imei 356759088143053</p><p>Возможности приобретения на фотографиях!</p>]]></Description>
+		<Price>27899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%208%2064Gb/kzn/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>qptnWx</Id>
+		<DateEnd>2019-10-24T14:16:21+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 Plus 128Gb</Title>
+		<Description><![CDATA[<p>iPhone 7 Plus 128Gb</p><p>- б/у, без ремонтов<br>- протестирован по 26+ критериям<br>- внешний вид: 5-<br>- imei 359218072214237</p><p>Нюансы оплаты на фотографиях!</p>]]></Description>
+		<Price>28399</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207%20Plus/Cj8ICB_20.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
