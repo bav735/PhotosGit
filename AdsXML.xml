@@ -39650,7 +39650,7 @@
 	</Ad>
 	<Ad>
 		<Id>mXh3bJ</Id>
-		<DateEnd>2019-10-10T15:42:41+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -63239,6 +63239,24 @@
 		<Price>24499</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%207%20Plus/kzn/Cj8ICB_9.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>dleZPT</Id>
+		<DateEnd>2019-10-24T15:41:54+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 Plus 64Gb</Title>
+		<Description><![CDATA[<p>iPhone 8 Plus 64Gb</p><p>- б/у, в оригинале<br>- исправен по 26+ параметрам<br>- внешний вид: отличный<br>- imei 352977099144092</p><p>Возможности оплаты на фото!</p>]]></Description>
+		<Price>33899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%208%20Plus%2064Gb/kzn/Cj8ICB_2.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
