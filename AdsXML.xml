@@ -58513,7 +58513,7 @@
 	</Ad>
 	<Ad>
 		<Id>RMuW1k</Id>
-		<DateEnd>2019-10-22T09:26:30+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -66892,6 +66892,58 @@
 		<Price>43899</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20X/Cj8ICB_33.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>j36YJF</Id>
+		<DateEnd>2019-10-26T13:32:06+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S 128Gb</Title>
+		<Description><![CDATA[<p>iPhone 6S 128Gb</p><p>- б/у, не ремонтировался<br>- проверен по 26+ критериям<br>- внешне: 5-<br>- imei 355428070820919</p><p>Возможности покупки в фотоленте!</p>]]></Description>
+		<Price>13899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S/Cj8ICB_42.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>B8ZSLl</Id>
+		<DateEnd>2019-10-26T13:32:37+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 256Gb</Title>
+		<Description><![CDATA[<p>iPhone 8 256Gb</p><p>- б/у, не восстановленный<br>- проверен по 26+ параметрам<br>- по состоянию: 5 с минусом<br>- imei 356760087101001</p><p>Нюансы покупки на фото!</p>]]></Description>
+		<Price>32399</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208/Cj8ICB_32.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>i09h6i</Id>
+		<DateEnd>2019-10-26T13:34:20+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XS</Title>
+		<Description><![CDATA[<p>iPhone XS</p><p>- б/у, в оригинале<br>- прошел проверку по 26+ критериям<br>- по состоянию: незаметные царапинки<br>- imei 357226099737207</p><p>Возможности покупки на фотографиях!</p>]]></Description>
+		<Price>56099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%20XS/kzn/Cj8ICB_6.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
