@@ -66291,4 +66291,38 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>HTC5Uq</Id>
+		<DateEnd>2019-10-26T09:54:33+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 Plus 64Gb</Title>
+		<Description><![CDATA[<p>iPhone 8 Plus 64Gb</p><p>- б/у, в оригинале<br>- опробован по 26+ параметрам<br>- внешне: незначительные царапинки<br>- imei 356713082567585</p><p>Условия приобретения на фотографиях!</p>]]></Description>
+		<Price>33899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208%20Plus/Cj8ICB_30.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>decTUy</Id>
+		<DateEnd>2019-10-26T09:58:16+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 32Gb</Title>
+		<Description><![CDATA[<p>iPhone 7 32Gb</p><p>- б/у, не восстановленный<br>- исправен по 26+ пунктам<br>- внешне: достойный<br>- imei 359210075735912</p><p>Возможности оплаты в фотоленте!</p>]]></Description>
+		<Price>18399</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207/Cj8ICB_44.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
