@@ -68960,4 +68960,21 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>dNU6ep</Id>
+		<DateEnd>2019-10-27T13:29:30+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi Note 3</Title>
+		<Description><![CDATA[<p>Xiaomi Redmi Note 3</p><p>- б/у, не ремонтировался<br>- протестирован по 26+ пунктам<br>- выглядит: 5 с минусом<br>- imei 868029021923941</p><p>Возможности покупки в фотоленте!</p>]]></Description>
+		<Price>5599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%20Note%203/Cj8ICB_3.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
