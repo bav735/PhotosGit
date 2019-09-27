@@ -52421,7 +52421,7 @@
 	</Ad>
 	<Ad>
 		<Id>65Ezps</Id>
-		<DateEnd>2019-10-18T13:12:30+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -68575,6 +68575,41 @@
 		<Price>24499</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207%20Plus/Cj8ICB_39.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>euWUJB</Id>
+		<DateEnd>2019-10-27T11:40:01+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 256Gb</Title>
+		<Description><![CDATA[<p>iPhone 7 256Gb</p><p>- б/у, не ремонтировался<br>- исправен по 26+ пунктам<br>- выглядит: неприметные царапинки<br>- imei 359210070824836</p><p>Нюансы оплаты на фотографиях!</p>]]></Description>
+		<Price>22799</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207/Cj8ICB_55.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>HAM1kK</Id>
+		<DateEnd>2019-10-27T11:44:32+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi Note 3</Title>
+		<Description><![CDATA[<p>Xiaomi Redmi Note 3</p><p>- б/у, не ремонтный<br>- проверен по 26+ критериям<br>- по корпусу: незначительные царапинки<br>- imei 868029025422734</p><p>Нюансы покупки в фотоленте!</p>]]></Description>
+		<Price>5599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Xiaomi%20Redmi%20Note%203/kzn/Cj8ICB_3.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
