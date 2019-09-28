@@ -64422,7 +64422,7 @@
 	</Ad>
 	<Ad>
 		<Id>XHlSFD</Id>
-		<DateEnd>2019-10-25T12:04:05+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -69722,6 +69722,24 @@
 		<Price>28399</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207%20Plus/Cj8ICB_41.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>rorb8i</Id>
+		<DateEnd>2019-10-28T09:56:37+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 32Gb</Title>
+		<Description><![CDATA[<p>iPhone 7 32Gb</p><p>- б/у, без ремонтов<br>- проверен по 26+ критериям<br>- выглядит: пять с минусом<br>- imei 356560081457130</p><p>Возможности оплаты на фото!</p>]]></Description>
+		<Price>18399</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%207%2032Gb/kzn/Cj8ICB_13.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
