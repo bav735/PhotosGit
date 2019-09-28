@@ -9212,7 +9212,7 @@
 	</Ad>
 	<Ad>
 		<Id>K7ifRX</Id>
-		<DateEnd>2019-09-23T13:30:08+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -70438,6 +70438,24 @@
 		<Price>20599</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%207%20128Gb/kzn/Cj8ICB_11.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>62T11o</Id>
+		<DateEnd>2019-10-28T15:14:30+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 5C</Title>
+		<Description><![CDATA[<p>iPhone 5C</p><p>- б/у, без ремонтов<br>- проверен по 26+ критериям<br>- по корпусу/экрану: отличный<br>- imei 358541052688281</p><p>Условия покупки в фотоленте!</p>]]></Description>
+		<Price>4199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%205C/kzn/Cj8ICB_1.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
