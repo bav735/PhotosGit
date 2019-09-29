@@ -70657,4 +70657,38 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>Eg7DP0</Id>
+		<DateEnd>2019-10-29T08:20+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone X 256Gb</Title>
+		<Description>iPhone X 256Gb б/у не восстановленный, абсолютно протестирован, выглядит: достойный, imei 353043095388891. Способы оплаты на фото! (рассрочка и др.)</Description>
+		<Price>48299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20X/Cj8ICB_42.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>8M928x</Id>
+		<DateEnd>2019-10-29T08:23:43+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 16Gb</Title>
+		<Description>iPhone 6 16Gb б/у не реф, полностью беспроблемный, выглядит: отличный, imei 354410060184861. Дополнительная информация на фото! (опт и др.)</Description>
+		<Price>8899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206/Cj8ICB_49.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
