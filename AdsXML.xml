@@ -72417,4 +72417,89 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>GDGOUa</Id>
+		<DateEnd>2019-10-30T09:10:33+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8</Title>
+		<Description>iPhone 8 б/у не восстановленный, совершенно беспроблемный, по корпусу: пять баллов, imei 359498083446032. Способы покупки на фотографии! (рассрочка и др.)</Description>
+		<Price>27899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208/Cj8ICB_50.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>lVGnfp</Id>
+		<DateEnd>2019-10-30T09:11:21+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S</Title>
+		<Description>iPhone 6S б/у оригинал, абсолютно без нареканий по работе, по корпусу: достойный, imei 353341078638161. Возможности покупки в фотоленте! (дропшиппинг и др.)</Description>
+		<Price>11199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S/Cj8ICB_66.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>NtBpfd</Id>
+		<DateEnd>2019-10-30T09:13:39+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 Plus</Title>
+		<Description>iPhone 6 Plus б/у не китайский, полностью проверен, выглядит: достойный, imei 354451066730943. Способы приобретения на фотографии! (кредит и др.)</Description>
+		<Price>12299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206%20Plus/Cj8ICB_26.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>ZKQ1cI</Id>
+		<DateEnd>2019-10-30T09:14:18+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 Plus</Title>
+		<Description>iPhone 8 Plus б/у не реф, полностью беспроблемный, по состоянию: пять баллов, imei 352977095493519. Возможности приобретения в фотоленте! (трейд-ин и др.)</Description>
+		<Price>33899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208%20Plus/Cj8ICB_44.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>tZE3ZP</Id>
+		<DateEnd>2019-10-30T09:15:03+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 5</Title>
+		<Description>iPhone 5 б/у не реф, совершенно рабочий, внешний вид: 5, imei 013430001552177. Способы покупки на фото! (дропшиппинг и др.)</Description>
+		<Price>3899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%205/Cj8ICB_21.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
