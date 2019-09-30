@@ -38378,7 +38378,7 @@
 	</Ad>
 	<Ad>
 		<Id>AE7UL7</Id>
-		<DateEnd>2019-10-10T10:07:14+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -45884,7 +45884,7 @@
 	</Ad>
 	<Ad>
 		<Id>ZhLrO6</Id>
-		<DateEnd>2019-10-14T13:19:17+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -45971,7 +45971,7 @@
 	</Ad>
 	<Ad>
 		<Id>vdpMvA</Id>
-		<DateEnd>2019-10-14T13:27:24+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -73143,6 +73143,91 @@
 		<Price>3199</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%204S/Cj8ICB_18.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>vil2pb</Id>
+		<DateEnd>2019-10-30T11:32:33+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S6 Edge</Title>
+		<Description>Samsung Galaxy S6 Edge б/у не китайский, совершенно проверен, по состоянию: 5, imei 354925075340877. Возможности покупки на фото! (дропшиппинг и др.)</Description>
+		<Price>9099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S6%20Edge/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>ViNNFM</Id>
+		<DateEnd>2019-10-30T11:33:12+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S7 Edge</Title>
+		<Description>Samsung Galaxy S7 Edge б/у не восстановленный, полностью исправен, внешне: отличный, imei 357752075825955. Способы покупки в фотоленте! (дропшиппинг и др.)</Description>
+		<Price>12599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S7%20Edge/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>VLGs8W</Id>
+		<DateEnd>2019-10-30T11:34:01+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 5C</Title>
+		<Description>iPhone 5C б/у без ремонтов, абсолютно протестирован, по корпусу: достойный, imei 013997009138217. Возможности приобретения в фотоленте! (рассрочка и др.)</Description>
+		<Price>4199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%205C/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>kbSFsG</Id>
+		<DateEnd>2019-10-30T11:34:42+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S9 Plus 64Gb</Title>
+		<Description>Samsung Galaxy S9 Plus 64Gb б/у не китайский, абсолютно протестирован, смотрится: достойный, imei 352420090576715. Возможности покупки на фото! (кредит и др.)</Description>
+		<Price>26099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S9%20Plus/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>Q3GHs7</Id>
+		<DateEnd>2019-10-30T11:35:35+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S5 16Gb</Title>
+		<Description>Samsung Galaxy S5 16Gb б/у оригинал, абсолютно исправен, по корпусу: 5, imei 353421064328637. Возможности приобретения на фотографии! (опт и др.)</Description>
+		<Price>5999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S5/Cj8ICB_0.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
