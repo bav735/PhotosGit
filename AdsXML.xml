@@ -69640,7 +69640,7 @@
 	</Ad>
 	<Ad>
 		<Id>4SvUFs</Id>
-		<DateEnd>2019-10-28T09:39:14+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -72062,6 +72062,41 @@
 		<Price>8099</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20SE/Cj8ICB_28.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>r8eIiW</Id>
+		<DateEnd>2019-10-30T08:00:13+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone X 256Gb</Title>
+		<Description>iPhone X 256Gb б/у оригинал, абсолютно беспроблемный, внешне: на пятерку, imei 353046095992257. Способы оплаты в фотоленте! (опт и др.)</Description>
+		<Price>48299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20X/Cj8ICB_46.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>muZYvG</Id>
+		<DateEnd>2019-10-30T08:00:45+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone X</Title>
+		<Description>iPhone X б/у не ремонтировался, абсолютно проверен, по состоянию: на пятерку, imei 353051097733485. Дополнительная информация на фото! (рассрочка и др.)</Description>
+		<Price>43899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%20X/kzn/Cj8ICB_16.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
