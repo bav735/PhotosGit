@@ -29486,7 +29486,7 @@
 	</Ad>
 	<Ad>
 		<Id>58dGFu</Id>
-		<DateEnd>2019-10-05T13:39:20+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -47186,7 +47186,7 @@
 	</Ad>
 	<Ad>
 		<Id>iIxBEU</Id>
-		<DateEnd>2019-10-15T13:12:53+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -73978,6 +73978,91 @@
 		<Price>8099</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20SE/Cj8ICB_31.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>flhflI</Id>
+		<DateEnd>2019-10-30T12:06:11+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy Note 4 32Gb</Title>
+		<Description>Samsung Galaxy Note 4 32Gb б/у оригинал, абсолютно проверен, смотрится: 5, imei 354594065674149. Способы покупки на фотографии! (трейд-ин и др.)</Description>
+		<Price>8099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20Note%204/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>gVGigP</Id>
+		<DateEnd>2019-10-30T12:06:55+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S9</Title>
+		<Description>Samsung Galaxy S9 б/у не восстановленный, полностью рабочий, внешний вид: пять баллов, imei 352711095269300. Способы приобретения на фотографии! (кредит и др.)</Description>
+		<Price>23199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S9/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>ERXfK8</Id>
+		<DateEnd>2019-10-30T12:07:49+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S10 Plus</Title>
+		<Description>Samsung Galaxy S10 Plus б/у не реф, абсолютно беспроблемный, выглядит: отличный, imei 354652105251284. Способы оплаты на фотографии! (опт и др.)</Description>
+		<Price>44999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S10%20Plus/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>h3BVEi</Id>
+		<DateEnd>2019-10-30T12:09:10+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi Note 4</Title>
+		<Description>Xiaomi Redmi Note 4 б/у без ремонтов, совершенно рабочий, смотрится: пять баллов, imei 866037034697297. Способы покупки на фотографии! (рассрочка и др.)</Description>
+		<Price>6199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%20Note%204/Cj8ICB_11.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>OTcoM9</Id>
+		<DateEnd>2019-10-30T12:10:01+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S8 Plus 64Gb</Title>
+		<Description>Samsung Galaxy S8 Plus 64Gb б/у в оригинале, совершенно протестирован, смотрится: пять баллов, imei 356426081466507. Дополнительная информация на фото! (дропшиппинг и др.)</Description>
+		<Price>19999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S8%20Plus/Cj8ICB_2.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
