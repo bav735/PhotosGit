@@ -18382,7 +18382,7 @@
 	</Ad>
 	<Ad>
 		<Id>Ggrcko</Id>
-		<DateEnd>2019-09-28T17:04:43+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -36808,7 +36808,7 @@
 	</Ad>
 	<Ad>
 		<Id>3BY3QG</Id>
-		<DateEnd>2019-10-09T10:48:19+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -38064,7 +38064,7 @@
 	</Ad>
 	<Ad>
 		<Id>9yZbgY</Id>
-		<DateEnd>2019-10-10T08:58:45+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -41670,7 +41670,7 @@
 	</Ad>
 	<Ad>
 		<Id>9yfOtb</Id>
-		<DateEnd>2019-10-11T13:19:18+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -47654,7 +47654,7 @@
 	</Ad>
 	<Ad>
 		<Id>CWCsdG</Id>
-		<DateEnd>2019-10-15T17:06:17+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -47742,7 +47742,7 @@
 	</Ad>
 	<Ad>
 		<Id>5u9RgS</Id>
-		<DateEnd>2019-10-15T17:36:11+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -73825,6 +73825,159 @@
 		<Price>19999</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S8%20Plus/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>mDgi0y</Id>
+		<DateEnd>2019-10-30T12:01:07+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy A5 2016</Title>
+		<Description>Samsung Galaxy A5 2016 б/у не китайский, совершенно исправен, внешний вид: пять баллов, imei 356374082740126. Способы оплаты в фотоленте! (опт и др.)</Description>
+		<Price>8099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20A5%202016/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>V0FoAQ</Id>
+		<DateEnd>2019-10-30T12:01:49+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XS 256Gb</Title>
+		<Description>iPhone XS 256Gb б/у не китайский, полностью без нареканий по работе, смотрится: достойный, imei 357223092909255. Способы покупки на фотографии! (трейд-ин и др.)</Description>
+		<Price>61099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20XS/Cj8ICB_2.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>JVCTFH</Id>
+		<DateEnd>2019-10-30T12:01:50+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy A3 2016</Title>
+		<Description>Samsung Galaxy A3 2016 б/у без ремонтов, абсолютно проверен, по состоянию: достойный, imei 358979079505528. Способы приобретения в фотоленте! (рассрочка и др.)</Description>
+		<Price>6199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20A3%202016/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>CwhkQn</Id>
+		<DateEnd>2019-10-30T12:02:25+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S4</Title>
+		<Description>Samsung Galaxy S4 б/у без ремонтов, абсолютно рабочий, внешне: 5, imei 357512053430461. Возможности покупки в фотоленте! (рассрочка и др.)</Description>
+		<Price>4499</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S4/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>HEyzsD</Id>
+		<DateEnd>2019-10-30T12:03:17+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S6</Title>
+		<Description>Samsung Galaxy S6 б/у оригинал, абсолютно без нареканий по работе, смотрится: 5, imei 359652067005137. Дополнительная информация на фото! (опт и др.)</Description>
+		<Price>7899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S6/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>xHmoRb</Id>
+		<DateEnd>2019-10-30T12:04:08+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S7 32Gb</Title>
+		<Description>Samsung Galaxy S7 32Gb б/у не ремонтировался, абсолютно протестирован, выглядит: отличный, imei 359467078791058. Способы оплаты на фото! (рассрочка и др.)</Description>
+		<Price>10299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S7/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>La5PQ1</Id>
+		<DateEnd>2019-10-30T12:04:47+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy Note 8 64Gb</Title>
+		<Description>Samsung Galaxy Note 8 64Gb б/у в оригинале, совершенно исправен, по состоянию: 5, imei 358505080699925. Возможности покупки на фотографии! (опт и др.)</Description>
+		<Price>23699</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20Note%208/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>vAUyl5</Id>
+		<DateEnd>2019-10-30T12:05:35+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy Note 3</Title>
+		<Description>Samsung Galaxy Note 3 б/у оригинал, абсолютно без нареканий по работе, внешне: достойный, imei 357518058472895. Способы покупки в фотоленте! (опт и др.)</Description>
+		<Price>6699</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20Note%203/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>8M2FEm</Id>
+		<DateEnd>2019-10-30T12:05:37+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone SE</Title>
+		<Description>iPhone SE б/у не китайский, абсолютно проверен, внешний вид: 5, imei 353848088412361. Способы покупки на фото! (трейд-ин и др.)</Description>
+		<Price>8099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20SE/Cj8ICB_31.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
