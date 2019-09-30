@@ -63437,7 +63437,7 @@
 	</Ad>
 	<Ad>
 		<Id>7YvOOf</Id>
-		<DateEnd>2019-10-24T16:38:15+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -68823,7 +68823,7 @@
 	</Ad>
 	<Ad>
 		<Id>QlmfTT</Id>
-		<DateEnd>2019-10-27T12:43:05+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -72221,6 +72221,42 @@
 		<Price>28399</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%207%20Plus%20128Gb/kzn/Cj8ICB_5.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>7FsZss</Id>
+		<DateEnd>2019-10-30T08:22:42+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 16Gb</Title>
+		<Description>iPhone 6 16Gb б/у не ремонтный, совершенно протестирован, по корпусу: пять баллов, imei 352074067913375. Возможности приобретения на фотографии! (опт и др.)</Description>
+		<Price>8899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%206%2016Gb/kzn/Cj8ICB_8.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>orPien</Id>
+		<DateEnd>2019-10-30T08:23:16+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 128Gb</Title>
+		<Description>iPhone 7 128Gb б/у в оригинале, абсолютно исправен, выглядит: отличный, imei 355325086463827. Способы приобретения на фотографии! (опт и др.)</Description>
+		<Price>20599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%207%20128Gb/kzn/Cj8ICB_13.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
