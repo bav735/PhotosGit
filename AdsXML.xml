@@ -52058,7 +52058,7 @@
 	</Ad>
 	<Ad>
 		<Id>7B4Tpu</Id>
-		<DateEnd>2019-10-18T10:22:32+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -76883,6 +76883,23 @@
 		<Price>27899</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208/Cj8ICB_57.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>GgMP22</Id>
+		<DateEnd>2019-10-31T12:59:46+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XS Max 256Gb</Title>
+		<Description>iPhone XS Max 256Gb б/у не ремонтировался, совершенно рабочий, внешний вид: достойный, imei 357265099824946. Дополнительная информация на фотографии! (рассрочка и др.)</Description>
+		<Price>68899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20XS%20Max/Cj8ICB_8.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
