@@ -48919,7 +48919,7 @@
 	</Ad>
 	<Ad>
 		<Id>KMcAfG</Id>
-		<DateEnd>2019-10-16T14:24:39+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -76745,6 +76745,57 @@
 		<Price>61699</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20XS%20Max/Cj8ICB_7.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>FSgomf</Id>
+		<DateEnd>2019-10-31T12:12:29+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S Plus</Title>
+		<Description>iPhone 6S Plus б/у не ремонтный, полностью беспроблемный, внешний вид: пять баллов, imei 358778996286562. Способы покупки на фотографии! (дропшиппинг и др.)</Description>
+		<Price>14999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S%20Plus/Cj8ICB_21.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>NH0oER</Id>
+		<DateEnd>2019-10-31T12:14:36+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi Note 4</Title>
+		<Description>Xiaomi Redmi Note 4 б/у не ремонтный, полностью без нареканий по работе, по корпусу: пять баллов, imei 866037035873392. Способы покупки на фотографии! (кредит и др.)</Description>
+		<Price>6199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%20Note%204/Cj8ICB_13.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>2MBvPb</Id>
+		<DateEnd>2019-10-31T12:15:26+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S7 Edge</Title>
+		<Description>Samsung Galaxy S7 Edge б/у оригинал, абсолютно беспроблемный, выглядит: достойный, imei 359471076194117. Возможности покупки на фотографии! (опт и др.)</Description>
+		<Price>12599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S7%20Edge/Cj8ICB_3.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
