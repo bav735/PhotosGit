@@ -67244,7 +67244,7 @@
 	</Ad>
 	<Ad>
 		<Id>L4iOYC</Id>
-		<DateEnd>2019-10-26T14:22:18+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -76848,6 +76848,41 @@
 		<Price>13499</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206%20Plus/Cj8ICB_34.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>czBSnp</Id>
+		<DateEnd>2019-10-31T12:47:35+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 32Gb</Title>
+		<Description>iPhone 7 32Gb б/у не ремонтный, полностью без нареканий по работе, смотрится: достойный, imei 353841086593910. Способы покупки в фотоленте! (дропшиппинг и др.)</Description>
+		<Price>18399</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%207%2032Gb/kzn/Cj8ICB_16.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>dK50Ql</Id>
+		<DateEnd>2019-10-31T12:50:01+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 64Gb</Title>
+		<Description>iPhone 8 64Gb б/у не реф, совершенно беспроблемный, внешне: на пятерку, imei 356758087389816. Способы приобретения в фотоленте! (дропшиппинг и др.)</Description>
+		<Price>27899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208/Cj8ICB_57.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
