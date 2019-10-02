@@ -67422,7 +67422,7 @@
 	</Ad>
 	<Ad>
 		<Id>mft3Xb</Id>
-		<DateEnd>2019-10-26T15:06:33+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Нет</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -78163,6 +78163,24 @@
 		<Price>5599</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%205S/Cj8ICB_43.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>MF11Zw</Id>
+		<DateEnd>2019-11-01T10:47+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 5</Title>
+		<Description>iPhone 5 б/у в оригинале, совершенно беспроблемный, внешне: пять баллов, imei 013409005995327. Возможности приобретения в фотоленте! (рассрочка и др.)</Description>
+		<Price>3899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/gen/main/Apple%20iPhone%205/kzn/Cj8ICB_14.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
