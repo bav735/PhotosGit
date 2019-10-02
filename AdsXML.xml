@@ -78753,4 +78753,21 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>rpwBhf</Id>
+		<DateEnd>2019-11-01T13:25:59+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Region>Москва</Region>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 5 16Gb</Title>
+		<Description>iPhone 5 16Gb б/у в оригинале, абсолютно протестирован, по состоянию: на пятерку, imei 013414006189573. Способы оплаты на фото! (кредит и др.)</Description>
+		<Price>3899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%205/Cj8ICB_26.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
