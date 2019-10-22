@@ -41152,4 +41152,76 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>zqAZfk</Id>
+		<DateEnd>2019-11-21T13:54:04+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Нижегородская область</Region>
+		<City>Нижний Новгород</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S9 Plus 64Gb</Title>
+		<Description>Б/у оригинал, абсолютно исправен, внешний вид: пять с минусом, imei 352419097642173. Дополнительная информация в фотоленте! (дропшиппинг и др.)</Description>
+		<Price>26499</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S9%20Plus/Cj8ICB_11.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>qu0byZ</Id>
+		<DateEnd>2019-11-21T13:54:58+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Нижегородская область</Region>
+		<City>Нижний Новгород</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi Note 5 32Gb</Title>
+		<Description>Б/у без ремонтов, абсолютно без нареканий по работе, смотрится: пять с минусом, imei 867195030878623. Возможности покупки на фото! (рассрочка и др.)</Description>
+		<Price>8099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%20Note%205/Cj8ICB_16.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>VzpYv3</Id>
+		<DateEnd>2019-11-21T13:56:04+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Нижегородская область</Region>
+		<City>Нижний Новгород</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S 16Gb</Title>
+		<Description>Б/у не ремонтный, абсолютно проверен, внешне: 5-, imei 353314079385918. Дополнительная информация на фото! (рассрочка и др.)</Description>
+		<Price>10099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S/Cj8ICB_194.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>08CP6Y</Id>
+		<DateEnd>2019-11-21T13:57:08+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Нижегородская область</Region>
+		<City>Нижний Новгород</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 5S 64Gb</Title>
+		<Description>Б/у не восстановленный, совершенно проверен, выглядит: 5-, imei 013790007654131. Способы приобретения на фотографии! (дропшиппинг и др.)</Description>
+		<Price>7399</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%205S/Cj8ICB_107.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
