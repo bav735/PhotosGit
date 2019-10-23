@@ -42514,4 +42514,76 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>wM3hnMTZJH2v</Id>
+		<DateEnd>2019-11-22T14:44:22+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Самарская область</Region>
+		<City>Самара</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 6 Pro 32Gb</Title>
+		<Description>Б/у оригинал, полностью протестирован, выглядит: достойный, imei 868585041830796. Способы приобретения в фотоленте! (рассрочка и др.)</Description>
+		<Price>8099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%206%20Pro/Cj8ICB_11.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>3jz6WOSMOqv3</Id>
+		<DateEnd>2019-11-22T14:46:24+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Самарская область</Region>
+		<City>Самара</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 4 Pro 32Gb</Title>
+		<Description>Б/у без ремонтов, абсолютно исправен, внешне: 5-, imei 863285036738089. Способы приобретения в фотоленте! (кредит и др.)</Description>
+		<Price>5999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%204%20Pro/Cj8ICB_7.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>AIjafDLFQ9ur</Id>
+		<DateEnd>2019-11-22T14:47:31+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Самарская область</Region>
+		<City>Самара</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 4X 64Gb</Title>
+		<Description>Б/у оригинал, полностью исправен, внешне: 5-, imei 865738030590045. Способы приобретения на фото! (кредит и др.)</Description>
+		<Price>6999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%204X/Cj8ICB_23.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>dNriPFpoTIml</Id>
+		<DateEnd>2019-11-22T14:48:21+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Самарская область</Region>
+		<City>Самара</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 128Gb</Title>
+		<Description>Б/у в оригинале, абсолютно без нареканий по работе, выглядит: 5-, imei 355325080387642. Способы оплаты на фотографии! (рассрочка и др.)</Description>
+		<Price>19899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207/Cj8ICB_199.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
