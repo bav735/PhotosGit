@@ -43090,4 +43090,94 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>XjR6DVydaxGL</Id>
+		<DateEnd>2019-11-22T15:19:33+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Самарская область</Region>
+		<City>Самара</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi Note 4 64Gb</Title>
+		<Description>Б/у не восстановленный, полностью протестирован, внешний вид: достойный, imei 863263030547228. Способы покупки на фотографии! (в рассрочку и др.)</Description>
+		<Price>5899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%20Note%204/Cj8ICB_42.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>4K8UoAfr3eBf</Id>
+		<DateEnd>2019-11-22T15:20:22+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Самарская область</Region>
+		<City>Самара</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone SE 16Gb</Title>
+		<Description>Б/у без ремонтов, абсолютно рабочий, по состоянию: 5-, imei 355442072993012. Дополнительная информация на фото! (в кредит и др.)</Description>
+		<Price>8399</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20SE/Cj8ICB_119.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>mKhQ4pWz7Vqi</Id>
+		<DateEnd>2019-11-22T15:21:27+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Самарская область</Region>
+		<City>Самара</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 32Gb</Title>
+		<Description>Б/у не ремонтный, абсолютно без нареканий по работе, по корпусу: отличный, imei 359479083009558. Способы покупки на фотографии! (опт и др.)</Description>
+		<Price>9999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206/Cj8ICB_197.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>00Wq6XQGVQcC</Id>
+		<DateEnd>2019-11-22T15:22:28+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Самарская область</Region>
+		<City>Самара</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Mi 8 128Gb</Title>
+		<Description>Б/у не реф, абсолютно проверен, выглядит: пять с минусом, imei 869785035716931. Способы покупки на фото! (кредит и др.)</Description>
+		<Price>17099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Mi%208/Cj8ICB_27.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>nagwCDhB5DRJ</Id>
+		<DateEnd>2019-11-22T15:23:25+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Самарская область</Region>
+		<City>Самара</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S10e 128Gb</Title>
+		<Description>Б/у не ремонтный, абсолютно рабочий, смотрится: отличный, imei 354890105212431. Возможности приобретения на фотографии! (кредит и др.)</Description>
+		<Price>31399</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S10e/Cj8ICB_7.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
