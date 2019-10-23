@@ -42100,4 +42100,94 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>CVl7uJ1qQPCO</Id>
+		<DateEnd>2019-11-22T14:19:22+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Самарская область</Region>
+		<City>Самара</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 256Gb</Title>
+		<Description>Б/у не ремонтный, совершенно проверен, внешний вид: 5-, imei 356709084928353. Возможности покупки на фото! (безнал и др.)</Description>
+		<Price>30899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208/Cj8ICB_122.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>82YSMMQAVDAF</Id>
+		<DateEnd>2019-11-22T14:20:33+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Самарская область</Region>
+		<City>Самара</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S8 64Gb</Title>
+		<Description>Б/у в оригинале, совершенно проверен, по корпусу: 5-, imei 357754087835394. Способы оплаты на фотографии! (безнал и др.)</Description>
+		<Price>17199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S8/Cj8ICB_25.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>KlkiiJ1nrSHt</Id>
+		<DateEnd>2019-11-22T14:21:24+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Самарская область</Region>
+		<City>Самара</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S8 Plus 64Gb</Title>
+		<Description>Б/у оригинал, полностью беспроблемный, выглядит: 5-, imei 359116082561839. Возможности приобретения на фото! (безнал и др.)</Description>
+		<Price>17799</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S8%20Plus/Cj8ICB_14.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>psIZN88mvOE5</Id>
+		<DateEnd>2019-11-22T14:22:20+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Самарская область</Region>
+		<City>Самара</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 5 Plus 64Gb</Title>
+		<Description>Б/у не реф, абсолютно без нареканий по работе, смотрится: достойный, imei 865060038616619. Способы покупки на фото! (рассрочка и др.)</Description>
+		<Price>8299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%205%20Plus/Cj8ICB_14.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>aHEZvS5UFrdB</Id>
+		<DateEnd>2019-11-22T14:23:30+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Самарская область</Region>
+		<City>Самара</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XS 64Gb</Title>
+		<Description>Б/у не реф, полностью без нареканий по работе, по состоянию: 5-, imei 357236098465726. Способы оплаты в фотоленте! (в рассрочку и др.)</Description>
+		<Price>51799</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20XS/Cj8ICB_67.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
