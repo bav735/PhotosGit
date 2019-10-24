@@ -45160,4 +45160,76 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>jTajesPCnOsY</Id>
+		<DateEnd>2019-11-23T18:24:46+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Воронежская область</Region>
+		<City>Воронеж</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 Plus 64Gb</Title>
+		<Description>Б/у без ремонтов, полностью протестирован, внешний вид: отличный, imei 352977097310349. Дополнительная информация на фото! (кредит и др.)</Description>
+		<Price>33099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208%20Plus/Cj8ICB_106.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>WBX3gGqimlLK</Id>
+		<DateEnd>2019-11-23T18:25:38+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Воронежская область</Region>
+		<City>Воронеж</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S Plus 32Gb</Title>
+		<Description>Б/у не восстановленный, абсолютно без нареканий по работе, по корпусу: пять с минусом, imei 353350075812224. Способы покупки в фотоленте! (в кредит и др.)</Description>
+		<Price>16799</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S%20Plus/Cj8ICB_79.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>ixLzLjjXKRIA</Id>
+		<DateEnd>2019-11-23T18:26:45+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Воронежская область</Region>
+		<City>Воронеж</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 5S 64Gb</Title>
+		<Description>Б/у не ремонтировался, абсолютно беспроблемный, по состоянию: достойный, imei 358756052775801. Способы оплаты на фото! (опт и др.)</Description>
+		<Price>7399</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%205S/Cj8ICB_115.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>F5pLOfmoWPEP</Id>
+		<DateEnd>2019-11-23T18:27:39+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Воронежская область</Region>
+		<City>Воронеж</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 4S 32Gb</Title>
+		<Description>Б/у не реф, абсолютно рабочий, смотрится: пять с минусом, imei 013178002922762. Возможности приобретения в фотоленте! (рассрочка и др.)</Description>
+		<Price>3799</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%204S/Cj8ICB_72.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
