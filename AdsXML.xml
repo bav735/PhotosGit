@@ -44062,4 +44062,94 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>R6vjkRIws9WC</Id>
+		<DateEnd>2019-11-23T09:50:18+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Воронежская область</Region>
+		<City>Воронеж</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi Note 3 32Gb</Title>
+		<Description>Б/у не ремонтный, совершенно протестирован, по корпусу: отличный, imei 862534039057455. Способы приобретения на фото! (в рассрочку и др.)</Description>
+		<Price>5699</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%20Note%203/Cj8ICB_29.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>3TGmqUcmtYEu</Id>
+		<DateEnd>2019-11-23T09:51:32+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Воронежская область</Region>
+		<City>Воронеж</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 4S 64Gb</Title>
+		<Description>Б/у не ремонтировался, абсолютно беспроблемный, выглядит: отличный, imei 013052007184159. Дополнительная информация на фотографии! (в рассрочку и др.)</Description>
+		<Price>4199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%204S/Cj8ICB_69.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>ls0h6iXQ75VJ</Id>
+		<DateEnd>2019-11-23T09:52:18+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Воронежская область</Region>
+		<City>Воронеж</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 Plus 128Gb</Title>
+		<Description>Б/у не реф, полностью беспроблемный, внешне: пять с минусом, imei 352062061998674. Способы оплаты в фотоленте! (дропшиппинг и др.)</Description>
+		<Price>16899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206%20Plus/Cj8ICB_90.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>fc4Pl3brZH4n</Id>
+		<DateEnd>2019-11-23T09:53:29+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Воронежская область</Region>
+		<City>Воронеж</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S7 Edge 32Gb</Title>
+		<Description>Б/у в оригинале, совершенно исправен, внешний вид: достойный, imei 355088084352711. Способы приобретения на фотографии! (опт и др.)</Description>
+		<Price>11699</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S7%20Edge/Cj8ICB_16.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>A1DGCJc2kIv5</Id>
+		<DateEnd>2019-11-23T09:54:20+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Воронежская область</Region>
+		<City>Воронеж</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy Note 8 64Gb</Title>
+		<Description>Б/у не ремонтный, полностью беспроблемный, смотрится: пять с минусом, imei 358505086074065. Дополнительная информация на фотографии! (кредит и др.)</Description>
+		<Price>24099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20Note%208/Cj8ICB_10.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
