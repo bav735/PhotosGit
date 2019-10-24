@@ -43810,4 +43810,58 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>dofLg6N6vepC</Id>
+		<DateEnd>2019-11-23T09:35:28+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Воронежская область</Region>
+		<City>Воронеж</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi Note 3 16Gb</Title>
+		<Description>Б/у не ремонтировался, полностью беспроблемный, выглядит: достойный, imei 868029025147646. Дополнительная информация в фотоленте! (в рассрочку и др.)</Description>
+		<Price>5299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%20Note%203/Cj8ICB_28.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>3wjkWNj3rqUP</Id>
+		<DateEnd>2019-11-23T09:36:20+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Воронежская область</Region>
+		<City>Воронеж</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 2 8Gb</Title>
+		<Description>Б/у не ремонтировался, совершенно исправен, внешне: 5-, imei 869631028931428. Дополнительная информация в фотоленте! (в рассрочку и др.)</Description>
+		<Price>2599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%202/Cj8ICB_4.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>JlrFHyAhI4zD</Id>
+		<DateEnd>2019-11-23T09:38:25+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Воронежская область</Region>
+		<City>Воронеж</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S6 32Gb</Title>
+		<Description>Б/у не восстановленный, совершенно без нареканий по работе, по корпусу: отличный, imei 351808071946991. Возможности приобретения в фотоленте! (рассрочка и др.)</Description>
+		<Price>6899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S6/Cj8ICB_12.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
