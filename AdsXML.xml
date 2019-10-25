@@ -45430,4 +45430,94 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>5uqivA2WQM7J</Id>
+		<DateEnd>2019-11-24T10:04:37+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Набережные Челны</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Mi Max 2 32Gb</Title>
+		<Description>Б/у не ремонтировался, полностью проверен, смотрится: достойный, imei 867977037829984. Способы приобретения на фото! (кредит и др.)</Description>
+		<Price>9099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Mi%20Max%202/Cj8ICB_12.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>iSFNsl4eZbUN</Id>
+		<DateEnd>2019-11-24T10:05:29+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Набережные Челны</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XR 64Gb</Title>
+		<Description>Б/у не реф, полностью беспроблемный, по состоянию: достойный, imei 357356098002574. Возможности приобретения на фото! (в рассрочку и др.)</Description>
+		<Price>41199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20XR/Cj8ICB_62.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>AUtdRDl4mgnw</Id>
+		<DateEnd>2019-11-24T10:06:35+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Набережные Челны</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S Plus 32Gb</Title>
+		<Description>Б/у без ремонтов, абсолютно исправен, внешне: пять с минусом, imei 355734077979008. Способы приобретения на фотографии! (дропшиппинг и др.)</Description>
+		<Price>16799</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S%20Plus/Cj8ICB_80.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>2vDLGLV7glqx</Id>
+		<DateEnd>2019-11-24T10:07:28+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Набережные Челны</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S Plus 64Gb</Title>
+		<Description>Б/у оригинал, абсолютно протестирован, смотрится: 5-, imei 358606072544135. Дополнительная информация в фотоленте! (безнал и др.)</Description>
+		<Price>18199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S%20Plus/Cj8ICB_81.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>Fr0rh3qsZ7DR</Id>
+		<DateEnd>2019-11-24T10:08:38+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Набережные Челны</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 Plus 256Gb</Title>
+		<Description>Б/у без ремонтов, полностью беспроблемный, по корпусу: отличный, imei 359175071624123. Дополнительная информация на фотографии! (безнал и др.)</Description>
+		<Price>29899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207%20Plus/Cj8ICB_145.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
