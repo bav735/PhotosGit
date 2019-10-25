@@ -45952,4 +45952,58 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>djs4GQ41SyOL</Id>
+		<DateEnd>2019-11-24T10:39:31+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Набережные Челны</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 128Gb</Title>
+		<Description>Б/у без ремонтов, полностью рабочий, внешне: 5-, imei 359233069285553. Способы приобретения на фотографии! (в кредит и др.)</Description>
+		<Price>11099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206/Cj8ICB_206.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>vgDCvYpuAcXM</Id>
+		<DateEnd>2019-11-24T10:40:31+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Набережные Челны</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S 16Gb</Title>
+		<Description>Б/у оригинал, полностью рабочий, смотрится: отличный, imei 355419077747759. Возможности приобретения на фотографии! (дропшиппинг и др.)</Description>
+		<Price>10099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S/Cj8ICB_206.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>0GTM9rtEhVa3</Id>
+		<DateEnd>2019-11-24T10:42:34+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Набережные Челны</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 Plus 128Gb</Title>
+		<Description>Б/у оригинал, совершенно рабочий, внешний вид: пять с минусом, imei 355354086167808. Способы приобретения в фотоленте! (в кредит и др.)</Description>
+		<Price>27599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207%20Plus/Cj8ICB_147.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
