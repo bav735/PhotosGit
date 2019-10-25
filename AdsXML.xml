@@ -45322,4 +45322,76 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>HQyKZMhjRsiI</Id>
+		<DateEnd>2019-11-24T09:54:35+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Набережные Челны</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Mi Max 2 64Gb</Title>
+		<Description>Б/у без ремонтов, полностью рабочий, по состоянию: пять с минусом, imei 864166031656782. Способы приобретения на фото! (рассрочка и др.)</Description>
+		<Price>9999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Mi%20Max%202/Cj8ICB_11.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>vjfGS6LVN8UO</Id>
+		<DateEnd>2019-11-24T09:55:33+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Набережные Челны</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 3S 16Gb</Title>
+		<Description>Б/у без ремонтов, абсолютно протестирован, внешне: пять с минусом, imei 862584037884194. Возможности приобретения в фотоленте! (опт и др.)</Description>
+		<Price>3999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%203S/Cj8ICB_13.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>vW9MIA7Qgzjz</Id>
+		<DateEnd>2019-11-24T09:56:33+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Набережные Челны</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Mi 9 64Gb</Title>
+		<Description>Б/у не ремонтировался, полностью протестирован, внешний вид: достойный, imei 861305043409748. Способы оплаты на фото! (в рассрочку и др.)</Description>
+		<Price>19899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Mi%209/Cj8ICB_6.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>xuEVsGHLfXwW</Id>
+		<DateEnd>2019-11-24T09:58:33+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Набережные Челны</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S10e 128Gb</Title>
+		<Description>Б/у не ремонтный, абсолютно беспроблемный, смотрится: 5-, imei 354890103600058. Возможности покупки в фотоленте! (кредит и др.)</Description>
+		<Price>31399</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S10e/Cj8ICB_9.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
