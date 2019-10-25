@@ -46672,4 +46672,76 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>nKzQGskK5D5G</Id>
+		<DateEnd>2019-11-24T11:30:43+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Набережные Челны</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 5 Plus 32Gb</Title>
+		<Description>Б/у без ремонтов, полностью протестирован, внешний вид: отличный, imei 868947038862820. Способы покупки на фото! (в рассрочку и др.)</Description>
+		<Price>7799</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%205%20Plus/Cj8ICB_18.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>0uw0sjUqOZOv</Id>
+		<DateEnd>2019-11-24T11:31:33+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Набережные Челны</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 256Gb</Title>
+		<Description>Б/у не ремонтный, совершенно протестирован, по состоянию: 5-, imei 355315080573069. Способы приобретения на фото! (в кредит и др.)</Description>
+		<Price>22599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207/Cj8ICB_211.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>8AcHK3vO8E30</Id>
+		<DateEnd>2019-11-24T11:32:32+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Набережные Челны</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S5 16Gb</Title>
+		<Description>Б/у не реф, абсолютно без нареканий по работе, по состоянию: отличный, imei 353919065731881. Возможности приобретения в фотоленте! (опт и др.)</Description>
+		<Price>4999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S5/Cj8ICB_8.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>roNCTAxLLsba</Id>
+		<DateEnd>2019-11-24T11:33:40+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Набережные Челны</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 4X 64Gb</Title>
+		<Description>Б/у оригинал, абсолютно протестирован, внешний вид: отличный, imei 865738031952434. Возможности покупки в фотоленте! (дропшиппинг и др.)</Description>
+		<Price>6999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%204X/Cj8ICB_31.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
