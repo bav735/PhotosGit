@@ -13020,7 +13020,7 @@
 	</Ad>
 	<Ad>
 		<Id>nPZcjm</Id>
-		<DateEnd>2019-10-30T12:49:50+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -46849,6 +46849,24 @@
 		<Price>62499</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20XS%20Max/Cj8ICB_75.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>lYCKTvRa1XIY</Id>
+		<DateEnd>2019-11-25T11:26:19+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XS 256Gb</Title>
+		<Description>Б/у без ремонтов, совершенно протестирован, выглядит: пять с минусом, imei 357207092168830. Способы оплаты в фотоленте! (в рассрочку и др.)</Description>
+		<Price>58899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20XS/Cj8ICB_74.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
