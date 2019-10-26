@@ -47140,4 +47140,22 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>3BsgATLbONOA</Id>
+		<DateEnd>2019-11-25T19:29:46+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XR 128Gb</Title>
+		<Description>Б/у не ремонтный, совершенно без нареканий по работе, по корпусу: пять с минусом, imei 357363090454688. Возможности приобретения в фотоленте! (в рассрочку и др.)</Description>
+		<Price>45899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20XR/Cj8ICB_66.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
