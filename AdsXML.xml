@@ -49135,7 +49135,7 @@
 	</Ad>
 	<Ad>
 		<Id>AAxfm0Wm3rLS</Id>
-		<DateEnd>2019-11-23T14:28:07+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -51543,6 +51543,25 @@
 		<Price>11199</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S/Cj8ICB_212.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>8VB6mdObttnn</Id>
+		<DateEnd>2019-11-26T15:29:57+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Address>Россия, Тамбовская область, Моршанск, Лесная улица, 7</Address>
+		<Latitude>55.840101</Latitude>
+		<Longitude>48.956531</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 32Gb</Title>
+		<Description>Б/у без ремонтов, совершенно беспроблемный, смотрится: достойный, imei 355330082041353. Способы покупки на фото! (кредит и др.)</Description>
+		<Price>16299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207/Cj8ICB_216.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
