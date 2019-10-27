@@ -47356,4 +47356,22 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>QjVStig8tpEO</Id>
+		<DateEnd>2019-11-26T13:00:24+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Region>Татарстан</Region>
+		<City>Казань</City>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy A3 2017 16Gb</Title>
+		<Description>Б/у без ремонтов, совершенно беспроблемный, смотрится: достойный, imei 356304088157405. Способы приобретения на фото! (опт и др.)</Description>
+		<Price>6499</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20A3%202017/Cj8ICB_6.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
