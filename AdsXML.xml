@@ -52097,4 +52097,23 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>deftqpcVNu0W</Id>
+		<DateEnd>2019-11-27T15:47:59+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.848225</Latitude>
+		<Longitude>48.529086</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 64Gb</Title>
+		<Description>Б/у оригинал, абсолютно исправен, смотрится: отличный, imei 356761086159446. Способы приобретения на фото! (кредит и др.)</Description>
+		<Price>25299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208/Cj8ICB_128.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
