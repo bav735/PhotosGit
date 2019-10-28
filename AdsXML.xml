@@ -26050,7 +26050,7 @@
 	</Ad>
 	<Ad>
 		<Id>kKlGWm</Id>
-		<DateEnd>2019-11-06T13:41:49+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -26848,7 +26848,7 @@
 	</Ad>
 	<Ad>
 		<Id>k2psh5</Id>
-		<DateEnd>2019-11-09T09:06:22+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -29508,7 +29508,7 @@
 	</Ad>
 	<Ad>
 		<Id>Lpqdoh</Id>
-		<DateEnd>2019-11-09T15:23:10+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -43340,7 +43340,7 @@
 	</Ad>
 	<Ad>
 		<Id>IgzRTh</Id>
-		<DateEnd>2019-11-21T08:58:28+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88432072062</ContactPhone>
@@ -51657,6 +51657,82 @@
 		<Price>25799</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208/Cj8ICB_127.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>gDEJLL5zAmDl</Id>
+		<DateEnd>2019-11-27T08:21:56+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.769430</Latitude>
+		<Longitude>37.641042</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 16Gb</Title>
+		<Description>Б/у не ремонтировался, совершенно рабочий, по состоянию: достойный, imei 352067064655866. Дополнительная информация на фото! (в рассрочку и др.)</Description>
+		<Price>9399</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206/Cj8ICB_215.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>Jgmk7RqHOgXc</Id>
+		<DateEnd>2019-11-27T08:22:45+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.751518</Latitude>
+		<Longitude>37.621094</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 64Gb</Title>
+		<Description>Б/у оригинал, абсолютно рабочий, по корпусу: 5-, imei 354411064546196. Способы приобретения на фото! (рассрочка и др.)</Description>
+		<Price>10299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206/Cj8ICB_216.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>uEntXwFgvGIJ</Id>
+		<DateEnd>2019-11-27T08:24:47+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.803540</Latitude>
+		<Longitude>37.521021</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S 64Gb</Title>
+		<Description>Б/у не реф, совершенно беспроблемный, внешне: отличный, imei 353313071765614. Возможности покупки на фотографии! (опт и др.)</Description>
+		<Price>12099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S/Cj8ICB_213.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>wBSWi0vog4my</Id>
+		<DateEnd>2019-11-27T08:25:47+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88432072062</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.840101</Latitude>
+		<Longitude>48.956531</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 64Gb</Title>
+		<Description>Б/у не ремонтировался, полностью беспроблемный, по корпусу: 5-, imei 354444067435208. Способы оплаты в фотоленте! (кредит и др.)</Description>
+		<Price>10299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206/Cj8ICB_217.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
