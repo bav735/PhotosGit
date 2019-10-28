@@ -51869,4 +51869,23 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>4NMOJ7QsNezu</Id>
+		<DateEnd>2019-11-27T08:36:42+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.886684</Latitude>
+		<Longitude>37.613436</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S9 Plus 64Gb</Title>
+		<Description>Б/у не реф, полностью беспроблемный, смотрится: пять с минусом, imei 352420097150076. Возможности приобретения в фотоленте! (дропшиппинг и др.)</Description>
+		<Price>25999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S9%20Plus/Cj8ICB_15.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
