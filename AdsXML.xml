@@ -53541,4 +53541,23 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>DjjLj5cpYBiJ</Id>
+		<DateEnd>2019-11-28T15:31:20+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.848225</Latitude>
+		<Longitude>48.529086</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S 32Gb</Title>
+		<Description>Б/у оригинал, совершенно рабочий, внешне: пять с минусом, imei 355396088262426. Способы покупки на фото! (безнал и др.)</Description>
+		<Price>11199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S/Cj8ICB_219.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
