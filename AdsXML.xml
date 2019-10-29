@@ -40452,7 +40452,7 @@
 	</Ad>
 	<Ad>
 		<Id>BVWSp6</Id>
-		<DateEnd>2019-11-17T21:05:30+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88005516626</ContactPhone>
@@ -53291,6 +53291,25 @@
 		<Price>11799</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20SE/Cj8ICB_135.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>pfe9md8FBkGT</Id>
+		<DateEnd>2019-11-28T08:59:20+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.814645</Latitude>
+		<Longitude>49.098959</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone SE 32Gb</Title>
+		<Description>Б/у не восстановленный, полностью исправен, смотрится: 5-, imei 356606085059669. Способы приобретения на фото! (в кредит и др.)</Description>
+		<Price>9199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20SE/Cj8ICB_136.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
