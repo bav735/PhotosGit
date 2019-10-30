@@ -23751,7 +23751,7 @@
 	</Ad>
 	<Ad>
 		<Id>fZ6SWh</Id>
-		<DateEnd>2019-11-06T08:31:53+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -54735,6 +54735,63 @@
 		<Price>9299</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Mi%20Max%202/Cj8ICB_13.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>bIlWIBlIRxUw</Id>
+		<DateEnd>2019-11-29T13:26:51+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.584776</Latitude>
+		<Longitude>37.621870</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Mi 8 128Gb</Title>
+		<Description>Б/у не ремонтировался, совершенно проверен, смотрится: отличный, imei 869785036957773. Способы покупки на фотографии! (в рассрочку и др.)</Description>
+		<Price>16799</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Mi%208/Cj8ICB_39.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>KuS4JQA8OewK</Id>
+		<DateEnd>2019-11-29T13:27:43+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.886684</Latitude>
+		<Longitude>37.613436</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 5C 16Gb</Title>
+		<Description>Б/у не ремонтный, полностью исправен, выглядит: 5-, imei 358562057712108. Способы приобретения в фотоленте! (безнал и др.)</Description>
+		<Price>4199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%205C/Cj8ICB_29.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>4bQ8Kwjlw8gi</Id>
+		<DateEnd>2019-11-29T13:27:46+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.706011</Latitude>
+		<Longitude>37.622048</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XR 128Gb</Title>
+		<Description>Б/у оригинал, абсолютно проверен, внешний вид: пять с минусом, imei 357367099799423. Дополнительная информация на фото! (в кредит и др.)</Description>
+		<Price>45099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20XR/Cj8ICB_71.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
