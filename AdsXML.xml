@@ -24796,7 +24796,7 @@
 	</Ad>
 	<Ad>
 		<Id>6cKqyS</Id>
-		<DateEnd>2019-11-06T12:08:54+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -28710,7 +28710,7 @@
 	</Ad>
 	<Ad>
 		<Id>sGjaBO</Id>
-		<DateEnd>2019-11-09T15:21:21+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88005516626</ContactPhone>
@@ -53481,6 +53481,63 @@
 		<Price>9199</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206/Cj8ICB_228.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>EIisn6frOqcb</Id>
+		<DateEnd>2019-11-29T12:20:14+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.814645</Latitude>
+		<Longitude>49.098959</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 256Gb</Title>
+		<Description>Б/у в оригинале, абсолютно проверен, выглядит: отличный, imei 356765089798910. Способы приобретения в фотоленте! (кредит и др.)</Description>
+		<Price>31499</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208/Cj8ICB_131.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>3TTuWgJGpjbP</Id>
+		<DateEnd>2019-11-29T12:23:32+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.681431</Latitude>
+		<Longitude>37.532140</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 Plus 256Gb</Title>
+		<Description>Б/у в оригинале, полностью рабочий, выглядит: отличный, imei 353808083967322. Возможности покупки на фото! (в кредит и др.)</Description>
+		<Price>29399</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207%20Plus/Cj8ICB_157.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>qsKWk83vaTi0</Id>
+		<DateEnd>2019-11-29T12:24:18+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.681431</Latitude>
+		<Longitude>37.532140</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi Note 4X 32Gb</Title>
+		<Description>Б/у оригинал, совершенно беспроблемный, внешне: достойный, imei 867307030309448. Возможности покупки в фотоленте! (кредит и др.)</Description>
+		<Price>5699</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%20Note%204X/Cj8ICB_15.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
