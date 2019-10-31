@@ -55232,4 +55232,80 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>CrVMYMujxdiF</Id>
+		<DateEnd>2019-11-30T10:48:37+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>56.245408</Latitude>
+		<Longitude>43.860739</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy A3 2017 16Gb</Title>
+		<Description>Б/у не ремонтировался, абсолютно рабочий, внешне: 5-, imei 356303083117810. Возможности покупки на фото! (опт и др.)</Description>
+		<Price>6499</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20A3%202017/Cj8ICB_7.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>o4DYr4GKkWhf</Id>
+		<DateEnd>2019-11-30T10:49:28+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>56.344365</Latitude>
+		<Longitude>43.857852</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 4A 16Gb</Title>
+		<Description>Б/у оригинал, абсолютно рабочий, по состоянию: 5-, imei 866982037521277. Возможности приобретения на фото! (кредит и др.)</Description>
+		<Price>4099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%204A/Cj8ICB_7.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>I9QdxfjlCrbZ</Id>
+		<DateEnd>2019-11-30T10:50:08+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>56.245408</Latitude>
+		<Longitude>43.860739</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S6 Edge 32Gb</Title>
+		<Description>Б/у оригинал, совершенно исправен, выглядит: отличный, imei 358121062684669. Возможности приобретения в фотоленте! (рассрочка и др.)</Description>
+		<Price>7999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S6%20Edge/Cj8ICB_9.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>TjvrXGTB1mYr</Id>
+		<DateEnd>2019-11-30T10:51:08+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>56.245408</Latitude>
+		<Longitude>43.860739</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy A3 2016 16Gb</Title>
+		<Description>Б/у не ремонтный, полностью без нареканий по работе, внешний вид: 5-, imei 357334074333453. Возможности покупки в фотоленте! (рассрочка и др.)</Description>
+		<Price>4999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20A3%202016/Cj8ICB_6.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
