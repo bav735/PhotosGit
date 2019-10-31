@@ -55384,4 +55384,61 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>nihlOiB0vbjb</Id>
+		<DateEnd>2019-11-30T11:48:30+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>56.344365</Latitude>
+		<Longitude>43.857852</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 4X 16Gb</Title>
+		<Description>Б/у не ремонтировался, абсолютно рабочий, внешне: пять с минусом, imei 865819032836311. Возможности приобретения в фотоленте! (дропшиппинг и др.)</Description>
+		<Price>4299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%204X/Cj8ICB_37.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>RJxLwrYvu0g7</Id>
+		<DateEnd>2019-11-30T11:49:22+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>56.305116</Latitude>
+		<Longitude>44.034525</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy Note 9 128Gb</Title>
+		<Description>Б/у в оригинале, полностью протестирован, по корпусу: пять с минусом, imei 359443099539271. Возможности приобретения на фотографии! (в кредит и др.)</Description>
+		<Price>34599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20Note%209/Cj8ICB_14.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>PGhcU8BuP2k8</Id>
+		<DateEnd>2019-11-30T11:50:15+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>56.305116</Latitude>
+		<Longitude>44.034525</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S6 32Gb</Title>
+		<Description>Б/у без ремонтов, абсолютно проверен, внешний вид: отличный, imei 351808074375271. Способы приобретения на фото! (кредит и др.)</Description>
+		<Price>6699</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S6/Cj8ICB_14.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
