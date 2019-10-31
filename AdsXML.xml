@@ -26525,7 +26525,7 @@
 	</Ad>
 	<Ad>
 		<Id>UWZ1Fg</Id>
-		<DateEnd>2019-11-09T09:38:11+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -55571,6 +55571,25 @@
 		<Price>35599</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208%20Plus/Cj8ICB_120.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>pXzpwm3r82Q0</Id>
+		<DateEnd>2019-11-30T12:23:29+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.803540</Latitude>
+		<Longitude>37.521021</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XS 256Gb</Title>
+		<Description>Б/у оригинал, абсолютно без нареканий по работе, выглядит: отличный, imei 357207097322036. Способы приобретения в фотоленте! (в кредит и др.)</Description>
+		<Price>54599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20XS/Cj8ICB_83.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
