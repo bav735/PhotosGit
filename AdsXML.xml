@@ -55973,4 +55973,61 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>dVHQf488B3HS</Id>
+		<DateEnd>2019-11-30T13:18:34+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.738693</Latitude>
+		<Longitude>37.650641</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S7 Edge 32Gb</Title>
+		<Description>Б/у оригинал, совершенно протестирован, смотрится: достойный, imei 356160078128875. Дополнительная информация в фотоленте! (безнал и др.)</Description>
+		<Price>11499</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S7%20Edge/Cj8ICB_17.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>41yJyKE2jw7s</Id>
+		<DateEnd>2019-11-30T13:19:18+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.697846</Latitude>
+		<Longitude>37.747519</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S9 64Gb</Title>
+		<Description>Б/у не реф, совершенно рабочий, по корпусу: отличный, imei 352712091827349. Способы приобретения в фотоленте! (дропшиппинг и др.)</Description>
+		<Price>23099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S9/Cj8ICB_27.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>j13LHos3hPWL</Id>
+		<DateEnd>2019-11-30T13:22:46+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>56.344365</Latitude>
+		<Longitude>43.857852</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 Plus 256Gb</Title>
+		<Description>Б/у не реф, совершенно протестирован, внешне: достойный, imei 356774086123700. Способы оплаты на фотографии! (безнал и др.)</Description>
+		<Price>35599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208%20Plus/Cj8ICB_121.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
