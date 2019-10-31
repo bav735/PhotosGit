@@ -23903,7 +23903,7 @@
 	</Ad>
 	<Ad>
 		<Id>v5pqEi</Id>
-		<DateEnd>2019-11-06T09:12:51+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -25499,7 +25499,7 @@
 	</Ad>
 	<Ad>
 		<Id>SxHttr</Id>
-		<DateEnd>2019-11-06T15:12:58+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -27266,7 +27266,7 @@
 	</Ad>
 	<Ad>
 		<Id>Hj6vX5</Id>
-		<DateEnd>2019-11-09T10:57:16+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -55039,6 +55039,63 @@
 		<Price>12099</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S/Cj8ICB_229.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>oWEGUNQ4fOzi</Id>
+		<DateEnd>2019-11-30T08:46:53+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.681431</Latitude>
+		<Longitude>37.532140</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 32Gb</Title>
+		<Description>Б/у без ремонтов, абсолютно протестирован, по состоянию: 5-, imei 356678089269362. Способы оплаты на фото! (безнал и др.)</Description>
+		<Price>9699</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206/Cj8ICB_235.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>Ki5b4vealkn4</Id>
+		<DateEnd>2019-11-30T08:48:37+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.751518</Latitude>
+		<Longitude>37.621094</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 5S 16Gb</Title>
+		<Description>Б/у в оригинале, совершенно исправен, внешний вид: пять с минусом, imei 358824059684432. Возможности покупки в фотоленте! (безнал и др.)</Description>
+		<Price>5599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%205S/Cj8ICB_131.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>p94rjAkcYeri</Id>
+		<DateEnd>2019-11-30T08:50:11+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Россия</Address>
+		<Latitude>55.706011</Latitude>
+		<Longitude>37.622048</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 Plus 128Gb</Title>
+		<Description>Б/у оригинал, полностью рабочий, по состоянию: пять с минусом, imei 359218072656890. Возможности приобретения на фотографии! (опт и др.)</Description>
+		<Price>27099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207%20Plus/Cj8ICB_160.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
