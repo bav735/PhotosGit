@@ -57968,4 +57968,23 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>5jwUQu07t4OU</Id>
+		<DateEnd>2019-12-03T10:18:07+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Набережные Челны</Address>
+		<Latitude>55.747246</Latitude>
+		<Longitude>52.415971</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 6 Pro 32Gb</Title>
+		<Description>Б/у не реф, совершенно исправен, по состоянию: 5-, imei 868585041859258. Способы покупки в фотоленте! (безнал и др.)</Description>
+		<Price>7599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%206%20Pro/Cj8ICB_17.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
