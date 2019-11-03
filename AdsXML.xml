@@ -59070,4 +59070,42 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>efvJmDoUatqu</Id>
+		<DateEnd>2019-12-03T13:50:39+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.756260</Latitude>
+		<Longitude>37.691076</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S8 64Gb</Title>
+		<Description>Б/у не реф, совершенно без нареканий по работе, выглядит: 5-, imei 353111098064353. Способы приобретения на фотографии! (в кредит и др.)</Description>
+		<Price>16899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S8/Cj8ICB_30.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>hy7jGKvtjcWY</Id>
+		<DateEnd>2019-12-03T13:52:22+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.697846</Latitude>
+		<Longitude>37.747519</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S10e 128Gb</Title>
+		<Description>Б/у не ремонтный, абсолютно протестирован, внешний вид: достойный, imei 354890103659344. Возможности покупки в фотоленте! (кредит и др.)</Description>
+		<Price>30799</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S10e/Cj8ICB_11.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
