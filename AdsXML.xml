@@ -57797,4 +57797,99 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>t09m5g7X2Dw6</Id>
+		<DateEnd>2019-12-03T09:59:50+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.769430</Latitude>
+		<Longitude>37.641042</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 5S 64Gb</Title>
+		<Description>Б/у не восстановленный, совершенно рабочий, внешне: 5-, imei 013972004850447. Возможности приобретения на фотографии! (опт и др.)</Description>
+		<Price>7199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%205S/Cj8ICB_140.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>gUz3WRFx2m9g</Id>
+		<DateEnd>2019-12-03T10:00:41+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.584776</Latitude>
+		<Longitude>37.621870</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S8 64Gb</Title>
+		<Description>Б/у оригинал, совершенно рабочий, внешний вид: пять с минусом, imei 355987089314180. Способы покупки на фото! (опт и др.)</Description>
+		<Price>16899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S8/Cj8ICB_29.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>ZzZOeSyDCuHf</Id>
+		<DateEnd>2019-12-03T10:01:23+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.756260</Latitude>
+		<Longitude>37.691076</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S10 128Gb</Title>
+		<Description>Б/у в оригинале, абсолютно исправен, внешний вид: пять с минусом, imei 351911103452283. Способы покупки на фото! (рассрочка и др.)</Description>
+		<Price>38199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S10/Cj8ICB_20.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>sXQ7S3mu1O5J</Id>
+		<DateEnd>2019-12-03T10:02:11+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.681431</Latitude>
+		<Longitude>37.532140</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy Note 8 64Gb</Title>
+		<Description>Б/у не реф, абсолютно беспроблемный, смотрится: отличный, imei 358505083828166. Возможности покупки на фотографии! (в кредит и др.)</Description>
+		<Price>23599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20Note%208/Cj8ICB_14.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>Xdw8hySlYeHu</Id>
+		<DateEnd>2019-12-03T10:03:01+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Нижний Новгород</Address>
+		<Latitude>56.245408</Latitude>
+		<Longitude>43.860739</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone SE 32Gb</Title>
+		<Description>Б/у в оригинале, полностью рабочий, смотрится: отличный, imei 356606087038927. Способы приобретения на фото! (в рассрочку и др.)</Description>
+		<Price>9199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20SE/Cj8ICB_150.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
