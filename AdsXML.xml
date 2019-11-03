@@ -8950,7 +8950,7 @@
 	</Ad>
 	<Ad>
 		<Id>pjHBnK</Id>
-		<DateEnd>2019-10-27T13:19:47+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -23447,7 +23447,7 @@
 	</Ad>
 	<Ad>
 		<Id>reaIWY</Id>
-		<DateEnd>2019-11-05T14:30:40+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -27513,7 +27513,7 @@
 	</Ad>
 	<Ad>
 		<Id>V2fFBR</Id>
-		<DateEnd>2019-11-09T11:36:23+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -57623,6 +57623,120 @@
 		<Price>9199</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20SE/Cj8ICB_148.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>JEtFUKkhtLG8</Id>
+		<DateEnd>2019-12-03T09:49:06+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.738728</Latitude>
+		<Longitude>37.586956</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S Plus 16Gb</Title>
+		<Description>Б/у не восстановленный, полностью протестирован, выглядит: 5-, imei 353295073209305. Способы покупки в фотоленте! (в кредит и др.)</Description>
+		<Price>15599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S%20Plus/Cj8ICB_95.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>3Kjx1mRsFXz2</Id>
+		<DateEnd>2019-12-03T09:50:37+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.799985</Latitude>
+		<Longitude>37.726220</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 32Gb</Title>
+		<Description>Б/у в оригинале, полностью рабочий, по корпусу: достойный, imei 356679087199585. Возможности покупки на фото! (рассрочка и др.)</Description>
+		<Price>9699</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206/Cj8ICB_247.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>bNc3W3PaU1XS</Id>
+		<DateEnd>2019-12-03T09:51:32+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.681431</Latitude>
+		<Longitude>37.532140</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi Note 5 64Gb</Title>
+		<Description>Б/у оригинал, совершенно рабочий, по корпусу: достойный, imei 867192033687085. Способы покупки в фотоленте! (в рассрочку и др.)</Description>
+		<Price>9199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%20Note%205/Cj8ICB_28.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>olz5HLeWDxTc</Id>
+		<DateEnd>2019-12-03T09:52:15+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.697846</Latitude>
+		<Longitude>37.747519</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S Plus 128Gb</Title>
+		<Description>Б/у не восстановленный, совершенно без нареканий по работе, смотрится: достойный, imei 353288072845591. Дополнительная информация в фотоленте! (рассрочка и др.)</Description>
+		<Price>18999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S%20Plus/Cj8ICB_96.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>WWXDyJkbg8Px</Id>
+		<DateEnd>2019-12-03T09:53:11+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.799985</Latitude>
+		<Longitude>37.726220</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 4S 16Gb</Title>
+		<Description>Б/у без ремонтов, абсолютно проверен, внешний вид: достойный, imei 013040003435014. Способы приобретения на фотографии! (в кредит и др.)</Description>
+		<Price>3199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%204S/Cj8ICB_87.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>Wk0R5Gm5WE0U</Id>
+		<DateEnd>2019-12-03T09:53:53+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.738728</Latitude>
+		<Longitude>37.586956</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone SE 16Gb</Title>
+		<Description>Б/у не восстановленный, абсолютно рабочий, по состоянию: пять с минусом, imei 359222070786782. Способы покупки в фотоленте! (кредит и др.)</Description>
+		<Price>8299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20SE/Cj8ICB_149.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
