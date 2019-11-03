@@ -58804,4 +58804,42 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>epFQ51H1obI2</Id>
+		<DateEnd>2019-12-03T13:11:22+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Воронеж</Address>
+		<Latitude>51.679857</Latitude>
+		<Longitude>39.161778</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 64Gb</Title>
+		<Description>Б/у без ремонтов, совершенно без нареканий по работе, выглядит: пять с минусом, imei 354447069134042. Дополнительная информация на фото! (рассрочка и др.)</Description>
+		<Price>10299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206/Cj8ICB_260.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>dkYZ7yWobtuU</Id>
+		<DateEnd>2019-12-03T13:12:17+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Воронеж</Address>
+		<Latitude>51.740785</Latitude>
+		<Longitude>39.309100</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 32Gb</Title>
+		<Description>Б/у не ремонтировался, абсолютно протестирован, внешне: пять с минусом, imei 359207079509079. Способы оплаты в фотоленте! (безнал и др.)</Description>
+		<Price>16099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207/Cj8ICB_245.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
