@@ -58766,4 +58766,42 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>DqNcT3wiHYAL</Id>
+		<DateEnd>2019-12-03T13:04:42+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.697846</Latitude>
+		<Longitude>37.747519</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S6 32Gb</Title>
+		<Description>Б/у в оригинале, полностью беспроблемный, выглядит: 5-, imei 352148075332552. Способы покупки на фотографии! (опт и др.)</Description>
+		<Price>6699</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S6/Cj8ICB_15.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>fSdSBcameiqR</Id>
+		<DateEnd>2019-12-03T13:05:42+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.706011</Latitude>
+		<Longitude>37.622048</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy Note 9 128Gb</Title>
+		<Description>Б/у не восстановленный, абсолютно исправен, внешне: достойный, imei 359444099819218. Дополнительная информация на фото! (в кредит и др.)</Description>
+		<Price>34599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20Note%209/Cj8ICB_15.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
