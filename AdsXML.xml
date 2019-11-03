@@ -23770,7 +23770,7 @@
 	</Ad>
 	<Ad>
 		<Id>lGeOm2</Id>
-		<DateEnd>2019-11-06T08:33:54+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -58725,6 +58725,44 @@
 		<Price>16099</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207/Cj8ICB_244.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>zpskjUbO5cA2</Id>
+		<DateEnd>2019-12-03T13:00:37+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.681431</Latitude>
+		<Longitude>37.532140</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Mi 8 Lite 64Gb</Title>
+		<Description>Б/у оригинал, полностью протестирован, по корпусу: отличный, imei 868453048520326. Способы приобретения на фотографии! (опт и др.)</Description>
+		<Price>10299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Mi%208%20Lite/Cj8ICB_20.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>wD0qaiedFdDI</Id>
+		<DateEnd>2019-12-03T13:01:22+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.747149</Latitude>
+		<Longitude>37.829321</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XR 64Gb</Title>
+		<Description>Б/у оригинал, абсолютно беспроблемный, внешне: 5-, imei 357371096895812. Способы приобретения на фотографии! (дропшиппинг и др.)</Description>
+		<Price>40499</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20XR/Cj8ICB_77.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
