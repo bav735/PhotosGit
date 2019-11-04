@@ -22592,7 +22592,7 @@
 	</Ad>
 	<Ad>
 		<Id>lGeOm2</Id>
-		<DateEnd>2019-11-06T08:33:54+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -34334,7 +34334,7 @@
 	</Ad>
 	<Ad>
 		<Id>0KBkwI</Id>
-		<DateEnd>2019-11-14T12:03:39+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -57965,6 +57965,63 @@
 		<Price>9199</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20SE/Cj8ICB_153.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>qPY6pI97uKsK</Id>
+		<DateEnd>2019-12-04T09:52:44+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.756927</Latitude>
+		<Longitude>37.387241</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 64Gb</Title>
+		<Description>Б/у оригинал, совершенно протестирован, смотрится: пять с минусом, imei 359498087527738. Возможности приобретения на фото! (рассрочка и др.)</Description>
+		<Price>25299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208/Cj8ICB_147.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>2jn8PyjnqXBi</Id>
+		<DateEnd>2019-12-04T09:53:33+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.738728</Latitude>
+		<Longitude>37.586956</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 6 Pro 64Gb</Title>
+		<Description>Б/у не восстановленный, совершенно без нареканий по работе, внешне: отличный, imei 865041048829673. Возможности приобретения в фотоленте! (дропшиппинг и др.)</Description>
+		<Price>8599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%206%20Pro/Cj8ICB_18.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>ZRcLRjpa1w2i</Id>
+		<DateEnd>2019-12-04T09:55:13+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.751518</Latitude>
+		<Longitude>37.621094</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XR 64Gb</Title>
+		<Description>Б/у не восстановленный, полностью рабочий, выглядит: отличный, imei 357356092668230. Способы приобретения на фотографии! (безнал и др.)</Description>
+		<Price>40499</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20XR/Cj8ICB_77.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
