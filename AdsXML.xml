@@ -33346,7 +33346,7 @@
 	</Ad>
 	<Ad>
 		<Id>JBuwGf</Id>
-		<DateEnd>2019-11-14T09:06:29+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -57794,6 +57794,25 @@
 		<Price>5599</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%205S/Cj8ICB_142.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>PsMK1M62tekx</Id>
+		<DateEnd>2019-12-04T09:06:48+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.706011</Latitude>
+		<Longitude>37.622048</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone X 64Gb</Title>
+		<Description>Б/у не ремонтный, полностью рабочий, выглядит: отличный, imei 353051093379523. Возможности приобретения на фотографии! (безнал и др.)</Description>
+		<Price>41299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20X/Cj8ICB_157.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
