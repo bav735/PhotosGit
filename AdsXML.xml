@@ -59450,4 +59450,42 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>MwVPeMKsljGA</Id>
+		<DateEnd>2019-12-07T15:18:45+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Набережные Челны</Address>
+		<Latitude>55.747246</Latitude>
+		<Longitude>52.415971</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy Note 4 32Gb</Title>
+		<Description>Б/у не ремонтировался, полностью беспроблемный, выглядит: отличный, imei 357076062490544. Возможности приобретения на фотографии! (рассрочка и др.)</Description>
+		<Price>6899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20Note%204/Cj8ICB_11.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>PW4iy5VgrYsP</Id>
+		<DateEnd>2019-12-07T15:19:37+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Набережные Челны</Address>
+		<Latitude>55.706466</Latitude>
+		<Longitude>52.469501</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 5S 32Gb</Title>
+		<Description>Б/у без ремонтов, совершенно беспроблемный, смотрится: пять с минусом, imei 013972003246688. Способы покупки в фотоленте! (дропшиппинг и др.)</Description>
+		<Price>6799</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%205S/Cj8ICB_147.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
