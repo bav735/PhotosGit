@@ -49629,7 +49629,7 @@
 	</Ad>
 	<Ad>
 		<Id>2RzLMgF7zJT4</Id>
-		<DateEnd>2019-11-26T16:34:54+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88005516626</ContactPhone>
@@ -58896,6 +58896,25 @@
 		<Price>4099</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%204A/Cj8ICB_8.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>1uRI3xI7YXUr</Id>
+		<DateEnd>2019-12-07T12:23:07+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.796959</Latitude>
+		<Longitude>49.198475</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 64Gb</Title>
+		<Description>Б/у не ремонтировался, абсолютно рабочий, выглядит: отличный, imei 354408062958654. Дополнительная информация на фотографии! (кредит и др.)</Description>
+		<Price>10299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206/Cj8ICB_264.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
