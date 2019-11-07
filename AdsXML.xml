@@ -31332,7 +31332,7 @@
 	</Ad>
 	<Ad>
 		<Id>oiScJ5</Id>
-		<DateEnd>2019-11-12T13:51:17+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88005516626</ContactPhone>
@@ -58554,6 +58554,82 @@
 		<Price>16499</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S%20Plus/Cj8ICB_101.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>jDGzTb5NRmgy</Id>
+		<DateEnd>2019-12-07T11:25:31+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.867813</Latitude>
+		<Longitude>49.122163</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 Plus 32Gb</Title>
+		<Description>Б/у не ремонтировался, абсолютно без нареканий по работе, внешне: пять с минусом, imei 353817083091629. Способы оплаты на фотографии! (опт и др.)</Description>
+		<Price>24699</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207%20Plus/Cj8ICB_172.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>otHdSRJeEPH0</Id>
+		<DateEnd>2019-12-07T11:28:47+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Самара</Address>
+		<Latitude>53.159563</Latitude>
+		<Longitude>50.086636</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XS 64Gb</Title>
+		<Description>Б/у не ремонтировался, совершенно протестирован, выглядит: отличный, imei 357236098008070. Дополнительная информация в фотоленте! (рассрочка и др.)</Description>
+		<Price>50799</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20XS/Cj8ICB_91.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>SQhXPnmx4oQz</Id>
+		<DateEnd>2019-12-07T11:29:32+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Воронеж</Address>
+		<Latitude>51.600344</Latitude>
+		<Longitude>39.235879</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone SE 32Gb</Title>
+		<Description>Б/у не ремонтировался, совершенно без нареканий по работе, по состоянию: достойный, imei 356613084052521. Дополнительная информация в фотоленте! (в кредит и др.)</Description>
+		<Price>9199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%20SE/Cj8ICB_156.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>7PvzsDrkzfx8</Id>
+		<DateEnd>2019-12-07T11:30:22+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Воронеж</Address>
+		<Latitude>51.740785</Latitude>
+		<Longitude>39.309100</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S 32Gb</Title>
+		<Description>Б/у не реф, абсолютно рабочий, смотрится: пять с минусом, imei 355399080553834. Способы оплаты на фото! (дропшиппинг и др.)</Description>
+		<Price>11199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S/Cj8ICB_251.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
