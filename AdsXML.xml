@@ -59488,4 +59488,42 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>V04kiAKeXCdy</Id>
+		<DateEnd>2019-12-07T15:24:45+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Набережные Челны</Address>
+		<Latitude>55.706466</Latitude>
+		<Longitude>52.469501</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 4S 64Gb</Title>
+		<Description>Б/у не ремонтный, полностью исправен, выглядит: пять с минусом, imei 013181009458368. Возможности покупки в фотоленте! (дропшиппинг и др.)</Description>
+		<Price>4099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%204S/Cj8ICB_90.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>mxej12zbVtMo</Id>
+		<DateEnd>2019-12-07T15:25:35+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Набережные Челны</Address>
+		<Latitude>55.706466</Latitude>
+		<Longitude>52.469501</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S10 Plus 128Gb</Title>
+		<Description>Б/у не ремонтный, полностью исправен, внешне: пять с минусом, imei 354652101144715. Возможности покупки на фото! (безнал и др.)</Description>
+		<Price>41499</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Samsung%20Galaxy%20S10%20Plus/Cj8ICB_12.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
