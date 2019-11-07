@@ -29679,7 +29679,7 @@
 	</Ad>
 	<Ad>
 		<Id>wkF2Vf</Id>
-		<DateEnd>2019-11-11T09:12:42+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>89584983393</ContactPhone>
@@ -51605,7 +51605,7 @@
 	</Ad>
 	<Ad>
 		<Id>CrMTLvJJsGXD</Id>
-		<DateEnd>2019-11-28T15:48:23+03:00</DateEnd>
+		<DateEnd>2019-02-20T08:44:44+03:00</DateEnd>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор</ManagerName>
 		<ContactPhone>88005516626</ContactPhone>
@@ -58687,6 +58687,82 @@
 		<Price>2799</Price>
 		<Images>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%204S/Cj8ICB_89.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>w3Y3kBqXbNLS</Id>
+		<DateEnd>2019-12-07T11:42:23+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.768494</Latitude>
+		<Longitude>37.597793</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 3S 16Gb</Title>
+		<Description>Б/у не восстановленный, абсолютно беспроблемный, выглядит: 5-, imei 862584030486591. Дополнительная информация на фото! (в рассрочку и др.)</Description>
+		<Price>3799</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%203S/Cj8ICB_18.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>IbrYrwnleMGJ</Id>
+		<DateEnd>2019-12-07T11:43+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.867813</Latitude>
+		<Longitude>49.122163</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 32Gb</Title>
+		<Description>Б/у оригинал, абсолютно рабочий, по состоянию: достойный, imei 359205070265519. Способы покупки на фотографии! (рассрочка и др.)</Description>
+		<Price>16099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%207/Cj8ICB_251.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>ioR97vvjGWGV</Id>
+		<DateEnd>2019-12-07T11:43:35+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.768494</Latitude>
+		<Longitude>37.597793</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S 64Gb</Title>
+		<Description>Б/у не восстановленный, полностью проверен, смотрится: отличный, imei 355767072445419. Дополнительная информация в фотоленте! (опт и др.)</Description>
+		<Price>12099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206S/Cj8ICB_253.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>9OTYHnq2MwFB</Id>
+		<DateEnd>2019-12-07T11:44:12+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.738728</Latitude>
+		<Longitude>37.586956</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi Note 5 64Gb</Title>
+		<Description>Б/у в оригинале, полностью беспроблемный, выглядит: отличный, imei 867192037865752. Способы покупки на фотографии! (кредит и др.)</Description>
+		<Price>9199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Xiaomi%20Redmi%20Note%205/Cj8ICB_29.jpg"/>
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
