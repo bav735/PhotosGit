@@ -59260,4 +59260,61 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>2h338pEPMdEi</Id>
+		<DateEnd>2019-12-07T13:40:35+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Нижний Новгород</Address>
+		<Latitude>56.303304</Latitude>
+		<Longitude>43.925537</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 Plus 64Gb</Title>
+		<Description>Б/у не ремонтный, совершенно проверен, по состоянию: 5-, imei 352977099378526. Способы приобретения на фотографии! (кредит и др.)</Description>
+		<Price>31199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%208%20Plus/Cj8ICB_128.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>KCw5oIuWTx66</Id>
+		<DateEnd>2019-12-07T13:41:21+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Самара</Address>
+		<Latitude>53.256104</Latitude>
+		<Longitude>50.271174</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 5S 32Gb</Title>
+		<Description>Б/у не ремонтировался, абсолютно без нареканий по работе, по корпусу: 5-, imei 357993054680322. Возможности покупки на фото! (дропшиппинг и др.)</Description>
+		<Price>6799</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%205S/Cj8ICB_146.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>Spg1AbI445uv</Id>
+		<DateEnd>2019-12-07T13:43:03+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Самара</Address>
+		<Latitude>53.256104</Latitude>
+		<Longitude>50.271174</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 32Gb</Title>
+		<Description>Б/у оригинал, совершенно проверен, внешне: достойный, imei 356680081532557. Способы приобретения на фотографии! (рассрочка и др.)</Description>
+		<Price>9699</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/by/Apple%20iPhone%206/Cj8ICB_267.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
