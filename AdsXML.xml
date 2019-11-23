@@ -62129,4 +62129,42 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>A1laHNtpojxw</Id>
+		<DateEnd>2019-12-23T12:53:18+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Санкт-Петербург</Address>
+		<Latitude>59.843230</Latitude>
+		<Longitude>30.207952</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 Plus 64Gb</Title>
+		<Description><![CDATA[<p>Статус: восстановленный до нового<br>Цвет: Space Gray<br>Рынок: A1522<br>Гарантия: 1 год</p><p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в рассрочку от 10+ банков до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию по РФ, аналогичную гарантии производителя<br>- самовывоз и доставку товара по РФ с оплатой по факту<br>- дропшиппинг и опт по РФ на лучших условиях в РФ</p><p>Звоните и пишите 9:00-21:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>12199</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6Plus/SpaceGray/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>uqciykI7gOJe</Id>
+		<DateEnd>2019-12-23T12:57:12+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.769430</Latitude>
+		<Longitude>37.641042</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 Plus 128Gb</Title>
+		<Description><![CDATA[<p>Статус: восстановленный до нового<br>Цвет: Space Gray<br>Рынок: A1524<br>Гарантия: 1 год</p><p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в рассрочку от 10+ банков до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию по РФ, аналогичную гарантии производителя<br>- самовывоз и доставку товара по РФ с оплатой по факту<br>- дропшиппинг и опт по РФ на лучших условиях в РФ</p><p>Звоните и пишите 9:00-21:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>13299</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6Plus/SpaceGray/Cj8ICB_2.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
