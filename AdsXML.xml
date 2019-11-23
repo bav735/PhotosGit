@@ -63307,4 +63307,42 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>T9tL7bV7qYYI</Id>
+		<DateEnd>2019-12-23T15:58:53+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Нижний Новгород</Address>
+		<Latitude>56.305116</Latitude>
+		<Longitude>44.034525</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 Plus 256Gb</Title>
+		<Description><![CDATA[<p>Статус: новый неактивированный<br>Цвет: Space Gray<br>Рынок: A1864<br>Гарантия: 2 года</p><p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в рассрочку от 10+ банков до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию по РФ, аналогичную гарантии производителя<br>- самовывоз и доставку товара по РФ с оплатой по факту<br>- дропшиппинг и опт по РФ на лучших условиях в РФ</p><p>Звоните и пишите 9:00-21:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>44899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/8Plus/SpaceGray/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>KopZsS3yNvs7</Id>
+		<DateEnd>2019-12-23T16:00:16+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.796959</Latitude>
+		<Longitude>49.198475</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 Plus 256Gb</Title>
+		<Description><![CDATA[<p>Статус: новый неактивированный<br>Цвет: Red<br>Рынок: A1897<br>Гарантия: 2 года</p><p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в рассрочку от 10+ банков до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию по РФ, аналогичную гарантии производителя<br>- самовывоз и доставку товара по РФ с оплатой по факту<br>- дропшиппинг и опт по РФ на лучших условиях в РФ</p><p>Звоните и пишите 9:00-21:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>44899</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/8Plus/Red/Cj8ICB_5.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
