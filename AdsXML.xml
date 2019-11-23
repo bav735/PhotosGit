@@ -62832,4 +62832,42 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>XCL8sOJaori5</Id>
+		<DateEnd>2019-12-23T14:43:51+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.886684</Latitude>
+		<Longitude>37.613436</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 256Gb</Title>
+		<Description><![CDATA[<p>Статус: восстановленный до нового<br>Цвет: Jet Black<br>Рынок: A1660<br>Гарантия: 1 год</p><p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в рассрочку от 10+ банков до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию по РФ, аналогичную гарантии производителя<br>- самовывоз и доставку товара по РФ с оплатой по факту<br>- дропшиппинг и опт по РФ на лучших условиях в РФ</p><p>Звоните и пишите 9:00-21:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>16999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/JetBlack/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>d7KeOvVO5SwX</Id>
+		<DateEnd>2019-12-23T14:45:17+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Санкт-Петербург</Address>
+		<Latitude>60.032956</Latitude>
+		<Longitude>30.321308</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 256Gb</Title>
+		<Description><![CDATA[<p>Статус: восстановленный до нового<br>Цвет: Matte Black<br>Рынок: A1779<br>Гарантия: 1 год</p><p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в рассрочку от 10+ банков до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию по РФ, аналогичную гарантии производителя<br>- самовывоз и доставку товара по РФ с оплатой по факту<br>- дропшиппинг и опт по РФ на лучших условиях в РФ</p><p>Звоните и пишите 9:00-21:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>16999</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/MatteBlack/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
