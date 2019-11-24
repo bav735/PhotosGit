@@ -64903,4 +64903,42 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>mSfHC3K4aRd6</Id>
+		<DateEnd>2019-12-24T15:08:28+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.747149</Latitude>
+		<Longitude>37.829321</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 11 64Gb</Title>
+		<Description><![CDATA[<p>Статус: новый неактивированный<br>Цвет: Purple<br>Рынок: A2221<br>Гарантия: 2 года</p><p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в рассрочку от 10+ банков до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию по РФ, аналогичную гарантии производителя<br>- самовывоз и доставку товара по РФ с оплатой по факту<br>- дропшиппинг и опт по РФ на лучших условиях в РФ</p><p>Звоните и пишите 9:00-21:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>56099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11/Purple/Cj8ICB_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>zCSJkC13iHuj</Id>
+		<DateEnd>2019-12-24T15:09:54+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Санкт-Петербург</Address>
+		<Latitude>59.845436</Latitude>
+		<Longitude>30.456296</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 11 64Gb</Title>
+		<Description><![CDATA[<p>Статус: новый неактивированный<br>Цвет: Green<br>Рынок: A2223<br>Гарантия: 2 года</p><p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в рассрочку от 10+ банков до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию по РФ, аналогичную гарантии производителя<br>- самовывоз и доставку товара по РФ с оплатой по факту<br>- дропшиппинг и опт по РФ на лучших условиях в РФ</p><p>Звоните и пишите 9:00-21:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>56099</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11/Green/Cj8ICB_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add3_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
