@@ -67544,4 +67544,23 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add4_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>cjmnskkfJyIz</Id>
+		<DateEnd>2019-12-26T21:33:11+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Москва</Address>
+		<Latitude>55.584776</Latitude>
+		<Longitude>37.621870</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 32Gb</Title>
+		<Description><![CDATA[<p>Статус: новый неактивированный</p><p>Цвет: Matte Black</p><p>Рынок: A1778</p><p>Гарантия: 2 года</p><p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:</p><p>– наличными и по карте</p><p>– в рассрочку от 10+ банков до 36 мес</p><p>– по трейд-ин (обмен и выкуп)</p><p>– через р/с юрлица</p><p>Только мы предоставляем:</p><p>- гарантию по РФ, аналогичную гарантии производителя</p><p>- самовывоз и доставку товара по РФ с оплатой по факту</p><p>- дропшиппинг и опт по РФ на лучших условиях в РФ</p><p>Звоните и пишите 9:00-21:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>24599</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/7/MatteBlack/Cj8ICB_3.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add4_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
