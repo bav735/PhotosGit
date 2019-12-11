@@ -21051,4 +21051,23 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add4_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>BXK7NANVlXPl</Id>
+		<DateEnd>2020-01-10T14:30:57+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Оператор</ManagerName>
+		<ContactPhone>88005516626</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.840101</Latitude>
+		<Longitude>48.956531</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XS 256Gb</Title>
+		<Description><![CDATA[<p>Статус: новый неактивированный</p><p>Цвет: Gold</p><p>Рынок: A2099</p><p>Гарантия: 2 года</p><p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:</p><p>– наличными и по карте</p><p>– в рассрочку от 10+ банков до 36 мес</p><p>– по трейд-ин (обмен и выкуп)</p><p>– через р/с юрлица</p><p>Только мы предоставляем:</p><p>- гарантию по РФ, аналогичную гарантии производителя</p><p>- самовывоз и доставку товара по РФ с оплатой по факту</p><p>- дропшиппинг и опт по РФ на лучших условиях в РФ</p><p>Звоните и пишите 9:00-21:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>62399</Price>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/XS/Gold/GVPgUg43tDXw_7.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add4_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
