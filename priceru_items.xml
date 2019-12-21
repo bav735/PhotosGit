@@ -4,8 +4,8 @@
 	<company>AMOLED: сеть магазинов и сервисных центров</company>
 	<url>https://amo-led.ru/</url>
 	<offers>
-		<offer id="oJK7Xi1jGGKJ" available="true">
-			<id>oJK7Xi1jGGKJ</id>
+		<offer id="sIIUpGSt3leI" available="true">
+			<id>sIIUpGSt3leI</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -27,8 +27,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="YhcpJaoTdQna" available="true">
-			<id>YhcpJaoTdQna</id>
+		<offer id="1gmcMUiDqvKs" available="true">
+			<id>1gmcMUiDqvKs</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -50,8 +50,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="1uWhZMYMoYK1" available="true">
-			<id>1uWhZMYMoYK1</id>
+		<offer id="AMscAkQNW628" available="true">
+			<id>AMscAkQNW628</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -73,8 +73,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="6IEQbMqW499B" available="true">
-			<id>6IEQbMqW499B</id>
+		<offer id="EcDGW6qtQcuF" available="true">
+			<id>EcDGW6qtQcuF</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -96,77 +96,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="iweWfftwvpPn" available="true">
-			<id>iweWfftwvpPn</id>
-			<available>true</available>
-			<delivery>true</delivery>
-			<pickup>false</pickup>
-			<store>false</store>
-			<url>https://amo-led.ru/product/apple_iphone_6_16gb_new</url>
-			<vendor>Apple</vendor>
-			<name>Apple iPhone 6 16Gb Gold новый</name>
-			<category>Мобильные телефоны</category>
-			<price>13499</price>
-			<oldprice>15200</oldprice>
-			<currencyId>RUR</currencyId>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/Gold/img.jpg</picture>
-			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
-			<param></param>
-			<sales_notes></sales_notes>
-			<warranty>от производителя</warranty>
-			<country_of_origin></country_of_origin>
-			<barcode></barcode>
-			<bid></bid>
-			<cbid></cbid>
-		</offer>
-		<offer id="RxvRwF9GQxY1" available="true">
-			<id>RxvRwF9GQxY1</id>
-			<available>true</available>
-			<delivery>true</delivery>
-			<pickup>false</pickup>
-			<store>false</store>
-			<url>https://amo-led.ru/product/apple_iphone_6_16gb_new</url>
-			<vendor>Apple</vendor>
-			<name>Apple iPhone 6 16Gb Silver новый</name>
-			<category>Мобильные телефоны</category>
-			<price>13499</price>
-			<oldprice>15200</oldprice>
-			<currencyId>RUR</currencyId>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/Silver/img.jpg</picture>
-			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
-			<param></param>
-			<sales_notes></sales_notes>
-			<warranty>от производителя</warranty>
-			<country_of_origin></country_of_origin>
-			<barcode></barcode>
-			<bid></bid>
-			<cbid></cbid>
-		</offer>
-		<offer id="qOovgVCdJ8NM" available="true">
-			<id>qOovgVCdJ8NM</id>
-			<available>true</available>
-			<delivery>true</delivery>
-			<pickup>false</pickup>
-			<store>false</store>
-			<url>https://amo-led.ru/product/apple_iphone_6_16gb_new</url>
-			<vendor>Apple</vendor>
-			<name>Apple iPhone 6 16Gb Space Gray новый</name>
-			<category>Мобильные телефоны</category>
-			<price>13499</price>
-			<oldprice>15200</oldprice>
-			<currencyId>RUR</currencyId>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/SpaceGray/img.jpg</picture>
-			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
-			<param></param>
-			<sales_notes></sales_notes>
-			<warranty>от производителя</warranty>
-			<country_of_origin></country_of_origin>
-			<barcode></barcode>
-			<bid></bid>
-			<cbid></cbid>
-		</offer>
-		<offer id="o8Q9kPGIq3ib" available="true">
-			<id>o8Q9kPGIq3ib</id>
+		<offer id="gZi2CI6ZCdcE" available="true">
+			<id>gZi2CI6ZCdcE</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -188,8 +119,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="P2OLeHvazoHb" available="true">
-			<id>P2OLeHvazoHb</id>
+		<offer id="O3reBjO4QDNj" available="true">
+			<id>O3reBjO4QDNj</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -211,8 +142,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="P9nLy6mUFYGl" available="true">
-			<id>P9nLy6mUFYGl</id>
+		<offer id="ajq9zJKSQXz6" available="true">
+			<id>ajq9zJKSQXz6</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -234,100 +165,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="en0bF7VzHyBn" available="true">
-			<id>en0bF7VzHyBn</id>
-			<available>true</available>
-			<delivery>true</delivery>
-			<pickup>false</pickup>
-			<store>false</store>
-			<url>https://amo-led.ru/product/apple_iphone_6s_16gb_new</url>
-			<vendor>Apple</vendor>
-			<name>Apple iPhone 6S 16Gb Gold новый</name>
-			<category>Мобильные телефоны</category>
-			<price>15799</price>
-			<oldprice>17700</oldprice>
-			<currencyId>RUR</currencyId>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Gold/img.jpg</picture>
-			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
-			<param></param>
-			<sales_notes></sales_notes>
-			<warranty>от производителя</warranty>
-			<country_of_origin></country_of_origin>
-			<barcode></barcode>
-			<bid></bid>
-			<cbid></cbid>
-		</offer>
-		<offer id="u3Zlkc8uFcIW" available="true">
-			<id>u3Zlkc8uFcIW</id>
-			<available>true</available>
-			<delivery>true</delivery>
-			<pickup>false</pickup>
-			<store>false</store>
-			<url>https://amo-led.ru/product/apple_iphone_6s_16gb_new</url>
-			<vendor>Apple</vendor>
-			<name>Apple iPhone 6S 16Gb Rose Gold новый</name>
-			<category>Мобильные телефоны</category>
-			<price>15799</price>
-			<oldprice>17700</oldprice>
-			<currencyId>RUR</currencyId>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/RoseGold/img.jpg</picture>
-			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
-			<param></param>
-			<sales_notes></sales_notes>
-			<warranty>от производителя</warranty>
-			<country_of_origin></country_of_origin>
-			<barcode></barcode>
-			<bid></bid>
-			<cbid></cbid>
-		</offer>
-		<offer id="0LNb1mUvIxtE" available="true">
-			<id>0LNb1mUvIxtE</id>
-			<available>true</available>
-			<delivery>true</delivery>
-			<pickup>false</pickup>
-			<store>false</store>
-			<url>https://amo-led.ru/product/apple_iphone_6s_16gb_new</url>
-			<vendor>Apple</vendor>
-			<name>Apple iPhone 6S 16Gb Silver новый</name>
-			<category>Мобильные телефоны</category>
-			<price>15799</price>
-			<oldprice>17700</oldprice>
-			<currencyId>RUR</currencyId>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Silver/img.jpg</picture>
-			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
-			<param></param>
-			<sales_notes></sales_notes>
-			<warranty>от производителя</warranty>
-			<country_of_origin></country_of_origin>
-			<barcode></barcode>
-			<bid></bid>
-			<cbid></cbid>
-		</offer>
-		<offer id="ltYWzc4ZiO0b" available="true">
-			<id>ltYWzc4ZiO0b</id>
-			<available>true</available>
-			<delivery>true</delivery>
-			<pickup>false</pickup>
-			<store>false</store>
-			<url>https://amo-led.ru/product/apple_iphone_6s_16gb_new</url>
-			<vendor>Apple</vendor>
-			<name>Apple iPhone 6S 16Gb Space Gray новый</name>
-			<category>Мобильные телефоны</category>
-			<price>15799</price>
-			<oldprice>17700</oldprice>
-			<currencyId>RUR</currencyId>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/SpaceGray/img.jpg</picture>
-			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
-			<param></param>
-			<sales_notes></sales_notes>
-			<warranty>от производителя</warranty>
-			<country_of_origin></country_of_origin>
-			<barcode></barcode>
-			<bid></bid>
-			<cbid></cbid>
-		</offer>
-		<offer id="BzKhK1CQQ5ot" available="true">
-			<id>BzKhK1CQQ5ot</id>
+		<offer id="bM7jSekpTOzE" available="true">
+			<id>bM7jSekpTOzE</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -349,8 +188,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="5zwzuPb0O5Bv" available="true">
-			<id>5zwzuPb0O5Bv</id>
+		<offer id="Sy0wKb16Gqre" available="true">
+			<id>Sy0wKb16Gqre</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -372,8 +211,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="J44eFrBd0Rvq" available="true">
-			<id>J44eFrBd0Rvq</id>
+		<offer id="cUhjEzNgQdUR" available="true">
+			<id>cUhjEzNgQdUR</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -395,8 +234,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="vXt7JtKPQPsw" available="true">
-			<id>vXt7JtKPQPsw</id>
+		<offer id="zRQQdZsQbmVb" available="true">
+			<id>zRQQdZsQbmVb</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -418,8 +257,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="x5QXec0j4BiM" available="true">
-			<id>x5QXec0j4BiM</id>
+		<offer id="K1TFXXw43g5M" available="true">
+			<id>K1TFXXw43g5M</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -441,8 +280,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="vcT7lpRWj3ma" available="true">
-			<id>vcT7lpRWj3ma</id>
+		<offer id="IItBeyMrWxa1" available="true">
+			<id>IItBeyMrWxa1</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -464,8 +303,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="IR47JgtTuD0R" available="true">
-			<id>IR47JgtTuD0R</id>
+		<offer id="4X7Fgoc4aJGz" available="true">
+			<id>4X7Fgoc4aJGz</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -487,8 +326,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="Xmpbe4aBjt5A" available="true">
-			<id>Xmpbe4aBjt5A</id>
+		<offer id="g4upsAMWk1QW" available="true">
+			<id>g4upsAMWk1QW</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -510,8 +349,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="LspogOvoaCXU" available="true">
-			<id>LspogOvoaCXU</id>
+		<offer id="TrLonQZ1w0PA" available="true">
+			<id>TrLonQZ1w0PA</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -533,8 +372,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="srHUWg4j6Bhk" available="true">
-			<id>srHUWg4j6Bhk</id>
+		<offer id="AJ1A7whHylvr" available="true">
+			<id>AJ1A7whHylvr</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -556,8 +395,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="cI8nERHfxKmR" available="true">
-			<id>cI8nERHfxKmR</id>
+		<offer id="DlfTL0rZ9G4j" available="true">
+			<id>DlfTL0rZ9G4j</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -579,8 +418,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="Dx2QGNURW88A" available="true">
-			<id>Dx2QGNURW88A</id>
+		<offer id="FVnYsQCGGZfd" available="true">
+			<id>FVnYsQCGGZfd</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -602,8 +441,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="tpEy3E8Zf452" available="true">
-			<id>tpEy3E8Zf452</id>
+		<offer id="gusMrS9vQhUf" available="true">
+			<id>gusMrS9vQhUf</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -625,8 +464,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="FuDUceHWdc4B" available="true">
-			<id>FuDUceHWdc4B</id>
+		<offer id="ZYVQrjsfCL2C" available="true">
+			<id>ZYVQrjsfCL2C</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -648,8 +487,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="TtrvqjrbXd6S" available="true">
-			<id>TtrvqjrbXd6S</id>
+		<offer id="8wpnXQwHRaZ5" available="true">
+			<id>8wpnXQwHRaZ5</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -671,8 +510,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="CzquB2FCvXIp" available="true">
-			<id>CzquB2FCvXIp</id>
+		<offer id="unnGkqBoaGA0" available="true">
+			<id>unnGkqBoaGA0</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -694,8 +533,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ULEPMnzLKbP6" available="true">
-			<id>ULEPMnzLKbP6</id>
+		<offer id="AqkCeNex6OZH" available="true">
+			<id>AqkCeNex6OZH</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -717,8 +556,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="S4lrsZgCReLn" available="true">
-			<id>S4lrsZgCReLn</id>
+		<offer id="4554W7H71qmR" available="true">
+			<id>4554W7H71qmR</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -740,8 +579,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="eRNw4xfRHpS0" available="true">
-			<id>eRNw4xfRHpS0</id>
+		<offer id="dD99lkxuHozb" available="true">
+			<id>dD99lkxuHozb</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -763,8 +602,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="DwIrU60yOF2W" available="true">
-			<id>DwIrU60yOF2W</id>
+		<offer id="jgQKMIX7W0nD" available="true">
+			<id>jgQKMIX7W0nD</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -786,8 +625,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="L7YCPOwljHQu" available="true">
-			<id>L7YCPOwljHQu</id>
+		<offer id="N37RKoeLiBUV" available="true">
+			<id>N37RKoeLiBUV</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -809,8 +648,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ko1u4uEZXgeW" available="true">
-			<id>ko1u4uEZXgeW</id>
+		<offer id="EKgXtpQi3oNb" available="true">
+			<id>EKgXtpQi3oNb</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -832,8 +671,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="wph0hBQnEq8t" available="true">
-			<id>wph0hBQnEq8t</id>
+		<offer id="zt281OJTanqZ" available="true">
+			<id>zt281OJTanqZ</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -855,8 +694,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="FskaZlGBqsCb" available="true">
-			<id>FskaZlGBqsCb</id>
+		<offer id="04isTxt5FhQ1" available="true">
+			<id>04isTxt5FhQ1</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -878,8 +717,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="rE7x6bFfpN0u" available="true">
-			<id>rE7x6bFfpN0u</id>
+		<offer id="3pJ8wTkbMd8b" available="true">
+			<id>3pJ8wTkbMd8b</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -901,8 +740,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="EppZSNaIrsLs" available="true">
-			<id>EppZSNaIrsLs</id>
+		<offer id="NB9l5jzpaBCE" available="true">
+			<id>NB9l5jzpaBCE</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -924,8 +763,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="0kNTQjwi6UKg" available="true">
-			<id>0kNTQjwi6UKg</id>
+		<offer id="j02rTPCe80Az" available="true">
+			<id>j02rTPCe80Az</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -947,8 +786,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="nSRiLYPnZDGB" available="true">
-			<id>nSRiLYPnZDGB</id>
+		<offer id="PXYJrvwdaf0d" available="true">
+			<id>PXYJrvwdaf0d</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -970,8 +809,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ItcaoEpOi1UE" available="true">
-			<id>ItcaoEpOi1UE</id>
+		<offer id="NqWdHyynmH5C" available="true">
+			<id>NqWdHyynmH5C</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -993,8 +832,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="IUC2UVnnSbGr" available="true">
-			<id>IUC2UVnnSbGr</id>
+		<offer id="ECDu4SVGLY2d" available="true">
+			<id>ECDu4SVGLY2d</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1016,8 +855,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ESodJJlKymeU" available="true">
-			<id>ESodJJlKymeU</id>
+		<offer id="kXfQOtofYOJa" available="true">
+			<id>kXfQOtofYOJa</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1039,8 +878,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="RyonxvJ5igsz" available="true">
-			<id>RyonxvJ5igsz</id>
+		<offer id="PAH5VXvEn02u" available="true">
+			<id>PAH5VXvEn02u</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1062,8 +901,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="2JNkvn1Loxqe" available="true">
-			<id>2JNkvn1Loxqe</id>
+		<offer id="KNfM18rAr59R" available="true">
+			<id>KNfM18rAr59R</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1085,8 +924,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="KbcTe9hkRR4R" available="true">
-			<id>KbcTe9hkRR4R</id>
+		<offer id="MXc9Hbayfzqx" available="true">
+			<id>MXc9Hbayfzqx</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1108,8 +947,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="SjMvdn4zNKMz" available="true">
-			<id>SjMvdn4zNKMz</id>
+		<offer id="jLtaYdP6iguT" available="true">
+			<id>jLtaYdP6iguT</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1131,8 +970,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="WYBzP1jU83t8" available="true">
-			<id>WYBzP1jU83t8</id>
+		<offer id="c7lyFhYg2Te0" available="true">
+			<id>c7lyFhYg2Te0</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1154,8 +993,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="NyDNyHzBk2lr" available="true">
-			<id>NyDNyHzBk2lr</id>
+		<offer id="WTFTZimqDsI9" available="true">
+			<id>WTFTZimqDsI9</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1177,8 +1016,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="OVrHL5Re8K6x" available="true">
-			<id>OVrHL5Re8K6x</id>
+		<offer id="9ZBT78EhyT5K" available="true">
+			<id>9ZBT78EhyT5K</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1200,8 +1039,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="tv5EWQKAt50a" available="true">
-			<id>tv5EWQKAt50a</id>
+		<offer id="peHD5qmMqy9l" available="true">
+			<id>peHD5qmMqy9l</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1223,8 +1062,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="u0vO1xFpcNwd" available="true">
-			<id>u0vO1xFpcNwd</id>
+		<offer id="30OWqJLyYIiE" available="true">
+			<id>30OWqJLyYIiE</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1246,8 +1085,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="17aLQuPtY9l3" available="true">
-			<id>17aLQuPtY9l3</id>
+		<offer id="mbZUxZ3dV16E" available="true">
+			<id>mbZUxZ3dV16E</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1269,8 +1108,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="xTmqZsQTQ11U" available="true">
-			<id>xTmqZsQTQ11U</id>
+		<offer id="6CAJqmPNZ4I5" available="true">
+			<id>6CAJqmPNZ4I5</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1292,8 +1131,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="NX0DaKxEFfJ3" available="true">
-			<id>NX0DaKxEFfJ3</id>
+		<offer id="nPNqpLJa6b2X" available="true">
+			<id>nPNqpLJa6b2X</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1315,8 +1154,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="AzIfvoFtumyx" available="true">
-			<id>AzIfvoFtumyx</id>
+		<offer id="dJuZksppgmKC" available="true">
+			<id>dJuZksppgmKC</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1338,8 +1177,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="Urf6lgsQPGaI" available="true">
-			<id>Urf6lgsQPGaI</id>
+		<offer id="H6h1ou0WEcIa" available="true">
+			<id>H6h1ou0WEcIa</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1361,8 +1200,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="rwl4XqDSK5fE" available="true">
-			<id>rwl4XqDSK5fE</id>
+		<offer id="xIjGnT90yMeP" available="true">
+			<id>xIjGnT90yMeP</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1384,8 +1223,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="yylGW8GItpUo" available="true">
-			<id>yylGW8GItpUo</id>
+		<offer id="Yf2hfFU4M3i1" available="true">
+			<id>Yf2hfFU4M3i1</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1394,8 +1233,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 256Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>40499</price>
-			<oldprice>44900</oldprice>
+			<price>37699</price>
+			<oldprice>41800</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1407,8 +1246,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="LeZW3iUZqJO9" available="true">
-			<id>LeZW3iUZqJO9</id>
+		<offer id="pfqHDh6ExcjV" available="true">
+			<id>pfqHDh6ExcjV</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1417,8 +1256,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 256Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>40499</price>
-			<oldprice>44900</oldprice>
+			<price>37699</price>
+			<oldprice>41800</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1430,8 +1269,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="0uvU5pbqswL8" available="true">
-			<id>0uvU5pbqswL8</id>
+		<offer id="w0lQSLc0Pv9G" available="true">
+			<id>w0lQSLc0Pv9G</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1440,8 +1279,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 256Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>40499</price>
-			<oldprice>44900</oldprice>
+			<price>37699</price>
+			<oldprice>41800</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1453,8 +1292,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="7f1U96OShpTL" available="true">
-			<id>7f1U96OShpTL</id>
+		<offer id="w0GlieDhx8qE" available="true">
+			<id>w0GlieDhx8qE</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1463,8 +1302,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 256Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>40499</price>
-			<oldprice>44900</oldprice>
+			<price>37699</price>
+			<oldprice>41800</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1476,8 +1315,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="JfWqOXDPfw5G" available="true">
-			<id>JfWqOXDPfw5G</id>
+		<offer id="Ne03pVrv5TXk" available="true">
+			<id>Ne03pVrv5TXk</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1486,8 +1325,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 Plus 64Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>40499</price>
-			<oldprice>44900</oldprice>
+			<price>41699</price>
+			<oldprice>46200</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1499,8 +1338,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="wXLPNIOE2ocl" available="true">
-			<id>wXLPNIOE2ocl</id>
+		<offer id="x6M8VO4OlDRF" available="true">
+			<id>x6M8VO4OlDRF</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1509,8 +1348,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 Plus 64Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>40499</price>
-			<oldprice>44900</oldprice>
+			<price>41699</price>
+			<oldprice>46200</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1522,8 +1361,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="atoilTNqvqex" available="true">
-			<id>atoilTNqvqex</id>
+		<offer id="fy1cq8EiF8VN" available="true">
+			<id>fy1cq8EiF8VN</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1532,8 +1371,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 Plus 64Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>40499</price>
-			<oldprice>44900</oldprice>
+			<price>41699</price>
+			<oldprice>46200</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1545,8 +1384,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="MuuxcuyjxLf0" available="true">
-			<id>MuuxcuyjxLf0</id>
+		<offer id="JTTHuh6e7dhl" available="true">
+			<id>JTTHuh6e7dhl</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1555,8 +1394,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 Plus 64Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>40499</price>
-			<oldprice>44900</oldprice>
+			<price>41699</price>
+			<oldprice>46200</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1568,8 +1407,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="osB50ox9xy6R" available="true">
-			<id>osB50ox9xy6R</id>
+		<offer id="AOvMhS7yXtxw" available="true">
+			<id>AOvMhS7yXtxw</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1591,8 +1430,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="zgtHF9Jv9FmF" available="true">
-			<id>zgtHF9Jv9FmF</id>
+		<offer id="ER8nVjZFnxfn" available="true">
+			<id>ER8nVjZFnxfn</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1614,8 +1453,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="0TdqRN4oLthV" available="true">
-			<id>0TdqRN4oLthV</id>
+		<offer id="FiRGndB9yFEQ" available="true">
+			<id>FiRGndB9yFEQ</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1637,8 +1476,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="8FHUxKH6qRwc" available="true">
-			<id>8FHUxKH6qRwc</id>
+		<offer id="oeI0NqLNe3Mm" available="true">
+			<id>oeI0NqLNe3Mm</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1660,8 +1499,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="fcosJyhJy0ne" available="true">
-			<id>fcosJyhJy0ne</id>
+		<offer id="7hkrgMOKzc6a" available="true">
+			<id>7hkrgMOKzc6a</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1670,8 +1509,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone X 64Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>49199</price>
-			<oldprice>54500</oldprice>
+			<price>48599</price>
+			<oldprice>53800</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/X/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1683,8 +1522,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="wUQF71sScf35" available="true">
-			<id>wUQF71sScf35</id>
+		<offer id="dycjiFwsGqXd" available="true">
+			<id>dycjiFwsGqXd</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1693,8 +1532,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone X 64Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>49199</price>
-			<oldprice>54500</oldprice>
+			<price>48599</price>
+			<oldprice>53800</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/X/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1706,8 +1545,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="iHlolwOHLFlV" available="true">
-			<id>iHlolwOHLFlV</id>
+		<offer id="rJnkYDxF1gJT" available="true">
+			<id>rJnkYDxF1gJT</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1716,8 +1555,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone X 256Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>52599</price>
-			<oldprice>58200</oldprice>
+			<price>51999</price>
+			<oldprice>57500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/X/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1729,8 +1568,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="AaejRPC7Rt4t" available="true">
-			<id>AaejRPC7Rt4t</id>
+		<offer id="snLIqoL2mnHm" available="true">
+			<id>snLIqoL2mnHm</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1739,8 +1578,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone X 256Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>52599</price>
-			<oldprice>58200</oldprice>
+			<price>51999</price>
+			<oldprice>57500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/X/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1752,8 +1591,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="j4RN5c9jkd42" available="true">
-			<id>j4RN5c9jkd42</id>
+		<offer id="zXywEmJHGG5D" available="true">
+			<id>zXywEmJHGG5D</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1762,8 +1601,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 64Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>45699</price>
-			<oldprice>50600</oldprice>
+			<price>44599</price>
+			<oldprice>49400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1775,8 +1614,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="cmpZpCDfwapC" available="true">
-			<id>cmpZpCDfwapC</id>
+		<offer id="4J9V5JImbk53" available="true">
+			<id>4J9V5JImbk53</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1785,8 +1624,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 64Gb Blue новый</name>
 			<category>Мобильные телефоны</category>
-			<price>45699</price>
-			<oldprice>50600</oldprice>
+			<price>44599</price>
+			<oldprice>49400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Blue/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1798,8 +1637,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="vzyQHAUQOute" available="true">
-			<id>vzyQHAUQOute</id>
+		<offer id="2AyRuAk9EuV4" available="true">
+			<id>2AyRuAk9EuV4</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1808,8 +1647,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 64Gb Coral новый</name>
 			<category>Мобильные телефоны</category>
-			<price>45699</price>
-			<oldprice>50600</oldprice>
+			<price>44599</price>
+			<oldprice>49400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Coral/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1821,8 +1660,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="kpMSoiZnqYVK" available="true">
-			<id>kpMSoiZnqYVK</id>
+		<offer id="Z4u1cgO3fgs8" available="true">
+			<id>Z4u1cgO3fgs8</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1831,8 +1670,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 64Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>45699</price>
-			<oldprice>50600</oldprice>
+			<price>44599</price>
+			<oldprice>49400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1844,8 +1683,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="3irXsHmKsvqr" available="true">
-			<id>3irXsHmKsvqr</id>
+		<offer id="gxR4iGfH236M" available="true">
+			<id>gxR4iGfH236M</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1854,8 +1693,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 64Gb White новый</name>
 			<category>Мобильные телефоны</category>
-			<price>45699</price>
-			<oldprice>50600</oldprice>
+			<price>44599</price>
+			<oldprice>49400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/White/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1867,8 +1706,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="XOvcLcTanBnH" available="true">
-			<id>XOvcLcTanBnH</id>
+		<offer id="YOTZCspaTisa" available="true">
+			<id>YOTZCspaTisa</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1877,8 +1716,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 64Gb Yellow новый</name>
 			<category>Мобильные телефоны</category>
-			<price>45699</price>
-			<oldprice>50600</oldprice>
+			<price>44599</price>
+			<oldprice>49400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Yellow/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1890,8 +1729,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="KBzBcedFnqi4" available="true">
-			<id>KBzBcedFnqi4</id>
+		<offer id="owRTqGd4PSOY" available="true">
+			<id>owRTqGd4PSOY</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1900,8 +1739,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 128Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>49699</price>
-			<oldprice>55000</oldprice>
+			<price>47999</price>
+			<oldprice>53100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1913,8 +1752,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="G1NpqQWLuLv3" available="true">
-			<id>G1NpqQWLuLv3</id>
+		<offer id="1jRRFINpBqtU" available="true">
+			<id>1jRRFINpBqtU</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1923,8 +1762,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 128Gb Blue новый</name>
 			<category>Мобильные телефоны</category>
-			<price>49699</price>
-			<oldprice>55000</oldprice>
+			<price>47999</price>
+			<oldprice>53100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Blue/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1936,8 +1775,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="vEzNjxkREF1p" available="true">
-			<id>vEzNjxkREF1p</id>
+		<offer id="silcGCep286l" available="true">
+			<id>silcGCep286l</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1946,8 +1785,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 128Gb Coral новый</name>
 			<category>Мобильные телефоны</category>
-			<price>49699</price>
-			<oldprice>55000</oldprice>
+			<price>47999</price>
+			<oldprice>53100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Coral/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1959,8 +1798,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ZlXxwJDeTjmF" available="true">
-			<id>ZlXxwJDeTjmF</id>
+		<offer id="HtC3POWEU1uG" available="true">
+			<id>HtC3POWEU1uG</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1969,8 +1808,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 128Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>49699</price>
-			<oldprice>55000</oldprice>
+			<price>47999</price>
+			<oldprice>53100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1982,8 +1821,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="nmmpsoaVrTFF" available="true">
-			<id>nmmpsoaVrTFF</id>
+		<offer id="wlClojN61Hir" available="true">
+			<id>wlClojN61Hir</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1992,8 +1831,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 128Gb White новый</name>
 			<category>Мобильные телефоны</category>
-			<price>49699</price>
-			<oldprice>55000</oldprice>
+			<price>47999</price>
+			<oldprice>53100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/White/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2005,8 +1844,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="KBQhORoEkCDh" available="true">
-			<id>KBQhORoEkCDh</id>
+		<offer id="Y6bbhLb3UQ7d" available="true">
+			<id>Y6bbhLb3UQ7d</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2015,8 +1854,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 128Gb Yellow новый</name>
 			<category>Мобильные телефоны</category>
-			<price>49699</price>
-			<oldprice>55000</oldprice>
+			<price>47999</price>
+			<oldprice>53100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Yellow/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2028,8 +1867,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="9HKdRsqwHd1x" available="true">
-			<id>9HKdRsqwHd1x</id>
+		<offer id="MMqGLktnHVJs" available="true">
+			<id>MMqGLktnHVJs</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2038,8 +1877,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 256Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>51999</price>
-			<oldprice>57500</oldprice>
+			<price>49199</price>
+			<oldprice>54500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2051,8 +1890,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="c181DxbyttjE" available="true">
-			<id>c181DxbyttjE</id>
+		<offer id="TNbAxjOraNM3" available="true">
+			<id>TNbAxjOraNM3</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2061,8 +1900,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 256Gb Blue новый</name>
 			<category>Мобильные телефоны</category>
-			<price>51999</price>
-			<oldprice>57500</oldprice>
+			<price>49199</price>
+			<oldprice>54500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Blue/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2074,8 +1913,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="wHhVuQcKaBLI" available="true">
-			<id>wHhVuQcKaBLI</id>
+		<offer id="6dWP91iIDjql" available="true">
+			<id>6dWP91iIDjql</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2084,8 +1923,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 256Gb Coral новый</name>
 			<category>Мобильные телефоны</category>
-			<price>51999</price>
-			<oldprice>57500</oldprice>
+			<price>49199</price>
+			<oldprice>54500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Coral/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2097,8 +1936,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="BJjZPUJrT4cj" available="true">
-			<id>BJjZPUJrT4cj</id>
+		<offer id="K2y8a8HavVqS" available="true">
+			<id>K2y8a8HavVqS</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2107,8 +1946,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 256Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>51999</price>
-			<oldprice>57500</oldprice>
+			<price>49199</price>
+			<oldprice>54500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2120,8 +1959,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="IiHK6DU31yHF" available="true">
-			<id>IiHK6DU31yHF</id>
+		<offer id="jwgahSnZCDxD" available="true">
+			<id>jwgahSnZCDxD</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2130,8 +1969,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 256Gb White новый</name>
 			<category>Мобильные телефоны</category>
-			<price>51999</price>
-			<oldprice>57500</oldprice>
+			<price>49199</price>
+			<oldprice>54500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/White/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2143,8 +1982,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="RiR6vBB1r8zH" available="true">
-			<id>RiR6vBB1r8zH</id>
+		<offer id="3a7lXTpVazD2" available="true">
+			<id>3a7lXTpVazD2</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2153,8 +1992,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 256Gb Yellow новый</name>
 			<category>Мобильные телефоны</category>
-			<price>51999</price>
-			<oldprice>57500</oldprice>
+			<price>49199</price>
+			<oldprice>54500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Yellow/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2166,8 +2005,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="equM0tLRTg64" available="true">
-			<id>equM0tLRTg64</id>
+		<offer id="U9QurQMVlCia" available="true">
+			<id>U9QurQMVlCia</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2176,8 +2015,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS 64Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>55499</price>
-			<oldprice>61400</oldprice>
+			<price>54299</price>
+			<oldprice>60100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XS/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2189,8 +2028,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="2M34EVRr7zC8" available="true">
-			<id>2M34EVRr7zC8</id>
+		<offer id="URJIe8VMXJSb" available="true">
+			<id>URJIe8VMXJSb</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2199,8 +2038,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS 64Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>55499</price>
-			<oldprice>61400</oldprice>
+			<price>54299</price>
+			<oldprice>60100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XS/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2212,8 +2051,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="OKp6W1CtQwwi" available="true">
-			<id>OKp6W1CtQwwi</id>
+		<offer id="UymsVq22jm7y" available="true">
+			<id>UymsVq22jm7y</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2222,8 +2061,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS 64Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>55499</price>
-			<oldprice>61400</oldprice>
+			<price>54299</price>
+			<oldprice>60100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XS/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2235,8 +2074,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="XC664HATHYfy" available="true">
-			<id>XC664HATHYfy</id>
+		<offer id="xwsNL2iiXxcE" available="true">
+			<id>xwsNL2iiXxcE</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2258,8 +2097,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="m43x6UUqpStl" available="true">
-			<id>m43x6UUqpStl</id>
+		<offer id="SFEeNGQAmlLi" available="true">
+			<id>SFEeNGQAmlLi</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2281,8 +2120,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="WDlVc03hNI5B" available="true">
-			<id>WDlVc03hNI5B</id>
+		<offer id="b48BTwM6khiQ" available="true">
+			<id>b48BTwM6khiQ</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2304,8 +2143,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="3wUfarjcTblT" available="true">
-			<id>3wUfarjcTblT</id>
+		<offer id="k4Bvi5BW8DfS" available="true">
+			<id>k4Bvi5BW8DfS</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2327,8 +2166,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="0H4ZOxgzKpM2" available="true">
-			<id>0H4ZOxgzKpM2</id>
+		<offer id="Gx2YeDE2RKvn" available="true">
+			<id>Gx2YeDE2RKvn</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2350,8 +2189,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="YVZm4QpbWKtq" available="true">
-			<id>YVZm4QpbWKtq</id>
+		<offer id="9zq4i2WwakRT" available="true">
+			<id>9zq4i2WwakRT</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2373,8 +2212,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="LPy6o649CXMq" available="true">
-			<id>LPy6o649CXMq</id>
+		<offer id="FYco4pmAQhq8" available="true">
+			<id>FYco4pmAQhq8</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2383,8 +2222,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 64Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>58899</price>
-			<oldprice>65100</oldprice>
+			<price>57799</price>
+			<oldprice>63900</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2396,8 +2235,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="Wa2vCnCilq41" available="true">
-			<id>Wa2vCnCilq41</id>
+		<offer id="6rCZNlKxq8Mh" available="true">
+			<id>6rCZNlKxq8Mh</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2406,8 +2245,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 64Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>58899</price>
-			<oldprice>65100</oldprice>
+			<price>57799</price>
+			<oldprice>63900</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2419,8 +2258,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="41tTewhUNyUG" available="true">
-			<id>41tTewhUNyUG</id>
+		<offer id="z9fVleYs3CZY" available="true">
+			<id>z9fVleYs3CZY</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2429,8 +2268,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 64Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>58899</price>
-			<oldprice>65100</oldprice>
+			<price>57799</price>
+			<oldprice>63900</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2442,8 +2281,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="7BZ6HECtXnQu" available="true">
-			<id>7BZ6HECtXnQu</id>
+		<offer id="SOesnYj80f3K" available="true">
+			<id>SOesnYj80f3K</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2452,8 +2291,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 256Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>66999</price>
-			<oldprice>74000</oldprice>
+			<price>65799</price>
+			<oldprice>72700</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2465,8 +2304,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="veEJqWIdR7XP" available="true">
-			<id>veEJqWIdR7XP</id>
+		<offer id="sQeU4LKpHhKH" available="true">
+			<id>sQeU4LKpHhKH</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2475,8 +2314,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 256Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>66999</price>
-			<oldprice>74000</oldprice>
+			<price>65799</price>
+			<oldprice>72700</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2488,8 +2327,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ilYa594KN0md" available="true">
-			<id>ilYa594KN0md</id>
+		<offer id="YjABVh6V4HJE" available="true">
+			<id>YjABVh6V4HJE</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2498,8 +2337,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 256Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>66999</price>
-			<oldprice>74000</oldprice>
+			<price>65799</price>
+			<oldprice>72700</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2511,8 +2350,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="BZX1KknQUQJ1" available="true">
-			<id>BZX1KknQUQJ1</id>
+		<offer id="6qGHjy2DDBPD" available="true">
+			<id>6qGHjy2DDBPD</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2521,8 +2360,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 512Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>69299</price>
-			<oldprice>76600</oldprice>
+			<price>68099</price>
+			<oldprice>75300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2534,8 +2373,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="xxGR7HUGOlAO" available="true">
-			<id>xxGR7HUGOlAO</id>
+		<offer id="diNGCNJK3SHW" available="true">
+			<id>diNGCNJK3SHW</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2544,8 +2383,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 512Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>69299</price>
-			<oldprice>76600</oldprice>
+			<price>68099</price>
+			<oldprice>75300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2557,8 +2396,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="5UaZpfi5IrfA" available="true">
-			<id>5UaZpfi5IrfA</id>
+		<offer id="wGqnJx91zJYs" available="true">
+			<id>wGqnJx91zJYs</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2567,8 +2406,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 512Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>69299</price>
-			<oldprice>76600</oldprice>
+			<price>68099</price>
+			<oldprice>75300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2580,8 +2419,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="RppM6g1wGcqr" available="true">
-			<id>RppM6g1wGcqr</id>
+		<offer id="8rJzLMjuJaLA" available="true">
+			<id>8rJzLMjuJaLA</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2603,8 +2442,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="WMq2uJjJB2AR" available="true">
-			<id>WMq2uJjJB2AR</id>
+		<offer id="cOSAqMOGwYk7" available="true">
+			<id>cOSAqMOGwYk7</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2626,8 +2465,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="TybW42B30bo3" available="true">
-			<id>TybW42B30bo3</id>
+		<offer id="mB1jsbg4d9LL" available="true">
+			<id>mB1jsbg4d9LL</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2649,8 +2488,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="qKQIjrCt13KE" available="true">
-			<id>qKQIjrCt13KE</id>
+		<offer id="o3V9MZpRj3Py" available="true">
+			<id>o3V9MZpRj3Py</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2672,8 +2511,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="HaA6bvVwZfdu" available="true">
-			<id>HaA6bvVwZfdu</id>
+		<offer id="8bpMsLM5pjfv" available="true">
+			<id>8bpMsLM5pjfv</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2695,8 +2534,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="TKOTEtmOO7yD" available="true">
-			<id>TKOTEtmOO7yD</id>
+		<offer id="nUqDfagPtuca" available="true">
+			<id>nUqDfagPtuca</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2718,8 +2557,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="Q9GQrXFWXmDt" available="true">
-			<id>Q9GQrXFWXmDt</id>
+		<offer id="0IZSNfOXCS7Q" available="true">
+			<id>0IZSNfOXCS7Q</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2741,8 +2580,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="3yi3CdVTHbuH" available="true">
-			<id>3yi3CdVTHbuH</id>
+		<offer id="j1LNqylWlh8F" available="true">
+			<id>j1LNqylWlh8F</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2764,8 +2603,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="SAhyjpmAyHHJ" available="true">
-			<id>SAhyjpmAyHHJ</id>
+		<offer id="8pzjVIdzo8zN" available="true">
+			<id>8pzjVIdzo8zN</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2787,8 +2626,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="wm6QUgmDkTSC" available="true">
-			<id>wm6QUgmDkTSC</id>
+		<offer id="bRVlQPCqcOBT" available="true">
+			<id>bRVlQPCqcOBT</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2810,8 +2649,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="q2ZzpwlLLo24" available="true">
-			<id>q2ZzpwlLLo24</id>
+		<offer id="XZL3WoOTWavQ" available="true">
+			<id>XZL3WoOTWavQ</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2833,8 +2672,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="jW0bZFgNxeHj" available="true">
-			<id>jW0bZFgNxeHj</id>
+		<offer id="KZLWomtNhwhz" available="true">
+			<id>KZLWomtNhwhz</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2856,8 +2695,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="2gWaRtkPGiR7" available="true">
-			<id>2gWaRtkPGiR7</id>
+		<offer id="nEGEFOgOta73" available="true">
+			<id>nEGEFOgOta73</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2879,8 +2718,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="qI8wSPiUs6cY" available="true">
-			<id>qI8wSPiUs6cY</id>
+		<offer id="73LITfsNYOJS" available="true">
+			<id>73LITfsNYOJS</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2902,8 +2741,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="TAABZm58ftUn" available="true">
-			<id>TAABZm58ftUn</id>
+		<offer id="eJHTk9M4W7Tl" available="true">
+			<id>eJHTk9M4W7Tl</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2925,8 +2764,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="XjDjg5EMFyYU" available="true">
-			<id>XjDjg5EMFyYU</id>
+		<offer id="CLsguB4DAjUa" available="true">
+			<id>CLsguB4DAjUa</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2948,8 +2787,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="Y6Ztk6Oo6U2z" available="true">
-			<id>Y6Ztk6Oo6U2z</id>
+		<offer id="AQBoLnA6Awrq" available="true">
+			<id>AQBoLnA6Awrq</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2971,8 +2810,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="CjK5hG6Avx3j" available="true">
-			<id>CjK5hG6Avx3j</id>
+		<offer id="RVTaxL22xbAe" available="true">
+			<id>RVTaxL22xbAe</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2994,8 +2833,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="I4OK3E4yOC8c" available="true">
-			<id>I4OK3E4yOC8c</id>
+		<offer id="TEgIcz2qfl9k" available="true">
+			<id>TEgIcz2qfl9k</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3017,8 +2856,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="PgwFYvaqjKn1" available="true">
-			<id>PgwFYvaqjKn1</id>
+		<offer id="LvSZXitoedmd" available="true">
+			<id>LvSZXitoedmd</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3040,8 +2879,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="iB2tNSgMNfp1" available="true">
-			<id>iB2tNSgMNfp1</id>
+		<offer id="7sQmzPOAmexa" available="true">
+			<id>7sQmzPOAmexa</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3063,8 +2902,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ftbHk1YyfzwA" available="true">
-			<id>ftbHk1YyfzwA</id>
+		<offer id="Scyt5SN6xIHl" available="true">
+			<id>Scyt5SN6xIHl</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3086,8 +2925,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="na5yrhoj8uRK" available="true">
-			<id>na5yrhoj8uRK</id>
+		<offer id="tC0El5ALCTP2" available="true">
+			<id>tC0El5ALCTP2</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3109,8 +2948,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="lSnOCDWpisyU" available="true">
-			<id>lSnOCDWpisyU</id>
+		<offer id="Weq96GJJGx1z" available="true">
+			<id>Weq96GJJGx1z</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3132,8 +2971,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="FZFtwButui8N" available="true">
-			<id>FZFtwButui8N</id>
+		<offer id="mugWQu946lSI" available="true">
+			<id>mugWQu946lSI</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3155,8 +2994,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="nvA8PY3ibmCI" available="true">
-			<id>nvA8PY3ibmCI</id>
+		<offer id="3gtEBuG7NbML" available="true">
+			<id>3gtEBuG7NbML</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3178,8 +3017,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="TnFzLN0lM8DM" available="true">
-			<id>TnFzLN0lM8DM</id>
+		<offer id="3vSPTBdtqxns" available="true">
+			<id>3vSPTBdtqxns</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3201,8 +3040,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="tG0JFZGqTTDp" available="true">
-			<id>tG0JFZGqTTDp</id>
+		<offer id="iD7FJUxiPETM" available="true">
+			<id>iD7FJUxiPETM</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3224,8 +3063,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="UMv95tdcFg1W" available="true">
-			<id>UMv95tdcFg1W</id>
+		<offer id="JzWeuxsj3cIU" available="true">
+			<id>JzWeuxsj3cIU</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3247,8 +3086,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="SKlKNTUCEqrK" available="true">
-			<id>SKlKNTUCEqrK</id>
+		<offer id="TOShIsB2jwiK" available="true">
+			<id>TOShIsB2jwiK</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3270,8 +3109,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ZgMQAeXy50Sg" available="true">
-			<id>ZgMQAeXy50Sg</id>
+		<offer id="Bo1OhRCykeJm" available="true">
+			<id>Bo1OhRCykeJm</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3293,8 +3132,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="HjK6he5K2HWR" available="true">
-			<id>HjK6he5K2HWR</id>
+		<offer id="AZkRdYbDp6nK" available="true">
+			<id>AZkRdYbDp6nK</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3316,8 +3155,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="1AGarB8nvEOC" available="true">
-			<id>1AGarB8nvEOC</id>
+		<offer id="wok302iS6yNa" available="true">
+			<id>wok302iS6yNa</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3339,8 +3178,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="a4Lcd1iL7k70" available="true">
-			<id>a4Lcd1iL7k70</id>
+		<offer id="A1fuy0BPnBpp" available="true">
+			<id>A1fuy0BPnBpp</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3362,8 +3201,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="vMh15YeB6zdY" available="true">
-			<id>vMh15YeB6zdY</id>
+		<offer id="8apVc11tS1hv" available="true">
+			<id>8apVc11tS1hv</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3385,8 +3224,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="QgPwQHBiJgWs" available="true">
-			<id>QgPwQHBiJgWs</id>
+		<offer id="uJddIyWdXR9O" available="true">
+			<id>uJddIyWdXR9O</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3408,8 +3247,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="FXv80um9JgK5" available="true">
-			<id>FXv80um9JgK5</id>
+		<offer id="AKipQNIxamL3" available="true">
+			<id>AKipQNIxamL3</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3431,8 +3270,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="mNGBknUTRCA5" available="true">
-			<id>mNGBknUTRCA5</id>
+		<offer id="UDr8ufupdhwY" available="true">
+			<id>UDr8ufupdhwY</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3454,8 +3293,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="KMn8wiAYUfde" available="true">
-			<id>KMn8wiAYUfde</id>
+		<offer id="gUoE7FP0CfWh" available="true">
+			<id>gUoE7FP0CfWh</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3477,8 +3316,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="Mgwopz0brwjN" available="true">
-			<id>Mgwopz0brwjN</id>
+		<offer id="Ko03TtXnrVH7" available="true">
+			<id>Ko03TtXnrVH7</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3500,8 +3339,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="d2fureR0Sfz4" available="true">
-			<id>d2fureR0Sfz4</id>
+		<offer id="KM6UBxtXyjDi" available="true">
+			<id>KM6UBxtXyjDi</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3523,8 +3362,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="plJvVGFarh6j" available="true">
-			<id>plJvVGFarh6j</id>
+		<offer id="S7Z49qlli4UA" available="true">
+			<id>S7Z49qlli4UA</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3546,8 +3385,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="vkFyDUT3J9D6" available="true">
-			<id>vkFyDUT3J9D6</id>
+		<offer id="2qTGX2Q6etKy" available="true">
+			<id>2qTGX2Q6etKy</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3556,8 +3395,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S9 64Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>36499</price>
-			<oldprice>40500</oldprice>
+			<price>34799</price>
+			<oldprice>38600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3569,8 +3408,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="22dHkp55nMXV" available="true">
-			<id>22dHkp55nMXV</id>
+		<offer id="gjbgqScbhZ5L" available="true">
+			<id>gjbgqScbhZ5L</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3579,8 +3418,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S9 64Gb Blue новый</name>
 			<category>Мобильные телефоны</category>
-			<price>36499</price>
-			<oldprice>40500</oldprice>
+			<price>34799</price>
+			<oldprice>38600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9/Blue/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3592,8 +3431,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="GU4SYzhZa6KV" available="true">
-			<id>GU4SYzhZa6KV</id>
+		<offer id="MBi49e6MwNHZ" available="true">
+			<id>MBi49e6MwNHZ</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3602,8 +3441,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S9 64Gb Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>36499</price>
-			<oldprice>40500</oldprice>
+			<price>34799</price>
+			<oldprice>38600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9/Gray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3615,8 +3454,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="2V2m7vRJkji2" available="true">
-			<id>2V2m7vRJkji2</id>
+		<offer id="n1e1zTThwqTk" available="true">
+			<id>n1e1zTThwqTk</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3625,8 +3464,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S9 64Gb Purple новый</name>
 			<category>Мобильные телефоны</category>
-			<price>36499</price>
-			<oldprice>40500</oldprice>
+			<price>34799</price>
+			<oldprice>38600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9/Purple/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3638,8 +3477,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="IWVHeHqbf9Wv" available="true">
-			<id>IWVHeHqbf9Wv</id>
+		<offer id="HIdxzptPCg2a" available="true">
+			<id>HIdxzptPCg2a</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3661,8 +3500,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="1T6AEUS5Khcx" available="true">
-			<id>1T6AEUS5Khcx</id>
+		<offer id="RyapVmKi86ds" available="true">
+			<id>RyapVmKi86ds</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3684,8 +3523,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="LJgkfHMt8W1b" available="true">
-			<id>LJgkfHMt8W1b</id>
+		<offer id="2wivCHYTV6ld" available="true">
+			<id>2wivCHYTV6ld</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3707,8 +3546,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="fqUBfPEAlGRq" available="true">
-			<id>fqUBfPEAlGRq</id>
+		<offer id="WdOlPgEVshEu" available="true">
+			<id>WdOlPgEVshEu</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3730,8 +3569,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="Pw1d8zHEBU08" available="true">
-			<id>Pw1d8zHEBU08</id>
+		<offer id="SdlXxeNTEZop" available="true">
+			<id>SdlXxeNTEZop</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3753,8 +3592,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="JXHX4P8QLVap" available="true">
-			<id>JXHX4P8QLVap</id>
+		<offer id="wmLz5ZL3QxZ9" available="true">
+			<id>wmLz5ZL3QxZ9</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3776,8 +3615,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="CJR0yJaCCn8e" available="true">
-			<id>CJR0yJaCCn8e</id>
+		<offer id="gH8iVjP0CFOn" available="true">
+			<id>gH8iVjP0CFOn</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3799,8 +3638,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="d86YTtmwfZBH" available="true">
-			<id>d86YTtmwfZBH</id>
+		<offer id="wJ0zrif589YS" available="true">
+			<id>wJ0zrif589YS</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3822,8 +3661,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="GVShu0Up9JfT" available="true">
-			<id>GVShu0Up9JfT</id>
+		<offer id="6YaqsbImvZ73" available="true">
+			<id>6YaqsbImvZ73</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3845,8 +3684,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="qnWs5FMxybAM" available="true">
-			<id>qnWs5FMxybAM</id>
+		<offer id="fZfmgjvKWTaK" available="true">
+			<id>fZfmgjvKWTaK</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3855,8 +3694,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S10 128Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>47999</price>
-			<oldprice>53100</oldprice>
+			<price>50899</price>
+			<oldprice>56300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3868,8 +3707,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="xhDfBGZ56JRe" available="true">
-			<id>xhDfBGZ56JRe</id>
+		<offer id="S1cIMffc2xo7" available="true">
+			<id>S1cIMffc2xo7</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3878,8 +3717,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S10 128Gb Green новый</name>
 			<category>Мобильные телефоны</category>
-			<price>47999</price>
-			<oldprice>53100</oldprice>
+			<price>50899</price>
+			<oldprice>56300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10/Green/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3891,8 +3730,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="rwAeWvtan0Kb" available="true">
-			<id>rwAeWvtan0Kb</id>
+		<offer id="UUudbxGKf9TB" available="true">
+			<id>UUudbxGKf9TB</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3901,8 +3740,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S10 128Gb White новый</name>
 			<category>Мобильные телефоны</category>
-			<price>47999</price>
-			<oldprice>53100</oldprice>
+			<price>50899</price>
+			<oldprice>56300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10/White/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3914,8 +3753,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="N7Fwxal68ruF" available="true">
-			<id>N7Fwxal68ruF</id>
+		<offer id="ZqotQ6pzf1Id" available="true">
+			<id>ZqotQ6pzf1Id</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3924,8 +3763,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S10 Plus 128Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>52599</price>
-			<oldprice>58200</oldprice>
+			<price>56599</price>
+			<oldprice>62600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10Plus/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3937,8 +3776,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="53iIqY5TTyMK" available="true">
-			<id>53iIqY5TTyMK</id>
+		<offer id="Qi6bf1iKKUe5" available="true">
+			<id>Qi6bf1iKKUe5</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3947,8 +3786,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S10 Plus 128Gb Green новый</name>
 			<category>Мобильные телефоны</category>
-			<price>52599</price>
-			<oldprice>58200</oldprice>
+			<price>56599</price>
+			<oldprice>62600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10Plus/Green/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3960,8 +3799,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ob9eh5DLyZ5t" available="true">
-			<id>ob9eh5DLyZ5t</id>
+		<offer id="UAqmM5jnp5CF" available="true">
+			<id>UAqmM5jnp5CF</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3970,8 +3809,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S10 Plus 128Gb White новый</name>
 			<category>Мобильные телефоны</category>
-			<price>52599</price>
-			<oldprice>58200</oldprice>
+			<price>56599</price>
+			<oldprice>62600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10Plus/White/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3983,8 +3822,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="5jm5jAqmc5FJ" available="true">
-			<id>5jm5jAqmc5FJ</id>
+		<offer id="FjGyyzdNJ8RX" available="true">
+			<id>FjGyyzdNJ8RX</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4006,8 +3845,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="mHx497w1kK1i" available="true">
-			<id>mHx497w1kK1i</id>
+		<offer id="jnducSV4dJP1" available="true">
+			<id>jnducSV4dJP1</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4029,8 +3868,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="jyaiWN1Qjl8k" available="true">
-			<id>jyaiWN1Qjl8k</id>
+		<offer id="s6wLdleVugeZ" available="true">
+			<id>s6wLdleVugeZ</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4039,8 +3878,8 @@
 			<vendor>Xiaomi</vendor>
 			<name>Xiaomi Mi 8 Lite 64Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>12399</price>
-			<oldprice>14000</oldprice>
+			<price>13499</price>
+			<oldprice>15200</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Mi/8Lite/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -4052,8 +3891,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="4bjrtTpQYrBE" available="true">
-			<id>4bjrtTpQYrBE</id>
+		<offer id="KJauiL8esSRy" available="true">
+			<id>KJauiL8esSRy</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4062,8 +3901,8 @@
 			<vendor>Xiaomi</vendor>
 			<name>Xiaomi Mi 8 Lite 64Gb Blue новый</name>
 			<category>Мобильные телефоны</category>
-			<price>12399</price>
-			<oldprice>14000</oldprice>
+			<price>13499</price>
+			<oldprice>15200</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Mi/8Lite/Blue/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -4075,8 +3914,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="wxir87Bi6SNe" available="true">
-			<id>wxir87Bi6SNe</id>
+		<offer id="c38Wv3Biu7Zs" available="true">
+			<id>c38Wv3Biu7Zs</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4085,8 +3924,8 @@
 			<vendor>Xiaomi</vendor>
 			<name>Xiaomi Mi 8 Lite 64Gb Pink новый</name>
 			<category>Мобильные телефоны</category>
-			<price>12399</price>
-			<oldprice>14000</oldprice>
+			<price>13499</price>
+			<oldprice>15200</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Mi/8Lite/Pink/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -4098,8 +3937,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="GiGHnhsaL2S3" available="true">
-			<id>GiGHnhsaL2S3</id>
+		<offer id="HRb6mR79Hom5" available="true">
+			<id>HRb6mR79Hom5</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4108,8 +3947,8 @@
 			<vendor>Xiaomi</vendor>
 			<name>Xiaomi Mi 8 Lite 128Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>16999</price>
-			<oldprice>19000</oldprice>
+			<price>18099</price>
+			<oldprice>20300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Mi/8Lite/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -4121,8 +3960,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="lWQt1pqEyjKs" available="true">
-			<id>lWQt1pqEyjKs</id>
+		<offer id="IXiYT0Q7eOb2" available="true">
+			<id>IXiYT0Q7eOb2</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4131,8 +3970,8 @@
 			<vendor>Xiaomi</vendor>
 			<name>Xiaomi Mi 8 Lite 128Gb Blue новый</name>
 			<category>Мобильные телефоны</category>
-			<price>16999</price>
-			<oldprice>19000</oldprice>
+			<price>18099</price>
+			<oldprice>20300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Mi/8Lite/Blue/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -4144,8 +3983,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="4bgDF09XOXRk" available="true">
-			<id>4bgDF09XOXRk</id>
+		<offer id="79jESZ8zBbCW" available="true">
+			<id>79jESZ8zBbCW</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4154,8 +3993,8 @@
 			<vendor>Xiaomi</vendor>
 			<name>Xiaomi Mi 8 Lite 128Gb Pink новый</name>
 			<category>Мобильные телефоны</category>
-			<price>16999</price>
-			<oldprice>19000</oldprice>
+			<price>18099</price>
+			<oldprice>20300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Mi/8Lite/Pink/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -4167,8 +4006,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="e820tiYJFdkT" available="true">
-			<id>e820tiYJFdkT</id>
+		<offer id="G4cUqFXfMkx4" available="true">
+			<id>G4cUqFXfMkx4</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4177,8 +4016,8 @@
 			<vendor>Xiaomi</vendor>
 			<name>Xiaomi Mi 8 64Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>20399</price>
-			<oldprice>22800</oldprice>
+			<price>22699</price>
+			<oldprice>25300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Mi/8/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -4190,8 +4029,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="rc8OsuQGAr4b" available="true">
-			<id>rc8OsuQGAr4b</id>
+		<offer id="EW2BHjLTJDFy" available="true">
+			<id>EW2BHjLTJDFy</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4200,8 +4039,8 @@
 			<vendor>Xiaomi</vendor>
 			<name>Xiaomi Mi 8 64Gb Blue новый</name>
 			<category>Мобильные телефоны</category>
-			<price>20399</price>
-			<oldprice>22800</oldprice>
+			<price>22699</price>
+			<oldprice>25300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Mi/8/Blue/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -4213,8 +4052,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="RN1Yt8SNQXtp" available="true">
-			<id>RN1Yt8SNQXtp</id>
+		<offer id="yyMYBqcWdqIG" available="true">
+			<id>yyMYBqcWdqIG</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4223,8 +4062,8 @@
 			<vendor>Xiaomi</vendor>
 			<name>Xiaomi Mi 8 64Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>20399</price>
-			<oldprice>22800</oldprice>
+			<price>22699</price>
+			<oldprice>25300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Mi/8/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -4236,8 +4075,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="QhpdIbNHmfGO" available="true">
-			<id>QhpdIbNHmfGO</id>
+		<offer id="80lMNJQgTMNJ" available="true">
+			<id>80lMNJQgTMNJ</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4246,8 +4085,8 @@
 			<vendor>Xiaomi</vendor>
 			<name>Xiaomi Mi 8 64Gb White новый</name>
 			<category>Мобильные телефоны</category>
-			<price>20399</price>
-			<oldprice>22800</oldprice>
+			<price>22699</price>
+			<oldprice>25300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Mi/8/White/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -4259,8 +4098,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ruE6OI90nFB9" available="true">
-			<id>ruE6OI90nFB9</id>
+		<offer id="fO3NMJV116xc" available="true">
+			<id>fO3NMJV116xc</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4269,8 +4108,8 @@
 			<vendor>Xiaomi</vendor>
 			<name>Xiaomi Mi 8 128Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>22099</price>
-			<oldprice>24700</oldprice>
+			<price>23899</price>
+			<oldprice>26600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Mi/8/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -4282,8 +4121,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="axPtCuBx7Con" available="true">
-			<id>axPtCuBx7Con</id>
+		<offer id="gsPVd0sqpgOW" available="true">
+			<id>gsPVd0sqpgOW</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4292,8 +4131,8 @@
 			<vendor>Xiaomi</vendor>
 			<name>Xiaomi Mi 8 128Gb Blue новый</name>
 			<category>Мобильные телефоны</category>
-			<price>22099</price>
-			<oldprice>24700</oldprice>
+			<price>23899</price>
+			<oldprice>26600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Mi/8/Blue/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -4305,8 +4144,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="56lgHz4f87e4" available="true">
-			<id>56lgHz4f87e4</id>
+		<offer id="B6C71Jtq70qg" available="true">
+			<id>B6C71Jtq70qg</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4315,8 +4154,8 @@
 			<vendor>Xiaomi</vendor>
 			<name>Xiaomi Mi 8 128Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>22099</price>
-			<oldprice>24700</oldprice>
+			<price>23899</price>
+			<oldprice>26600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Mi/8/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -4328,8 +4167,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="qlLpMDmJIvF2" available="true">
-			<id>qlLpMDmJIvF2</id>
+		<offer id="KI2CWqKeu2GF" available="true">
+			<id>KI2CWqKeu2GF</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4338,8 +4177,8 @@
 			<vendor>Xiaomi</vendor>
 			<name>Xiaomi Mi 8 128Gb White новый</name>
 			<category>Мобильные телефоны</category>
-			<price>22099</price>
-			<oldprice>24700</oldprice>
+			<price>23899</price>
+			<oldprice>26600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Mi/8/White/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -4351,8 +4190,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="4g28RdE8TtP4" available="true">
-			<id>4g28RdE8TtP4</id>
+		<offer id="7L2LAwkERPSp" available="true">
+			<id>7L2LAwkERPSp</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4374,8 +4213,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="p8R8uLfZahGM" available="true">
-			<id>p8R8uLfZahGM</id>
+		<offer id="nKF6XcTXS9DJ" available="true">
+			<id>nKF6XcTXS9DJ</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -4397,8 +4236,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="kVRelcJTHmFF" available="true">
-			<id>kVRelcJTHmFF</id>
+		<offer id="ZD2gFWXqgeAM" available="true">
+			<id>ZD2gFWXqgeAM</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
