@@ -4,8 +4,8 @@
 	<company>AMOLED: сеть магазинов и сервисных центров</company>
 	<url>https://amo-led.ru/</url>
 	<offers>
-		<offer id="lUP1r1E8v29L" available="true">
-			<id>lUP1r1E8v29L</id>
+		<offer id="b8mwYYn5w8lF" available="true">
+			<id>b8mwYYn5w8lF</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -14,8 +14,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone SE 32Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>17499</price>
-			<oldprice>19600</oldprice>
+			<price>18099</price>
+			<oldprice>20300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -27,8 +27,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="NPO9XVgPKDWP" available="true">
-			<id>NPO9XVgPKDWP</id>
+		<offer id="mRCCTCgC9clK" available="true">
+			<id>mRCCTCgC9clK</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -37,8 +37,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone SE 32Gb Rose Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>17499</price>
-			<oldprice>19600</oldprice>
+			<price>18099</price>
+			<oldprice>20300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/RoseGold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -50,8 +50,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="azlGWDII7t5E" available="true">
-			<id>azlGWDII7t5E</id>
+		<offer id="We2odYhYuzyu" available="true">
+			<id>We2odYhYuzyu</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -60,8 +60,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone SE 32Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>17499</price>
-			<oldprice>19600</oldprice>
+			<price>18099</price>
+			<oldprice>20300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -73,8 +73,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="bMWu9DbDhS4P" available="true">
-			<id>bMWu9DbDhS4P</id>
+		<offer id="VC0sHTf2myt3" available="true">
+			<id>VC0sHTf2myt3</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -83,8 +83,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone SE 32Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>17499</price>
-			<oldprice>19600</oldprice>
+			<price>18099</price>
+			<oldprice>20300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -96,77 +96,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="2Pu6eiuBn39Q" available="true">
-			<id>2Pu6eiuBn39Q</id>
-			<available>true</available>
-			<delivery>true</delivery>
-			<pickup>false</pickup>
-			<store>false</store>
-			<url>https://amo-led.ru/product/apple_iphone_6_32gb_new</url>
-			<vendor>Apple</vendor>
-			<name>Apple iPhone 6 32Gb Gold новый</name>
-			<category>Мобильные телефоны</category>
-			<price>16999</price>
-			<oldprice>19000</oldprice>
-			<currencyId>RUR</currencyId>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/Gold/img.jpg</picture>
-			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
-			<param></param>
-			<sales_notes></sales_notes>
-			<warranty>от производителя</warranty>
-			<country_of_origin></country_of_origin>
-			<barcode></barcode>
-			<bid></bid>
-			<cbid></cbid>
-		</offer>
-		<offer id="Pq5TbWg8q5Qa" available="true">
-			<id>Pq5TbWg8q5Qa</id>
-			<available>true</available>
-			<delivery>true</delivery>
-			<pickup>false</pickup>
-			<store>false</store>
-			<url>https://amo-led.ru/product/apple_iphone_6_32gb_new</url>
-			<vendor>Apple</vendor>
-			<name>Apple iPhone 6 32Gb Silver новый</name>
-			<category>Мобильные телефоны</category>
-			<price>16999</price>
-			<oldprice>19000</oldprice>
-			<currencyId>RUR</currencyId>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/Silver/img.jpg</picture>
-			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
-			<param></param>
-			<sales_notes></sales_notes>
-			<warranty>от производителя</warranty>
-			<country_of_origin></country_of_origin>
-			<barcode></barcode>
-			<bid></bid>
-			<cbid></cbid>
-		</offer>
-		<offer id="tOiOcA6YDxDa" available="true">
-			<id>tOiOcA6YDxDa</id>
-			<available>true</available>
-			<delivery>true</delivery>
-			<pickup>false</pickup>
-			<store>false</store>
-			<url>https://amo-led.ru/product/apple_iphone_6_32gb_new</url>
-			<vendor>Apple</vendor>
-			<name>Apple iPhone 6 32Gb Space Gray новый</name>
-			<category>Мобильные телефоны</category>
-			<price>16999</price>
-			<oldprice>19000</oldprice>
-			<currencyId>RUR</currencyId>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/SpaceGray/img.jpg</picture>
-			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
-			<param></param>
-			<sales_notes></sales_notes>
-			<warranty>от производителя</warranty>
-			<country_of_origin></country_of_origin>
-			<barcode></barcode>
-			<bid></bid>
-			<cbid></cbid>
-		</offer>
-		<offer id="86KKj68siAuZ" available="true">
-			<id>86KKj68siAuZ</id>
+		<offer id="8oLIKTm7m57T" available="true">
+			<id>8oLIKTm7m57T</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -175,8 +106,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 6S 32Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>18099</price>
-			<oldprice>20300</oldprice>
+			<price>18999</price>
+			<oldprice>21200</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -188,8 +119,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="FuIj6bsND5nv" available="true">
-			<id>FuIj6bsND5nv</id>
+		<offer id="B4NxtT3POyD5" available="true">
+			<id>B4NxtT3POyD5</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -198,8 +129,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 6S 32Gb Rose Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>18099</price>
-			<oldprice>20300</oldprice>
+			<price>18999</price>
+			<oldprice>21200</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/RoseGold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -211,8 +142,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="TBvnvFhID4y0" available="true">
-			<id>TBvnvFhID4y0</id>
+		<offer id="zMnSbL96rTBY" available="true">
+			<id>zMnSbL96rTBY</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -221,8 +152,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 6S 32Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>18099</price>
-			<oldprice>20300</oldprice>
+			<price>18999</price>
+			<oldprice>21200</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -234,8 +165,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ufagsfoNOdLq" available="true">
-			<id>ufagsfoNOdLq</id>
+		<offer id="7rmvsvWrb0bi" available="true">
+			<id>7rmvsvWrb0bi</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -244,8 +175,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 6S 32Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>18099</price>
-			<oldprice>20300</oldprice>
+			<price>18999</price>
+			<oldprice>21200</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -257,100 +188,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="3zwWr8AJdEbX" available="true">
-			<id>3zwWr8AJdEbX</id>
-			<available>true</available>
-			<delivery>true</delivery>
-			<pickup>false</pickup>
-			<store>false</store>
-			<url>https://amo-led.ru/product/apple_iphone_6s_plus_32gb_new</url>
-			<vendor>Apple</vendor>
-			<name>Apple iPhone 6S Plus 32Gb Gold новый</name>
-			<category>Мобильные телефоны</category>
-			<price>22699</price>
-			<oldprice>25300</oldprice>
-			<currencyId>RUR</currencyId>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Gold/img.jpg</picture>
-			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
-			<param></param>
-			<sales_notes></sales_notes>
-			<warranty>от производителя</warranty>
-			<country_of_origin></country_of_origin>
-			<barcode></barcode>
-			<bid></bid>
-			<cbid></cbid>
-		</offer>
-		<offer id="1be4zNtUkP5B" available="true">
-			<id>1be4zNtUkP5B</id>
-			<available>true</available>
-			<delivery>true</delivery>
-			<pickup>false</pickup>
-			<store>false</store>
-			<url>https://amo-led.ru/product/apple_iphone_6s_plus_32gb_new</url>
-			<vendor>Apple</vendor>
-			<name>Apple iPhone 6S Plus 32Gb Rose Gold новый</name>
-			<category>Мобильные телефоны</category>
-			<price>22699</price>
-			<oldprice>25300</oldprice>
-			<currencyId>RUR</currencyId>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/RoseGold/img.jpg</picture>
-			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
-			<param></param>
-			<sales_notes></sales_notes>
-			<warranty>от производителя</warranty>
-			<country_of_origin></country_of_origin>
-			<barcode></barcode>
-			<bid></bid>
-			<cbid></cbid>
-		</offer>
-		<offer id="dT1WMf1jx4Jz" available="true">
-			<id>dT1WMf1jx4Jz</id>
-			<available>true</available>
-			<delivery>true</delivery>
-			<pickup>false</pickup>
-			<store>false</store>
-			<url>https://amo-led.ru/product/apple_iphone_6s_plus_32gb_new</url>
-			<vendor>Apple</vendor>
-			<name>Apple iPhone 6S Plus 32Gb Silver новый</name>
-			<category>Мобильные телефоны</category>
-			<price>22699</price>
-			<oldprice>25300</oldprice>
-			<currencyId>RUR</currencyId>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Silver/img.jpg</picture>
-			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
-			<param></param>
-			<sales_notes></sales_notes>
-			<warranty>от производителя</warranty>
-			<country_of_origin></country_of_origin>
-			<barcode></barcode>
-			<bid></bid>
-			<cbid></cbid>
-		</offer>
-		<offer id="D0n157roDMms" available="true">
-			<id>D0n157roDMms</id>
-			<available>true</available>
-			<delivery>true</delivery>
-			<pickup>false</pickup>
-			<store>false</store>
-			<url>https://amo-led.ru/product/apple_iphone_6s_plus_32gb_new</url>
-			<vendor>Apple</vendor>
-			<name>Apple iPhone 6S Plus 32Gb Space Gray новый</name>
-			<category>Мобильные телефоны</category>
-			<price>22699</price>
-			<oldprice>25300</oldprice>
-			<currencyId>RUR</currencyId>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/SpaceGray/img.jpg</picture>
-			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
-			<param></param>
-			<sales_notes></sales_notes>
-			<warranty>от производителя</warranty>
-			<country_of_origin></country_of_origin>
-			<barcode></barcode>
-			<bid></bid>
-			<cbid></cbid>
-		</offer>
-		<offer id="IHO9J2Uuh68J" available="true">
-			<id>IHO9J2Uuh68J</id>
+		<offer id="71fNFU93FoS1" available="true">
+			<id>71fNFU93FoS1</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -359,8 +198,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 32Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>24399</price>
-			<oldprice>27200</oldprice>
+			<price>24899</price>
+			<oldprice>27700</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -372,8 +211,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="1hCStoJxa9e3" available="true">
-			<id>1hCStoJxa9e3</id>
+		<offer id="LQD4ABto5DtN" available="true">
+			<id>LQD4ABto5DtN</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -382,8 +221,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 32Gb Jet Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>24399</price>
-			<oldprice>27200</oldprice>
+			<price>24899</price>
+			<oldprice>27700</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/JetBlack/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -395,8 +234,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="K47Qe3tWtI5Y" available="true">
-			<id>K47Qe3tWtI5Y</id>
+		<offer id="kAxOqOmiMhuV" available="true">
+			<id>kAxOqOmiMhuV</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -405,8 +244,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 32Gb Matte Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>24399</price>
-			<oldprice>27200</oldprice>
+			<price>24899</price>
+			<oldprice>27700</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/MatteBlack/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -418,8 +257,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="X1xCuhKF1YoJ" available="true">
-			<id>X1xCuhKF1YoJ</id>
+		<offer id="m1yyo9dicnGW" available="true">
+			<id>m1yyo9dicnGW</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -428,8 +267,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 32Gb Rose Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>24399</price>
-			<oldprice>27200</oldprice>
+			<price>24899</price>
+			<oldprice>27700</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/RoseGold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -441,8 +280,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="HRxoUyGhaJCJ" available="true">
-			<id>HRxoUyGhaJCJ</id>
+		<offer id="CsKFXTMTelPl" available="true">
+			<id>CsKFXTMTelPl</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -451,8 +290,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 32Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>24399</price>
-			<oldprice>27200</oldprice>
+			<price>24899</price>
+			<oldprice>27700</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -464,8 +303,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="b8XahfwpVUPr" available="true">
-			<id>b8XahfwpVUPr</id>
+		<offer id="5XnXzkvb9p2s" available="true">
+			<id>5XnXzkvb9p2s</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -474,8 +313,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 128Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>28499</price>
-			<oldprice>31700</oldprice>
+			<price>29699</price>
+			<oldprice>33000</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -487,8 +326,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="hXxvoX8DLINJ" available="true">
-			<id>hXxvoX8DLINJ</id>
+		<offer id="kBg2hzFfF3AO" available="true">
+			<id>kBg2hzFfF3AO</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -497,8 +336,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 128Gb Jet Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>28499</price>
-			<oldprice>31700</oldprice>
+			<price>29699</price>
+			<oldprice>33000</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/JetBlack/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -510,8 +349,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="FLPcjcSLm7eI" available="true">
-			<id>FLPcjcSLm7eI</id>
+		<offer id="tAPdGgB2OSjj" available="true">
+			<id>tAPdGgB2OSjj</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -520,8 +359,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 128Gb Matte Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>28499</price>
-			<oldprice>31700</oldprice>
+			<price>29699</price>
+			<oldprice>33000</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/MatteBlack/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -533,8 +372,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="4xp9iCszq0qp" available="true">
-			<id>4xp9iCszq0qp</id>
+		<offer id="oNA9kf0gadW0" available="true">
+			<id>oNA9kf0gadW0</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -543,8 +382,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 128Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>28499</price>
-			<oldprice>31700</oldprice>
+			<price>29699</price>
+			<oldprice>33000</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -556,8 +395,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="i7LZD6sazIWf" available="true">
-			<id>i7LZD6sazIWf</id>
+		<offer id="f2janAiRlKcf" available="true">
+			<id>f2janAiRlKcf</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -566,8 +405,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 128Gb Rose Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>28499</price>
-			<oldprice>31700</oldprice>
+			<price>29699</price>
+			<oldprice>33000</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/RoseGold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -579,8 +418,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="3WvY1v5IiOkf" available="true">
-			<id>3WvY1v5IiOkf</id>
+		<offer id="oPtwfRR1LsDL" available="true">
+			<id>oPtwfRR1LsDL</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -589,8 +428,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 128Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>28499</price>
-			<oldprice>31700</oldprice>
+			<price>29699</price>
+			<oldprice>33000</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -602,8 +441,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="VEGYGsLkIIfT" available="true">
-			<id>VEGYGsLkIIfT</id>
+		<offer id="3HkP0rqgqTfw" available="true">
+			<id>3HkP0rqgqTfw</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -612,8 +451,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 256Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>29599</price>
-			<oldprice>32900</oldprice>
+			<price>31799</price>
+			<oldprice>35300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -625,8 +464,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="4hsgK8uNc4Kg" available="true">
-			<id>4hsgK8uNc4Kg</id>
+		<offer id="tSmDppMy2zIX" available="true">
+			<id>tSmDppMy2zIX</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -635,8 +474,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 256Gb Jet Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>29599</price>
-			<oldprice>32900</oldprice>
+			<price>31799</price>
+			<oldprice>35300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/JetBlack/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -648,8 +487,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="du7D02sMX6ZW" available="true">
-			<id>du7D02sMX6ZW</id>
+		<offer id="ryMtnXzzNCTh" available="true">
+			<id>ryMtnXzzNCTh</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -658,8 +497,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 256Gb Matte Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>29599</price>
-			<oldprice>32900</oldprice>
+			<price>31799</price>
+			<oldprice>35300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/MatteBlack/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -671,8 +510,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="e55sxl5EbHcM" available="true">
-			<id>e55sxl5EbHcM</id>
+		<offer id="RHyFRBoi1nQq" available="true">
+			<id>RHyFRBoi1nQq</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -681,8 +520,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 256Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>29599</price>
-			<oldprice>32900</oldprice>
+			<price>31799</price>
+			<oldprice>35300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -694,8 +533,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="HN59mm1xorDW" available="true">
-			<id>HN59mm1xorDW</id>
+		<offer id="MMWIRyx6XZmO" available="true">
+			<id>MMWIRyx6XZmO</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -704,8 +543,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 256Gb Rose Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>29599</price>
-			<oldprice>32900</oldprice>
+			<price>31799</price>
+			<oldprice>35300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/RoseGold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -717,8 +556,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="v9OKiSUBuekB" available="true">
-			<id>v9OKiSUBuekB</id>
+		<offer id="l1hf5CO9b4et" available="true">
+			<id>l1hf5CO9b4et</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -727,8 +566,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 256Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>29599</price>
-			<oldprice>32900</oldprice>
+			<price>31799</price>
+			<oldprice>35300</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -740,8 +579,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ceD8rqwz3fay" available="true">
-			<id>ceD8rqwz3fay</id>
+		<offer id="i9vt7yf88vHr" available="true">
+			<id>i9vt7yf88vHr</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -750,8 +589,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 Plus 32Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>31299</price>
-			<oldprice>34800</oldprice>
+			<price>31999</price>
+			<oldprice>35500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -763,8 +602,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="aZiKISLUGZP1" available="true">
-			<id>aZiKISLUGZP1</id>
+		<offer id="ZJ0Uw6hdxbZO" available="true">
+			<id>ZJ0Uw6hdxbZO</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -773,8 +612,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 Plus 32Gb Jet Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>31299</price>
-			<oldprice>34800</oldprice>
+			<price>31999</price>
+			<oldprice>35500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/JetBlack/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -786,8 +625,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="u0lExPYdx8ny" available="true">
-			<id>u0lExPYdx8ny</id>
+		<offer id="DX2XtwiZw1s5" available="true">
+			<id>DX2XtwiZw1s5</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -796,8 +635,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 Plus 32Gb Matte Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>31299</price>
-			<oldprice>34800</oldprice>
+			<price>31999</price>
+			<oldprice>35500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/MatteBlack/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -809,8 +648,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="4gvDwUggY38J" available="true">
-			<id>4gvDwUggY38J</id>
+		<offer id="7zz9p5lOjaP1" available="true">
+			<id>7zz9p5lOjaP1</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -819,8 +658,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 Plus 32Gb Rose Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>31299</price>
-			<oldprice>34800</oldprice>
+			<price>31999</price>
+			<oldprice>35500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/RoseGold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -832,8 +671,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ypUfsYxaFA55" available="true">
-			<id>ypUfsYxaFA55</id>
+		<offer id="jD0Ec2VHTxff" available="true">
+			<id>jD0Ec2VHTxff</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -842,8 +681,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 Plus 32Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>31299</price>
-			<oldprice>34800</oldprice>
+			<price>31999</price>
+			<oldprice>35500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -855,8 +694,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="gTYEPAM50g0G" available="true">
-			<id>gTYEPAM50g0G</id>
+		<offer id="QjyH9xfh8MH6" available="true">
+			<id>QjyH9xfh8MH6</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -865,8 +704,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 Plus 128Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>36499</price>
-			<oldprice>40500</oldprice>
+			<price>41099</price>
+			<oldprice>45600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -878,8 +717,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="io9RqaAeyjlC" available="true">
-			<id>io9RqaAeyjlC</id>
+		<offer id="vMtaX22cbLrF" available="true">
+			<id>vMtaX22cbLrF</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -888,8 +727,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 Plus 128Gb Jet Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>36499</price>
-			<oldprice>40500</oldprice>
+			<price>41099</price>
+			<oldprice>45600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/JetBlack/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -901,8 +740,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="mCSs7rxHmeGX" available="true">
-			<id>mCSs7rxHmeGX</id>
+		<offer id="1t0XJP7jWAHO" available="true">
+			<id>1t0XJP7jWAHO</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -911,8 +750,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 Plus 128Gb Matte Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>36499</price>
-			<oldprice>40500</oldprice>
+			<price>41099</price>
+			<oldprice>45600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/MatteBlack/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -924,8 +763,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="6PeuLLEhVlv3" available="true">
-			<id>6PeuLLEhVlv3</id>
+		<offer id="TJihvKVvUqLQ" available="true">
+			<id>TJihvKVvUqLQ</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -934,8 +773,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 Plus 128Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>36499</price>
-			<oldprice>40500</oldprice>
+			<price>41099</price>
+			<oldprice>45600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -947,8 +786,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="kznwUyxsgth0" available="true">
-			<id>kznwUyxsgth0</id>
+		<offer id="D3Z9tkugN3eC" available="true">
+			<id>D3Z9tkugN3eC</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -957,8 +796,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 Plus 128Gb Rose Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>36499</price>
-			<oldprice>40500</oldprice>
+			<price>41099</price>
+			<oldprice>45600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/RoseGold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -970,8 +809,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="CiSgCnWnFn3a" available="true">
-			<id>CiSgCnWnFn3a</id>
+		<offer id="tW1rH1ydvdkm" available="true">
+			<id>tW1rH1ydvdkm</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -980,8 +819,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 Plus 128Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>36499</price>
-			<oldprice>40500</oldprice>
+			<price>41099</price>
+			<oldprice>45600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -993,8 +832,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="BjKIIt3dq2Md" available="true">
-			<id>BjKIIt3dq2Md</id>
+		<offer id="uBz6v7SOD3BU" available="true">
+			<id>uBz6v7SOD3BU</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1003,8 +842,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 Plus 256Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>41099</price>
-			<oldprice>45600</oldprice>
+			<price>43299</price>
+			<oldprice>48000</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1016,8 +855,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="BvWBbKBTDChg" available="true">
-			<id>BvWBbKBTDChg</id>
+		<offer id="yP7mpkVuQo4f" available="true">
+			<id>yP7mpkVuQo4f</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1026,8 +865,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 Plus 256Gb Jet Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>41099</price>
-			<oldprice>45600</oldprice>
+			<price>43299</price>
+			<oldprice>48000</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/JetBlack/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1039,8 +878,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="hvKFgSKgAhor" available="true">
-			<id>hvKFgSKgAhor</id>
+		<offer id="rMrxYGibh1Ko" available="true">
+			<id>rMrxYGibh1Ko</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1049,8 +888,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 Plus 256Gb Matte Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>41099</price>
-			<oldprice>45600</oldprice>
+			<price>43299</price>
+			<oldprice>48000</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/MatteBlack/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1062,8 +901,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="0No5Wyrjl56y" available="true">
-			<id>0No5Wyrjl56y</id>
+		<offer id="cczLhl8n2I5Q" available="true">
+			<id>cczLhl8n2I5Q</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1072,8 +911,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 Plus 256Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>41099</price>
-			<oldprice>45600</oldprice>
+			<price>43299</price>
+			<oldprice>48000</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1085,8 +924,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ixlygUqiUmhd" available="true">
-			<id>ixlygUqiUmhd</id>
+		<offer id="OkvBnEsD2Qbp" available="true">
+			<id>OkvBnEsD2Qbp</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1095,8 +934,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 Plus 256Gb Rose Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>41099</price>
-			<oldprice>45600</oldprice>
+			<price>43299</price>
+			<oldprice>48000</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/RoseGold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1108,8 +947,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ytsm72rNISl1" available="true">
-			<id>ytsm72rNISl1</id>
+		<offer id="3aykPYFqcd3V" available="true">
+			<id>3aykPYFqcd3V</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1118,8 +957,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 7 Plus 256Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>41099</price>
-			<oldprice>45600</oldprice>
+			<price>43299</price>
+			<oldprice>48000</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1131,8 +970,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="nB5iZr7hHkvC" available="true">
-			<id>nB5iZr7hHkvC</id>
+		<offer id="1p04MWhZBgPP" available="true">
+			<id>1p04MWhZBgPP</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1141,8 +980,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 64Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>32499</price>
-			<oldprice>36100</oldprice>
+			<price>36499</price>
+			<oldprice>40500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1154,8 +993,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="FM72TaNr28eL" available="true">
-			<id>FM72TaNr28eL</id>
+		<offer id="keJGScM2gTnJ" available="true">
+			<id>keJGScM2gTnJ</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1164,8 +1003,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 64Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>32499</price>
-			<oldprice>36100</oldprice>
+			<price>36499</price>
+			<oldprice>40500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1177,8 +1016,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="cNUKWZfHQTdZ" available="true">
-			<id>cNUKWZfHQTdZ</id>
+		<offer id="4CGcv0Ww4BFg" available="true">
+			<id>4CGcv0Ww4BFg</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1187,8 +1026,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 64Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>32499</price>
-			<oldprice>36100</oldprice>
+			<price>36499</price>
+			<oldprice>40500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1200,8 +1039,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="l9d5cL4m5ylh" available="true">
-			<id>l9d5cL4m5ylh</id>
+		<offer id="SRhyMwsmdBIy" available="true">
+			<id>SRhyMwsmdBIy</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1210,8 +1049,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 64Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>32499</price>
-			<oldprice>36100</oldprice>
+			<price>36499</price>
+			<oldprice>40500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1223,8 +1062,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="7OacX2ALOOfu" available="true">
-			<id>7OacX2ALOOfu</id>
+		<offer id="IEBzjlR1ANN4" available="true">
+			<id>IEBzjlR1ANN4</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1233,8 +1072,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 256Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>37699</price>
-			<oldprice>41800</oldprice>
+			<price>44799</price>
+			<oldprice>49600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1246,8 +1085,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="KeMHttSnye29" available="true">
-			<id>KeMHttSnye29</id>
+		<offer id="mEDOHmg3XeYr" available="true">
+			<id>mEDOHmg3XeYr</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1256,8 +1095,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 256Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>37699</price>
-			<oldprice>41800</oldprice>
+			<price>44799</price>
+			<oldprice>49600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1269,8 +1108,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="WFIfii7mYy8Z" available="true">
-			<id>WFIfii7mYy8Z</id>
+		<offer id="lMFq9Csvdc2g" available="true">
+			<id>lMFq9Csvdc2g</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1279,8 +1118,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 256Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>37699</price>
-			<oldprice>41800</oldprice>
+			<price>44799</price>
+			<oldprice>49600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1292,8 +1131,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="UjCirEi3R719" available="true">
-			<id>UjCirEi3R719</id>
+		<offer id="YPJCKtoQw9tB" available="true">
+			<id>YPJCKtoQw9tB</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1302,8 +1141,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 256Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>37699</price>
-			<oldprice>41800</oldprice>
+			<price>44799</price>
+			<oldprice>49600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1315,8 +1154,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="hEsYEvtE5gV2" available="true">
-			<id>hEsYEvtE5gV2</id>
+		<offer id="vdkRXw3WLo1N" available="true">
+			<id>vdkRXw3WLo1N</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1325,8 +1164,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 Plus 64Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>40499</price>
-			<oldprice>44900</oldprice>
+			<price>40699</price>
+			<oldprice>45100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1338,8 +1177,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="CHQc1X7OJDNA" available="true">
-			<id>CHQc1X7OJDNA</id>
+		<offer id="jGCAwUxARtcT" available="true">
+			<id>jGCAwUxARtcT</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1348,8 +1187,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 Plus 64Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>40499</price>
-			<oldprice>44900</oldprice>
+			<price>40699</price>
+			<oldprice>45100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1361,8 +1200,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="0jke4fva1OHy" available="true">
-			<id>0jke4fva1OHy</id>
+		<offer id="9pj1KpXgbuhz" available="true">
+			<id>9pj1KpXgbuhz</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1371,8 +1210,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 Plus 64Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>40499</price>
-			<oldprice>44900</oldprice>
+			<price>40699</price>
+			<oldprice>45100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1384,8 +1223,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ZQZoxcd4WrCz" available="true">
-			<id>ZQZoxcd4WrCz</id>
+		<offer id="b56LWA3DdABe" available="true">
+			<id>b56LWA3DdABe</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1394,8 +1233,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 Plus 64Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>40499</price>
-			<oldprice>44900</oldprice>
+			<price>40699</price>
+			<oldprice>45100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1407,8 +1246,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="gjDHCv1Bie02" available="true">
-			<id>gjDHCv1Bie02</id>
+		<offer id="wKgvyqVLcbTV" available="true">
+			<id>wKgvyqVLcbTV</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1417,8 +1256,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 Plus 256Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>45099</price>
-			<oldprice>50000</oldprice>
+			<price>47499</price>
+			<oldprice>52600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1430,8 +1269,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="dff6mg8urjtY" available="true">
-			<id>dff6mg8urjtY</id>
+		<offer id="RjqvmMkJKUjH" available="true">
+			<id>RjqvmMkJKUjH</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1440,8 +1279,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 Plus 256Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>45099</price>
-			<oldprice>50000</oldprice>
+			<price>47499</price>
+			<oldprice>52600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1453,8 +1292,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="uxZCuz5Dlt5C" available="true">
-			<id>uxZCuz5Dlt5C</id>
+		<offer id="BOSExUYOub9T" available="true">
+			<id>BOSExUYOub9T</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1463,8 +1302,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 Plus 256Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>45099</price>
-			<oldprice>50000</oldprice>
+			<price>47499</price>
+			<oldprice>52600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1476,8 +1315,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="QSpIj4fiLD15" available="true">
-			<id>QSpIj4fiLD15</id>
+		<offer id="2ER6RGSJUBVZ" available="true">
+			<id>2ER6RGSJUBVZ</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1486,8 +1325,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 8 Plus 256Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>45099</price>
-			<oldprice>50000</oldprice>
+			<price>47499</price>
+			<oldprice>52600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1499,8 +1338,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="gfoyfcRrfan8" available="true">
-			<id>gfoyfcRrfan8</id>
+		<offer id="N2HT2ct5Z3MD" available="true">
+			<id>N2HT2ct5Z3MD</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1509,8 +1348,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone X 64Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>48599</price>
-			<oldprice>53800</oldprice>
+			<price>47499</price>
+			<oldprice>52600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/X/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1522,8 +1361,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="z9XLIh7hpqSx" available="true">
-			<id>z9XLIh7hpqSx</id>
+		<offer id="FMqJBgtTFLDd" available="true">
+			<id>FMqJBgtTFLDd</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1532,8 +1371,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone X 64Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>48599</price>
-			<oldprice>53800</oldprice>
+			<price>47499</price>
+			<oldprice>52600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/X/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1545,8 +1384,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="zQAvJVgIhtJt" available="true">
-			<id>zQAvJVgIhtJt</id>
+		<offer id="216Zf5N4BJMn" available="true">
+			<id>216Zf5N4BJMn</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1555,8 +1394,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone X 256Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>51999</price>
-			<oldprice>57500</oldprice>
+			<price>52599</price>
+			<oldprice>58200</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/X/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1568,8 +1407,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="eqqhFjTi3NVC" available="true">
-			<id>eqqhFjTi3NVC</id>
+		<offer id="k1UwxwhINAXu" available="true">
+			<id>k1UwxwhINAXu</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1578,8 +1417,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone X 256Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>51999</price>
-			<oldprice>57500</oldprice>
+			<price>52599</price>
+			<oldprice>58200</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/X/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1591,8 +1430,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="sz1HUrBEZSvb" available="true">
-			<id>sz1HUrBEZSvb</id>
+		<offer id="sNueJ0fQUYpn" available="true">
+			<id>sNueJ0fQUYpn</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1601,8 +1440,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 64Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>44599</price>
-			<oldprice>49400</oldprice>
+			<price>46099</price>
+			<oldprice>51100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1614,8 +1453,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="owlzmapE6p7o" available="true">
-			<id>owlzmapE6p7o</id>
+		<offer id="7bo6fLHMDzBw" available="true">
+			<id>7bo6fLHMDzBw</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1624,8 +1463,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 64Gb Blue новый</name>
 			<category>Мобильные телефоны</category>
-			<price>44599</price>
-			<oldprice>49400</oldprice>
+			<price>46099</price>
+			<oldprice>51100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Blue/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1637,8 +1476,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="FGfBXhnfmxN0" available="true">
-			<id>FGfBXhnfmxN0</id>
+		<offer id="TGl01mkG65V3" available="true">
+			<id>TGl01mkG65V3</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1647,8 +1486,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 64Gb Coral новый</name>
 			<category>Мобильные телефоны</category>
-			<price>44599</price>
-			<oldprice>49400</oldprice>
+			<price>46099</price>
+			<oldprice>51100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Coral/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1660,8 +1499,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="6QH1WN2a9zBC" available="true">
-			<id>6QH1WN2a9zBC</id>
+		<offer id="cnMWMEoJQAwV" available="true">
+			<id>cnMWMEoJQAwV</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1670,8 +1509,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 64Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>44599</price>
-			<oldprice>49400</oldprice>
+			<price>46099</price>
+			<oldprice>51100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1683,8 +1522,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="i5CnuXdgrIM3" available="true">
-			<id>i5CnuXdgrIM3</id>
+		<offer id="X6ZDNGYTza4f" available="true">
+			<id>X6ZDNGYTza4f</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1693,8 +1532,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 64Gb White новый</name>
 			<category>Мобильные телефоны</category>
-			<price>44599</price>
-			<oldprice>49400</oldprice>
+			<price>46099</price>
+			<oldprice>51100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/White/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1706,8 +1545,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="rHZgcRqBz46o" available="true">
-			<id>rHZgcRqBz46o</id>
+		<offer id="xrs9L3vWE4lU" available="true">
+			<id>xrs9L3vWE4lU</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1716,8 +1555,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 64Gb Yellow новый</name>
 			<category>Мобильные телефоны</category>
-			<price>44599</price>
-			<oldprice>49400</oldprice>
+			<price>46099</price>
+			<oldprice>51100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Yellow/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1729,8 +1568,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="OdUs5wO4aPPq" available="true">
-			<id>OdUs5wO4aPPq</id>
+		<offer id="uVGFA4C3e82e" available="true">
+			<id>uVGFA4C3e82e</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1739,8 +1578,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 128Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>47999</price>
-			<oldprice>53100</oldprice>
+			<price>49499</price>
+			<oldprice>54800</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1752,8 +1591,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="jRFqXRQMctJH" available="true">
-			<id>jRFqXRQMctJH</id>
+		<offer id="O2ZCK0ZIcgC1" available="true">
+			<id>O2ZCK0ZIcgC1</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1762,8 +1601,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 128Gb Blue новый</name>
 			<category>Мобильные телефоны</category>
-			<price>47999</price>
-			<oldprice>53100</oldprice>
+			<price>49499</price>
+			<oldprice>54800</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Blue/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1775,8 +1614,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="uz5Xp5q9xWNh" available="true">
-			<id>uz5Xp5q9xWNh</id>
+		<offer id="wciaiUbmpwoo" available="true">
+			<id>wciaiUbmpwoo</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1785,8 +1624,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 128Gb Coral новый</name>
 			<category>Мобильные телефоны</category>
-			<price>47999</price>
-			<oldprice>53100</oldprice>
+			<price>49499</price>
+			<oldprice>54800</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Coral/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1798,8 +1637,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="vMNz9SnBGXoH" available="true">
-			<id>vMNz9SnBGXoH</id>
+		<offer id="aSIxAWfC7WaD" available="true">
+			<id>aSIxAWfC7WaD</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1808,8 +1647,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 128Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>47999</price>
-			<oldprice>53100</oldprice>
+			<price>49499</price>
+			<oldprice>54800</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1821,8 +1660,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="cYakeCCuodkv" available="true">
-			<id>cYakeCCuodkv</id>
+		<offer id="wklDWlJGTTiW" available="true">
+			<id>wklDWlJGTTiW</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1831,8 +1670,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 128Gb White новый</name>
 			<category>Мобильные телефоны</category>
-			<price>47999</price>
-			<oldprice>53100</oldprice>
+			<price>49499</price>
+			<oldprice>54800</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/White/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1844,8 +1683,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="DRlJgD1jdkFc" available="true">
-			<id>DRlJgD1jdkFc</id>
+		<offer id="HFVD9Kn9qQ55" available="true">
+			<id>HFVD9Kn9qQ55</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1854,8 +1693,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 128Gb Yellow новый</name>
 			<category>Мобильные телефоны</category>
-			<price>47999</price>
-			<oldprice>53100</oldprice>
+			<price>49499</price>
+			<oldprice>54800</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Yellow/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1867,8 +1706,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="eTtBA9RwkFrl" available="true">
-			<id>eTtBA9RwkFrl</id>
+		<offer id="f83ULdHQ6G8C" available="true">
+			<id>f83ULdHQ6G8C</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1877,8 +1716,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 256Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>49199</price>
-			<oldprice>54500</oldprice>
+			<price>53799</price>
+			<oldprice>59500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1890,8 +1729,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="UNeDAECickJY" available="true">
-			<id>UNeDAECickJY</id>
+		<offer id="8G3kd1jkt3vI" available="true">
+			<id>8G3kd1jkt3vI</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1900,8 +1739,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 256Gb Blue новый</name>
 			<category>Мобильные телефоны</category>
-			<price>49199</price>
-			<oldprice>54500</oldprice>
+			<price>53799</price>
+			<oldprice>59500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Blue/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1913,8 +1752,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="Au645oG5tKAW" available="true">
-			<id>Au645oG5tKAW</id>
+		<offer id="t3x4GjnyhPn4" available="true">
+			<id>t3x4GjnyhPn4</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1923,8 +1762,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 256Gb Coral новый</name>
 			<category>Мобильные телефоны</category>
-			<price>49199</price>
-			<oldprice>54500</oldprice>
+			<price>53799</price>
+			<oldprice>59500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Coral/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1936,8 +1775,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="Alrjmv37WrRO" available="true">
-			<id>Alrjmv37WrRO</id>
+		<offer id="IZu1zsO4iKN5" available="true">
+			<id>IZu1zsO4iKN5</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1946,8 +1785,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 256Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>49199</price>
-			<oldprice>54500</oldprice>
+			<price>53799</price>
+			<oldprice>59500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1959,8 +1798,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="j1vMLLJwnEds" available="true">
-			<id>j1vMLLJwnEds</id>
+		<offer id="OZ9I7XAmhNOQ" available="true">
+			<id>OZ9I7XAmhNOQ</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1969,8 +1808,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 256Gb White новый</name>
 			<category>Мобильные телефоны</category>
-			<price>49199</price>
-			<oldprice>54500</oldprice>
+			<price>53799</price>
+			<oldprice>59500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/White/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -1982,8 +1821,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="w56pFR1JFIdC" available="true">
-			<id>w56pFR1JFIdC</id>
+		<offer id="JOaSzZakHbch" available="true">
+			<id>JOaSzZakHbch</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -1992,8 +1831,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XR 256Gb Yellow новый</name>
 			<category>Мобильные телефоны</category>
-			<price>49199</price>
-			<oldprice>54500</oldprice>
+			<price>53799</price>
+			<oldprice>59500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XR/Yellow/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2005,8 +1844,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="MLcXlVyTkxl0" available="true">
-			<id>MLcXlVyTkxl0</id>
+		<offer id="d5qykcwAN62a" available="true">
+			<id>d5qykcwAN62a</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2015,8 +1854,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS 64Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>54299</price>
-			<oldprice>60100</oldprice>
+			<price>49299</price>
+			<oldprice>54600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XS/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2028,8 +1867,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="E3zo52nVjATC" available="true">
-			<id>E3zo52nVjATC</id>
+		<offer id="G0m3cAjJi42W" available="true">
+			<id>G0m3cAjJi42W</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2038,8 +1877,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS 64Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>54299</price>
-			<oldprice>60100</oldprice>
+			<price>49299</price>
+			<oldprice>54600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XS/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2051,8 +1890,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="92Z1ZkiNgT8q" available="true">
-			<id>92Z1ZkiNgT8q</id>
+		<offer id="aWrr484eukgd" available="true">
+			<id>aWrr484eukgd</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2061,8 +1900,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS 64Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>54299</price>
-			<oldprice>60100</oldprice>
+			<price>49299</price>
+			<oldprice>54600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XS/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2074,8 +1913,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="pHTJLKomzbia" available="true">
-			<id>pHTJLKomzbia</id>
+		<offer id="o2ehG1XRfCQl" available="true">
+			<id>o2ehG1XRfCQl</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2084,8 +1923,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS 256Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>61199</price>
-			<oldprice>67700</oldprice>
+			<price>56599</price>
+			<oldprice>62600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XS/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2097,8 +1936,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="4pR207Qw93FQ" available="true">
-			<id>4pR207Qw93FQ</id>
+		<offer id="WUicua5Tshja" available="true">
+			<id>WUicua5Tshja</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2107,8 +1946,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS 256Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>61199</price>
-			<oldprice>67700</oldprice>
+			<price>56599</price>
+			<oldprice>62600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XS/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2120,8 +1959,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="4imenWMkh53O" available="true">
-			<id>4imenWMkh53O</id>
+		<offer id="NwCL01d8nByq" available="true">
+			<id>NwCL01d8nByq</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2130,8 +1969,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS 256Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>61199</price>
-			<oldprice>67700</oldprice>
+			<price>56599</price>
+			<oldprice>62600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XS/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2143,8 +1982,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="A4bQQ0lh6Ulp" available="true">
-			<id>A4bQQ0lh6Ulp</id>
+		<offer id="0OqleJUsP02L" available="true">
+			<id>0OqleJUsP02L</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2153,8 +1992,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS 512Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>64699</price>
-			<oldprice>71500</oldprice>
+			<price>59099</price>
+			<oldprice>65400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XS/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2166,8 +2005,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="XukPFsIc9gYd" available="true">
-			<id>XukPFsIc9gYd</id>
+		<offer id="zl4B25W6LaFe" available="true">
+			<id>zl4B25W6LaFe</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2176,8 +2015,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS 512Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>64699</price>
-			<oldprice>71500</oldprice>
+			<price>59099</price>
+			<oldprice>65400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XS/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2189,8 +2028,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="jwvURrxswhRm" available="true">
-			<id>jwvURrxswhRm</id>
+		<offer id="i6F19vNk9t8t" available="true">
+			<id>i6F19vNk9t8t</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2199,8 +2038,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS 512Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>64699</price>
-			<oldprice>71500</oldprice>
+			<price>59099</price>
+			<oldprice>65400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XS/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2212,8 +2051,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="C0Zsq07niwmk" available="true">
-			<id>C0Zsq07niwmk</id>
+		<offer id="znUvVreUU5UV" available="true">
+			<id>znUvVreUU5UV</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2222,8 +2061,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 64Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>57799</price>
-			<oldprice>63900</oldprice>
+			<price>56099</price>
+			<oldprice>62100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2235,8 +2074,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="xH5JbqxyZjZZ" available="true">
-			<id>xH5JbqxyZjZZ</id>
+		<offer id="5ysGiDNvo1Sz" available="true">
+			<id>5ysGiDNvo1Sz</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2245,8 +2084,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 64Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>57799</price>
-			<oldprice>63900</oldprice>
+			<price>56099</price>
+			<oldprice>62100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2258,8 +2097,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="OMOBQCEYJaLj" available="true">
-			<id>OMOBQCEYJaLj</id>
+		<offer id="ynVypgQiugSq" available="true">
+			<id>ynVypgQiugSq</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2268,8 +2107,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 64Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>57799</price>
-			<oldprice>63900</oldprice>
+			<price>56099</price>
+			<oldprice>62100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2281,8 +2120,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="UaF1xMsYj9VJ" available="true">
-			<id>UaF1xMsYj9VJ</id>
+		<offer id="RbF2RrSs5muI" available="true">
+			<id>RbF2RrSs5muI</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2291,8 +2130,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 256Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>65799</price>
-			<oldprice>72700</oldprice>
+			<price>66799</price>
+			<oldprice>73800</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2304,8 +2143,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="LFFWeIzzM0HQ" available="true">
-			<id>LFFWeIzzM0HQ</id>
+		<offer id="LHV6i5i5QqDW" available="true">
+			<id>LHV6i5i5QqDW</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2314,8 +2153,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 256Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>65799</price>
-			<oldprice>72700</oldprice>
+			<price>66799</price>
+			<oldprice>73800</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2327,8 +2166,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="wUx6X0q7rQu1" available="true">
-			<id>wUx6X0q7rQu1</id>
+		<offer id="NtC29cc5fLtG" available="true">
+			<id>NtC29cc5fLtG</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2337,8 +2176,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 256Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>65799</price>
-			<oldprice>72700</oldprice>
+			<price>66799</price>
+			<oldprice>73800</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2350,8 +2189,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="RupTocVkvDk8" available="true">
-			<id>RupTocVkvDk8</id>
+		<offer id="h69u4GJjUt9m" available="true">
+			<id>h69u4GJjUt9m</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2360,8 +2199,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 512Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>68099</price>
-			<oldprice>75300</oldprice>
+			<price>71599</price>
+			<oldprice>79100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2373,8 +2212,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ucyKPBbSwePU" available="true">
-			<id>ucyKPBbSwePU</id>
+		<offer id="zJHZt4sT0JKp" available="true">
+			<id>zJHZt4sT0JKp</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2383,8 +2222,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 512Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>68099</price>
-			<oldprice>75300</oldprice>
+			<price>71599</price>
+			<oldprice>79100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2396,8 +2235,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ieCXpCKvI6IG" available="true">
-			<id>ieCXpCKvI6IG</id>
+		<offer id="EDDBcDRawbkt" available="true">
+			<id>EDDBcDRawbkt</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2406,8 +2245,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone XS Max 512Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>68099</price>
-			<oldprice>75300</oldprice>
+			<price>71599</price>
+			<oldprice>79100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/XSMax/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2419,8 +2258,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="9OohLyYQMCgF" available="true">
-			<id>9OohLyYQMCgF</id>
+		<offer id="EgJwlZEnJFlP" available="true">
+			<id>EgJwlZEnJFlP</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2429,8 +2268,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 64Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>57799</price>
-			<oldprice>63900</oldprice>
+			<price>54699</price>
+			<oldprice>60500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2442,8 +2281,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="BfSHiSme2WjG" available="true">
-			<id>BfSHiSme2WjG</id>
+		<offer id="MH4CA4PnyaaG" available="true">
+			<id>MH4CA4PnyaaG</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2452,8 +2291,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 64Gb Green новый</name>
 			<category>Мобильные телефоны</category>
-			<price>57799</price>
-			<oldprice>63900</oldprice>
+			<price>54699</price>
+			<oldprice>60500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/Green/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2465,8 +2304,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="qGnKfhH7iYt5" available="true">
-			<id>qGnKfhH7iYt5</id>
+		<offer id="Tz9Cza0KzU9U" available="true">
+			<id>Tz9Cza0KzU9U</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2475,8 +2314,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 64Gb Purple новый</name>
 			<category>Мобильные телефоны</category>
-			<price>57799</price>
-			<oldprice>63900</oldprice>
+			<price>54699</price>
+			<oldprice>60500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/Purple/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2488,8 +2327,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="nTEQ5dGFZRw1" available="true">
-			<id>nTEQ5dGFZRw1</id>
+		<offer id="WHdVNfTcb3A6" available="true">
+			<id>WHdVNfTcb3A6</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2498,8 +2337,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 64Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>57799</price>
-			<oldprice>63900</oldprice>
+			<price>54699</price>
+			<oldprice>60500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2511,8 +2350,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="EMtCSyHExj7A" available="true">
-			<id>EMtCSyHExj7A</id>
+		<offer id="WpeQjy9R6lWZ" available="true">
+			<id>WpeQjy9R6lWZ</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2521,8 +2360,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 64Gb White новый</name>
 			<category>Мобильные телефоны</category>
-			<price>57799</price>
-			<oldprice>63900</oldprice>
+			<price>54699</price>
+			<oldprice>60500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/White/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2534,8 +2373,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="0o9qIy1g7GdI" available="true">
-			<id>0o9qIy1g7GdI</id>
+		<offer id="uMlLwV4mS5Bo" available="true">
+			<id>uMlLwV4mS5Bo</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2544,8 +2383,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 64Gb Yellow новый</name>
 			<category>Мобильные телефоны</category>
-			<price>57799</price>
-			<oldprice>63900</oldprice>
+			<price>54699</price>
+			<oldprice>60500</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/Yellow/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2557,8 +2396,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="I1UDNDSLqEXx" available="true">
-			<id>I1UDNDSLqEXx</id>
+		<offer id="cItEElA6IZHD" available="true">
+			<id>cItEElA6IZHD</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2567,8 +2406,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 128Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>62399</price>
-			<oldprice>69000</oldprice>
+			<price>59599</price>
+			<oldprice>65900</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2580,8 +2419,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="0OfY2kaWtN9S" available="true">
-			<id>0OfY2kaWtN9S</id>
+		<offer id="Voy2TK4L2Rgb" available="true">
+			<id>Voy2TK4L2Rgb</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2590,8 +2429,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 128Gb Green новый</name>
 			<category>Мобильные телефоны</category>
-			<price>62399</price>
-			<oldprice>69000</oldprice>
+			<price>59599</price>
+			<oldprice>65900</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/Green/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2603,8 +2442,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="QtEZIpIvVYya" available="true">
-			<id>QtEZIpIvVYya</id>
+		<offer id="01peeihhInkr" available="true">
+			<id>01peeihhInkr</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2613,8 +2452,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 128Gb Purple новый</name>
 			<category>Мобильные телефоны</category>
-			<price>62399</price>
-			<oldprice>69000</oldprice>
+			<price>59599</price>
+			<oldprice>65900</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/Purple/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2626,8 +2465,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="zpwwOE0ysrAf" available="true">
-			<id>zpwwOE0ysrAf</id>
+		<offer id="NB1gPIxgJba1" available="true">
+			<id>NB1gPIxgJba1</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2636,8 +2475,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 128Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>62399</price>
-			<oldprice>69000</oldprice>
+			<price>59599</price>
+			<oldprice>65900</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2649,8 +2488,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="mTvFtQfJ22bE" available="true">
-			<id>mTvFtQfJ22bE</id>
+		<offer id="EJPcBvwgscIm" available="true">
+			<id>EJPcBvwgscIm</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2659,8 +2498,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 128Gb White новый</name>
 			<category>Мобильные телефоны</category>
-			<price>62399</price>
-			<oldprice>69000</oldprice>
+			<price>59599</price>
+			<oldprice>65900</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/White/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2672,8 +2511,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="kWLWODVNqPQk" available="true">
-			<id>kWLWODVNqPQk</id>
+		<offer id="BKxjgUcyQ2W4" available="true">
+			<id>BKxjgUcyQ2W4</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2682,8 +2521,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 128Gb Yellow новый</name>
 			<category>Мобильные телефоны</category>
-			<price>62399</price>
-			<oldprice>69000</oldprice>
+			<price>59599</price>
+			<oldprice>65900</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/Yellow/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2695,8 +2534,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="GIDA8K5NGIG6" available="true">
-			<id>GIDA8K5NGIG6</id>
+		<offer id="zTrecVw0PxMI" available="true">
+			<id>zTrecVw0PxMI</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2705,8 +2544,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 256Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>70399</price>
-			<oldprice>77800</oldprice>
+			<price>67999</price>
+			<oldprice>75100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2718,8 +2557,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="5pVCMiltCjnY" available="true">
-			<id>5pVCMiltCjnY</id>
+		<offer id="pCVIwYMSSd7w" available="true">
+			<id>pCVIwYMSSd7w</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2728,8 +2567,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 256Gb Green новый</name>
 			<category>Мобильные телефоны</category>
-			<price>70399</price>
-			<oldprice>77800</oldprice>
+			<price>67999</price>
+			<oldprice>75100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/Green/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2741,8 +2580,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="Ax0UNOLOLDke" available="true">
-			<id>Ax0UNOLOLDke</id>
+		<offer id="IbLdjzwwsqeH" available="true">
+			<id>IbLdjzwwsqeH</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2751,8 +2590,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 256Gb Purple новый</name>
 			<category>Мобильные телефоны</category>
-			<price>70399</price>
-			<oldprice>77800</oldprice>
+			<price>67999</price>
+			<oldprice>75100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/Purple/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2764,8 +2603,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="fTqB9RFk2ppk" available="true">
-			<id>fTqB9RFk2ppk</id>
+		<offer id="ZWlUYtJIXZcu" available="true">
+			<id>ZWlUYtJIXZcu</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2774,8 +2613,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 256Gb Red новый</name>
 			<category>Мобильные телефоны</category>
-			<price>70399</price>
-			<oldprice>77800</oldprice>
+			<price>67999</price>
+			<oldprice>75100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/Red/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2787,8 +2626,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="jDhjSGVp97mI" available="true">
-			<id>jDhjSGVp97mI</id>
+		<offer id="aVPbsRoj9lAi" available="true">
+			<id>aVPbsRoj9lAi</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2797,8 +2636,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 256Gb White новый</name>
 			<category>Мобильные телефоны</category>
-			<price>70399</price>
-			<oldprice>77800</oldprice>
+			<price>67999</price>
+			<oldprice>75100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/White/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2810,8 +2649,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="YoNvEEkUPzj9" available="true">
-			<id>YoNvEEkUPzj9</id>
+		<offer id="VkLJYl3Bwduc" available="true">
+			<id>VkLJYl3Bwduc</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2820,8 +2659,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 256Gb Yellow новый</name>
 			<category>Мобильные телефоны</category>
-			<price>70399</price>
-			<oldprice>77800</oldprice>
+			<price>67999</price>
+			<oldprice>75100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11/Yellow/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2833,8 +2672,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="3kimydhaEa1n" available="true">
-			<id>3kimydhaEa1n</id>
+		<offer id="YwmI901ey9sj" available="true">
+			<id>YwmI901ey9sj</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2843,8 +2682,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro 64Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>85399</price>
-			<oldprice>94300</oldprice>
+			<price>78499</price>
+			<oldprice>86700</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11Pro/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2856,8 +2695,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ao0h4AmssQKR" available="true">
-			<id>ao0h4AmssQKR</id>
+		<offer id="OpmlQr0YIJtB" available="true">
+			<id>OpmlQr0YIJtB</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2866,8 +2705,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro 64Gb Midnight Green новый</name>
 			<category>Мобильные телефоны</category>
-			<price>85399</price>
-			<oldprice>94300</oldprice>
+			<price>78499</price>
+			<oldprice>86700</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11Pro/MidnightGreen/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2879,8 +2718,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="JUlxAJ1ZngDB" available="true">
-			<id>JUlxAJ1ZngDB</id>
+		<offer id="6yP7MAeQIUlm" available="true">
+			<id>6yP7MAeQIUlm</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2889,8 +2728,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro 64Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>85399</price>
-			<oldprice>94300</oldprice>
+			<price>78499</price>
+			<oldprice>86700</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11Pro/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2902,8 +2741,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="YquOfNx9dZ34" available="true">
-			<id>YquOfNx9dZ34</id>
+		<offer id="JlfL4qb8cXWv" available="true">
+			<id>JlfL4qb8cXWv</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2912,8 +2751,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro 64Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>85399</price>
-			<oldprice>94300</oldprice>
+			<price>78499</price>
+			<oldprice>86700</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11Pro/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2925,8 +2764,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ZjQ2xzDrzfeY" available="true">
-			<id>ZjQ2xzDrzfeY</id>
+		<offer id="pehyW3wT7RVO" available="true">
+			<id>pehyW3wT7RVO</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2935,8 +2774,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro 256Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>101499</price>
-			<oldprice>112000</oldprice>
+			<price>93699</price>
+			<oldprice>103400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11Pro/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2948,8 +2787,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="UOnRYRWZTjHg" available="true">
-			<id>UOnRYRWZTjHg</id>
+		<offer id="xz3TVkqio9nv" available="true">
+			<id>xz3TVkqio9nv</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2958,8 +2797,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro 256Gb Midnight Green новый</name>
 			<category>Мобильные телефоны</category>
-			<price>101499</price>
-			<oldprice>112000</oldprice>
+			<price>93699</price>
+			<oldprice>103400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11Pro/MidnightGreen/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2971,8 +2810,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="4sUZI59rIYVp" available="true">
-			<id>4sUZI59rIYVp</id>
+		<offer id="BdY4KU5CucaY" available="true">
+			<id>BdY4KU5CucaY</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -2981,8 +2820,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro 256Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>101499</price>
-			<oldprice>112000</oldprice>
+			<price>93699</price>
+			<oldprice>103400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11Pro/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -2994,8 +2833,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="hHMKSkDWo0Cx" available="true">
-			<id>hHMKSkDWo0Cx</id>
+		<offer id="Wy8mzANE2HgJ" available="true">
+			<id>Wy8mzANE2HgJ</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3004,8 +2843,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro 256Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>101499</price>
-			<oldprice>112000</oldprice>
+			<price>93699</price>
+			<oldprice>103400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11Pro/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3017,8 +2856,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="Klz7k0e7FUPf" available="true">
-			<id>Klz7k0e7FUPf</id>
+		<offer id="ZG86ySBWbfnf" available="true">
+			<id>ZG86ySBWbfnf</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3027,8 +2866,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro 512Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>111799</price>
-			<oldprice>123300</oldprice>
+			<price>102099</price>
+			<oldprice>112700</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11Pro/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3040,8 +2879,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ydSx8DNHOuPM" available="true">
-			<id>ydSx8DNHOuPM</id>
+		<offer id="p6Bh6Rq6YqTz" available="true">
+			<id>p6Bh6Rq6YqTz</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3050,8 +2889,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro 512Gb Midnight Green новый</name>
 			<category>Мобильные телефоны</category>
-			<price>111799</price>
-			<oldprice>123300</oldprice>
+			<price>102099</price>
+			<oldprice>112700</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11Pro/MidnightGreen/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3063,8 +2902,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="IN9igSf8IrJc" available="true">
-			<id>IN9igSf8IrJc</id>
+		<offer id="2G5PVal9A0cn" available="true">
+			<id>2G5PVal9A0cn</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3073,8 +2912,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro 512Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>111799</price>
-			<oldprice>123300</oldprice>
+			<price>102099</price>
+			<oldprice>112700</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11Pro/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3086,8 +2925,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="qHvpv8eNU0xl" available="true">
-			<id>qHvpv8eNU0xl</id>
+		<offer id="qGI9BPgoHusr" available="true">
+			<id>qGI9BPgoHusr</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3096,8 +2935,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro 512Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>111799</price>
-			<oldprice>123300</oldprice>
+			<price>102099</price>
+			<oldprice>112700</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11Pro/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3109,8 +2948,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="q42QjC4gB4Wo" available="true">
-			<id>q42QjC4gB4Wo</id>
+		<offer id="aTI4BGJ8l9wX" available="true">
+			<id>aTI4BGJ8l9wX</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3119,8 +2958,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro Max 64Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>93399</price>
-			<oldprice>103100</oldprice>
+			<price>83199</price>
+			<oldprice>91900</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11ProMax/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3132,8 +2971,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="IancUe7Lw2T1" available="true">
-			<id>IancUe7Lw2T1</id>
+		<offer id="Us0Sfbe7jsdw" available="true">
+			<id>Us0Sfbe7jsdw</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3142,8 +2981,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro Max 64Gb Midnight Green новый</name>
 			<category>Мобильные телефоны</category>
-			<price>93399</price>
-			<oldprice>103100</oldprice>
+			<price>83199</price>
+			<oldprice>91900</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11ProMax/MidnightGreen/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3155,8 +2994,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="HRKJoJJNJL32" available="true">
-			<id>HRKJoJJNJL32</id>
+		<offer id="h9XP3dVHTij6" available="true">
+			<id>h9XP3dVHTij6</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3165,8 +3004,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro Max 64Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>93399</price>
-			<oldprice>103100</oldprice>
+			<price>83199</price>
+			<oldprice>91900</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11ProMax/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3178,8 +3017,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="0V6pseBpHDHp" available="true">
-			<id>0V6pseBpHDHp</id>
+		<offer id="bkLk6n0j3mUw" available="true">
+			<id>bkLk6n0j3mUw</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3188,8 +3027,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro Max 64Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>93399</price>
-			<oldprice>103100</oldprice>
+			<price>83199</price>
+			<oldprice>91900</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11ProMax/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3201,8 +3040,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="xt4Yhwhj2Jnw" available="true">
-			<id>xt4Yhwhj2Jnw</id>
+		<offer id="cU5I7BuFb6LS" available="true">
+			<id>cU5I7BuFb6LS</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3211,8 +3050,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro Max 256Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>109499</price>
-			<oldprice>120800</oldprice>
+			<price>101099</price>
+			<oldprice>111600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11ProMax/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3224,8 +3063,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="nsVEIp2gV3if" available="true">
-			<id>nsVEIp2gV3if</id>
+		<offer id="TicSZU1pEXWJ" available="true">
+			<id>TicSZU1pEXWJ</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3234,8 +3073,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro Max 256Gb Midnight Green новый</name>
 			<category>Мобильные телефоны</category>
-			<price>109499</price>
-			<oldprice>120800</oldprice>
+			<price>101099</price>
+			<oldprice>111600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11ProMax/MidnightGreen/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3247,8 +3086,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="6YbHKqGSgXhj" available="true">
-			<id>6YbHKqGSgXhj</id>
+		<offer id="ex7LCn4DsjT1" available="true">
+			<id>ex7LCn4DsjT1</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3257,8 +3096,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro Max 256Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>109499</price>
-			<oldprice>120800</oldprice>
+			<price>101099</price>
+			<oldprice>111600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11ProMax/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3270,8 +3109,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="x12jHnVQOkt7" available="true">
-			<id>x12jHnVQOkt7</id>
+		<offer id="bZHyj2lVeewA" available="true">
+			<id>bZHyj2lVeewA</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3280,8 +3119,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro Max 256Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>109499</price>
-			<oldprice>120800</oldprice>
+			<price>101099</price>
+			<oldprice>111600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11ProMax/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3293,8 +3132,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="2SREzxiD16Ni" available="true">
-			<id>2SREzxiD16Ni</id>
+		<offer id="QOCoRYipjN9t" available="true">
+			<id>QOCoRYipjN9t</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3303,8 +3142,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro Max 512Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>126799</price>
-			<oldprice>139800</oldprice>
+			<price>113699</price>
+			<oldprice>125400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11ProMax/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3316,8 +3155,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="TKVARXwKoB3H" available="true">
-			<id>TKVARXwKoB3H</id>
+		<offer id="6nSmB0PW2RfS" available="true">
+			<id>6nSmB0PW2RfS</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3326,8 +3165,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro Max 512Gb Midnight Green новый</name>
 			<category>Мобильные телефоны</category>
-			<price>126799</price>
-			<oldprice>139800</oldprice>
+			<price>113699</price>
+			<oldprice>125400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11ProMax/MidnightGreen/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3339,8 +3178,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="EXEzGtEvuiPZ" available="true">
-			<id>EXEzGtEvuiPZ</id>
+		<offer id="jSdnUUmgxvI4" available="true">
+			<id>jSdnUUmgxvI4</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3349,8 +3188,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro Max 512Gb Silver новый</name>
 			<category>Мобильные телефоны</category>
-			<price>126799</price>
-			<oldprice>139800</oldprice>
+			<price>113699</price>
+			<oldprice>125400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11ProMax/Silver/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3362,8 +3201,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="9zLMtXwmphFV" available="true">
-			<id>9zLMtXwmphFV</id>
+		<offer id="nohmIJg1nZam" available="true">
+			<id>nohmIJg1nZam</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3372,8 +3211,8 @@
 			<vendor>Apple</vendor>
 			<name>Apple iPhone 11 Pro Max 512Gb Space Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>126799</price>
-			<oldprice>139800</oldprice>
+			<price>113699</price>
+			<oldprice>125400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/11ProMax/SpaceGray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3385,8 +3224,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="mO0Jxs7CknVw" available="true">
-			<id>mO0Jxs7CknVw</id>
+		<offer id="agfpy1SzbCVW" available="true">
+			<id>agfpy1SzbCVW</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3395,8 +3234,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S9 64Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>34799</price>
-			<oldprice>38600</oldprice>
+			<price>34399</price>
+			<oldprice>38200</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3408,8 +3247,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="NUFqUqKsuief" available="true">
-			<id>NUFqUqKsuief</id>
+		<offer id="gFkxxwzDjQG3" available="true">
+			<id>gFkxxwzDjQG3</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3418,8 +3257,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S9 64Gb Blue новый</name>
 			<category>Мобильные телефоны</category>
-			<price>34799</price>
-			<oldprice>38600</oldprice>
+			<price>34399</price>
+			<oldprice>38200</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9/Blue/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3431,8 +3270,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="85Bn1JPe9NSf" available="true">
-			<id>85Bn1JPe9NSf</id>
+		<offer id="IC6gtUwYDVVY" available="true">
+			<id>IC6gtUwYDVVY</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3441,8 +3280,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S9 64Gb Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>34799</price>
-			<oldprice>38600</oldprice>
+			<price>34399</price>
+			<oldprice>38200</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9/Gray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3454,8 +3293,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="xvdQQJfs5Zql" available="true">
-			<id>xvdQQJfs5Zql</id>
+		<offer id="sbaXj1gpOqSp" available="true">
+			<id>sbaXj1gpOqSp</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3464,8 +3303,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S9 64Gb Purple новый</name>
 			<category>Мобильные телефоны</category>
-			<price>34799</price>
-			<oldprice>38600</oldprice>
+			<price>34399</price>
+			<oldprice>38200</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9/Purple/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3477,8 +3316,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="DH2FVhDeZZJm" available="true">
-			<id>DH2FVhDeZZJm</id>
+		<offer id="TUHETmmBEJg5" available="true">
+			<id>TUHETmmBEJg5</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3487,8 +3326,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S9 Plus 64Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>38199</price>
-			<oldprice>42400</oldprice>
+			<price>39099</price>
+			<oldprice>43400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9Plus/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3500,8 +3339,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="mlZcFxlXLeXN" available="true">
-			<id>mlZcFxlXLeXN</id>
+		<offer id="hk4sogZFahcS" available="true">
+			<id>hk4sogZFahcS</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3510,8 +3349,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S9 Plus 64Gb Blue новый</name>
 			<category>Мобильные телефоны</category>
-			<price>38199</price>
-			<oldprice>42400</oldprice>
+			<price>39099</price>
+			<oldprice>43400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9Plus/Blue/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3523,8 +3362,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="4sskDCpIoNa8" available="true">
-			<id>4sskDCpIoNa8</id>
+		<offer id="cYarHppwwtcm" available="true">
+			<id>cYarHppwwtcm</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3533,8 +3372,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S9 Plus 64Gb Gold новый</name>
 			<category>Мобильные телефоны</category>
-			<price>38199</price>
-			<oldprice>42400</oldprice>
+			<price>39099</price>
+			<oldprice>43400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9Plus/Gold/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3546,8 +3385,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="usMzxczA0tDQ" available="true">
-			<id>usMzxczA0tDQ</id>
+		<offer id="gvkDcK4oSmOv" available="true">
+			<id>gvkDcK4oSmOv</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3556,8 +3395,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S9 Plus 64Gb Gray новый</name>
 			<category>Мобильные телефоны</category>
-			<price>38199</price>
-			<oldprice>42400</oldprice>
+			<price>39099</price>
+			<oldprice>43400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9Plus/Gray/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3569,8 +3408,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="DJcogDHzFUDr" available="true">
-			<id>DJcogDHzFUDr</id>
+		<offer id="SkT7hPC1LoaN" available="true">
+			<id>SkT7hPC1LoaN</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3579,8 +3418,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S9 Plus 64Gb Purple новый</name>
 			<category>Мобильные телефоны</category>
-			<price>38199</price>
-			<oldprice>42400</oldprice>
+			<price>39099</price>
+			<oldprice>43400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9Plus/Purple/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3592,8 +3431,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="uyhPI0DywdvE" available="true">
-			<id>uyhPI0DywdvE</id>
+		<offer id="9qCPqBYoZcsM" available="true">
+			<id>9qCPqBYoZcsM</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3602,8 +3441,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S10e 128Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>45699</price>
-			<oldprice>50600</oldprice>
+			<price>43199</price>
+			<oldprice>47900</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10e/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3615,8 +3454,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="GfaVrw5naXtA" available="true">
-			<id>GfaVrw5naXtA</id>
+		<offer id="1YLzhmKmzjG3" available="true">
+			<id>1YLzhmKmzjG3</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3625,8 +3464,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S10e 128Gb Green новый</name>
 			<category>Мобильные телефоны</category>
-			<price>45699</price>
-			<oldprice>50600</oldprice>
+			<price>43199</price>
+			<oldprice>47900</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10e/Green/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3638,8 +3477,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="j5rzUeZIkoSM" available="true">
-			<id>j5rzUeZIkoSM</id>
+		<offer id="DBG7JrJ4x0qn" available="true">
+			<id>DBG7JrJ4x0qn</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3648,8 +3487,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S10e 128Gb White новый</name>
 			<category>Мобильные телефоны</category>
-			<price>45699</price>
-			<oldprice>50600</oldprice>
+			<price>43199</price>
+			<oldprice>47900</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10e/White/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3661,8 +3500,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="M6MKWZmRix20" available="true">
-			<id>M6MKWZmRix20</id>
+		<offer id="w3mPphaK0Xif" available="true">
+			<id>w3mPphaK0Xif</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3671,8 +3510,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S10e 128Gb Yellow новый</name>
 			<category>Мобильные телефоны</category>
-			<price>45699</price>
-			<oldprice>50600</oldprice>
+			<price>43199</price>
+			<oldprice>47900</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10e/Yellow/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3684,8 +3523,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="UXWR2RM5eZFv" available="true">
-			<id>UXWR2RM5eZFv</id>
+		<offer id="Z5ebH50wNbeO" available="true">
+			<id>Z5ebH50wNbeO</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3694,8 +3533,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S10 128Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>49199</price>
-			<oldprice>54500</oldprice>
+			<price>45199</price>
+			<oldprice>50100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3707,8 +3546,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="lXvPgp1Mi9Wx" available="true">
-			<id>lXvPgp1Mi9Wx</id>
+		<offer id="K1aQfSR1Ckv0" available="true">
+			<id>K1aQfSR1Ckv0</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3717,8 +3556,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S10 128Gb Green новый</name>
 			<category>Мобильные телефоны</category>
-			<price>49199</price>
-			<oldprice>54500</oldprice>
+			<price>45199</price>
+			<oldprice>50100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10/Green/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3730,8 +3569,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="xkbOMo385wxN" available="true">
-			<id>xkbOMo385wxN</id>
+		<offer id="Xfh4GZErJ9Sb" available="true">
+			<id>Xfh4GZErJ9Sb</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3740,8 +3579,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S10 128Gb White новый</name>
 			<category>Мобильные телефоны</category>
-			<price>49199</price>
-			<oldprice>54500</oldprice>
+			<price>45199</price>
+			<oldprice>50100</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10/White/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3753,8 +3592,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="hyFRILsetzqL" available="true">
-			<id>hyFRILsetzqL</id>
+		<offer id="d4QN0mnkso3l" available="true">
+			<id>d4QN0mnkso3l</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3763,8 +3602,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S10 Plus 128Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>54299</price>
-			<oldprice>60100</oldprice>
+			<price>48399</price>
+			<oldprice>53600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10Plus/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3776,8 +3615,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="5U8H06vjBo8m" available="true">
-			<id>5U8H06vjBo8m</id>
+		<offer id="6F6IAykTXSuG" available="true">
+			<id>6F6IAykTXSuG</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3786,8 +3625,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S10 Plus 128Gb Green новый</name>
 			<category>Мобильные телефоны</category>
-			<price>54299</price>
-			<oldprice>60100</oldprice>
+			<price>48399</price>
+			<oldprice>53600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10Plus/Green/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3799,8 +3638,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="KsWkfIpnSmXt" available="true">
-			<id>KsWkfIpnSmXt</id>
+		<offer id="JBGoKA4LHWTp" available="true">
+			<id>JBGoKA4LHWTp</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3809,8 +3648,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy S10 Plus 128Gb White новый</name>
 			<category>Мобильные телефоны</category>
-			<price>54299</price>
-			<oldprice>60100</oldprice>
+			<price>48399</price>
+			<oldprice>53600</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10Plus/White/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3822,8 +3661,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="JHthbjkMLBxS" available="true">
-			<id>JHthbjkMLBxS</id>
+		<offer id="3X2JC6Tp9P4M" available="true">
+			<id>3X2JC6Tp9P4M</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3832,8 +3671,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy Note 9 128Gb Black новый</name>
 			<category>Мобильные телефоны</category>
-			<price>47399</price>
-			<oldprice>52500</oldprice>
+			<price>46399</price>
+			<oldprice>51400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/Note9/Black/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
@@ -3845,8 +3684,8 @@
 			<bid></bid>
 			<cbid></cbid>
 		</offer>
-		<offer id="ThxyiXZLk2iM" available="true">
-			<id>ThxyiXZLk2iM</id>
+		<offer id="BRzPc3XUtfRk" available="true">
+			<id>BRzPc3XUtfRk</id>
 			<available>true</available>
 			<delivery>true</delivery>
 			<pickup>false</pickup>
@@ -3855,8 +3694,8 @@
 			<vendor>Samsung</vendor>
 			<name>Samsung Galaxy Note 9 128Gb Blue новый</name>
 			<category>Мобильные телефоны</category>
-			<price>47399</price>
-			<oldprice>52500</oldprice>
+			<price>46399</price>
+			<oldprice>51400</oldprice>
 			<currencyId>RUR</currencyId>
 			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/Note9/Blue/img.jpg</picture>
 			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, в рассрочку, через р/с, по трейд-ин. Самовывоз и доставка по РФ.</description>
