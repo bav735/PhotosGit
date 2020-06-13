@@ -479,4 +479,64 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>KFaoIMnBdKLx</Id>
+		<DateEnd>2020-07-13T10:14:06+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Менеджер</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.796959</Latitude>
+		<Longitude>49.198475</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone SE 16Gb</Title>
+		<Description><![CDATA[<p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:</p><p>– наличными и по карте</p><p>– в рассрочку от 4 до 36 мес</p><p>– по трейд-ин (обмен и выкуп)</p><p>– через р/с юрлица</p><p>Только мы предоставляем:</p><p>- гарантию от 1 до 2 лет</p><p>- самовывоз и доставку товара по РФ</p><p>- дропшиппинг и опт по РФ</p><p>Информация о товаре:</p><p>- б/у в оригинале в отличном состоянии</p><p>- цвет  Rose Gold</p><p>- рынок A1723</p><p>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>6599</Price>
+		<Condition>Б/у</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/SE/RoseGold/kJELBhxPPysE_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>42VDRelW1aLG</Id>
+		<DateEnd>2020-07-13T10:16:40+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Менеджер</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.867813</Latitude>
+		<Longitude>49.122163</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XR 64Gb</Title>
+		<Description><![CDATA[<p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:</p><p>– наличными и по карте</p><p>– в рассрочку от 4 до 36 мес</p><p>– по трейд-ин (обмен и выкуп)</p><p>– через р/с юрлица</p><p>Только мы предоставляем:</p><p>- гарантию от 1 до 2 лет</p><p>- самовывоз и доставку товара по РФ</p><p>- дропшиппинг и опт по РФ</p><p>Информация о товаре:</p><p>- новый неактивированный</p><p>- цвет  Blue</p><p>- рынок A2106</p><p>- гарантия 2 года</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>46099</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/XR/Blue/kJELBhxPPysE_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>tFvrOMOhwt2X</Id>
+		<DateEnd>2020-07-13T10:17:51+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Менеджер</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.796959</Latitude>
+		<Longitude>49.198475</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XS 64Gb</Title>
+		<Description><![CDATA[<p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:</p><p>– наличными и по карте</p><p>– в рассрочку от 4 до 36 мес</p><p>– по трейд-ин (обмен и выкуп)</p><p>– через р/с юрлица</p><p>Только мы предоставляем:</p><p>- гарантию от 1 до 2 лет</p><p>- самовывоз и доставку товара по РФ</p><p>- дропшиппинг и опт по РФ</p><p>Информация о товаре:</p><p>- б/у в оригинале в отличном состоянии</p><p>- цвет  Silver</p><p>- рынок A2099</p><p>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>37099</Price>
+		<Condition>Б/у</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/XS/Silver/kJELBhxPPysE_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
