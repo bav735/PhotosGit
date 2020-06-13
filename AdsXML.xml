@@ -1099,4 +1099,44 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>KBkRGdY7sKim</Id>
+		<DateEnd>2020-07-13T12:49:14+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Менеджер</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.828662</Latitude>
+		<Longitude>49.061186</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy S10 128Gb</Title>
+		<Description><![CDATA[<p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:</p><p>– наличными и по карте</p><p>– в рассрочку от 4 до 36 мес</p><p>– по трейд-ин (обмен и выкуп)</p><p>– через р/с юрлица</p><p>Только мы предоставляем:</p><p>- гарантию от 1 до 2 лет</p><p>- самовывоз и доставку товара по РФ</p><p>- дропшиппинг и опт по РФ</p><p>Информация о товаре:</p><p>- б/у в оригинале в отличном состоянии</p><p>- цвет  Black</p><p>- рынок China</p><p>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>31499</Price>
+		<Condition>Б/у</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Samsung/Galaxy/S10/Black/kJELBhxPPysE_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>PIh3JTUeS3EH</Id>
+		<DateEnd>2020-07-13T12:50:43+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Менеджер</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.814645</Latitude>
+		<Longitude>49.098959</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Mi Max 2 64Gb</Title>
+		<Description><![CDATA[<p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:</p><p>– наличными и по карте</p><p>– в рассрочку от 4 до 36 мес</p><p>– по трейд-ин (обмен и выкуп)</p><p>– через р/с юрлица</p><p>Только мы предоставляем:</p><p>- гарантию от 1 до 2 лет</p><p>- самовывоз и доставку товара по РФ</p><p>- дропшиппинг и опт по РФ</p><p>Информация о товаре:</p><p>- б/у в оригинале в отличном состоянии</p><p>- цвет  Gold</p><p>- рынок China</p><p>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>8599</Price>
+		<Condition>Б/у</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Xiaomi/Mi/Max2/Gold/kJELBhxPPysE_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
