@@ -539,4 +539,44 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>D7ufltsVjBDE</Id>
+		<DateEnd>2020-07-13T10:20:46+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Менеджер</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.814645</Latitude>
+		<Longitude>49.098959</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 11 256Gb</Title>
+		<Description><![CDATA[<p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:</p><p>– наличными и по карте</p><p>– в рассрочку от 4 до 36 мес</p><p>– по трейд-ин (обмен и выкуп)</p><p>– через р/с юрлица</p><p>Только мы предоставляем:</p><p>- гарантию от 1 до 2 лет</p><p>- самовывоз и доставку товара по РФ</p><p>- дропшиппинг и опт по РФ</p><p>Информация о товаре:</p><p>- новый неактивированный</p><p>- цвет  Black</p><p>- рынок A2223</p><p>- гарантия 2 года</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>67999</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11/Black/kJELBhxPPysE_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>J7o0tyqNWNCk</Id>
+		<DateEnd>2020-07-13T10:22+03:00</DateEnd>
+		<AllowEmail>Да</AllowEmail>
+		<ManagerName>Менеджер</ManagerName>
+		<ContactPhone>89584983393</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.828662</Latitude>
+		<Longitude>49.061186</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 11 Pro 64Gb</Title>
+		<Description><![CDATA[<p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:</p><p>– наличными и по карте</p><p>– в рассрочку от 4 до 36 мес</p><p>– по трейд-ин (обмен и выкуп)</p><p>– через р/с юрлица</p><p>Только мы предоставляем:</p><p>- гарантию от 1 до 2 лет</p><p>- самовывоз и доставку товара по РФ</p><p>- дропшиппинг и опт по РФ</p><p>Информация о товаре:</p><p>- новый неактивированный</p><p>- цвет  Silver</p><p>- рынок A2217</p><p>- гарантия 2 года</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>78499</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11Pro/Silver/kJELBhxPPysE_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
