@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2020-10-29 16:30">
+<shop>
+	<offers>
+		<offer id="apple_iphone_4s_16gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>2799</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 4S 16Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/4S/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/4S/White/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_5_16gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>4099</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 5 16Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5/White/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_5_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>4499</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 5 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5/White/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_5s_16gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>5399</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 5S 16Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5S/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5S/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5S/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_5s_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>5899</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 5S 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5S/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5S/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5S/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_se_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>8699</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone SE 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/RoseGold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_se_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>9399</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone SE 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/RoseGold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_se_128gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>10499</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone SE 128Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/RoseGold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_6_16gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>8999</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 6 16Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_6_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>9499</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 6 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_6_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>10199</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 6 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_6_plus_16gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>10999</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 6 Plus 16Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_6_plus_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>12999</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 6 Plus 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_6_plus_128gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>13499</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 6 Plus 128Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_6s_16gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>10599</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 6S 16Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/RoseGold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_6s_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>10999</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 6S 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/RoseGold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_6s_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>12099</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 6S 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/RoseGold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_6s_128gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>12499</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 6S 128Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/RoseGold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_6s_plus_16gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>12699</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 6S Plus 16Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/RoseGold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_6s_plus_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>13799</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 6S Plus 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/RoseGold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_6s_plus_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>14699</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 6S Plus 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/RoseGold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_6s_plus_128gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>15499</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 6S Plus 128Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/RoseGold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_7_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>13799</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 7 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/JetBlack/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/MatteBlack/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Red/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/RoseGold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Silver/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_7_128gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>16299</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 7 128Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/JetBlack/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/MatteBlack/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Red/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/RoseGold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Silver/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_7_256gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>16899</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 7 256Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/JetBlack/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/MatteBlack/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Red/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/RoseGold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Silver/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_7_plus_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>21599</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 7 Plus 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/JetBlack/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/MatteBlack/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Red/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/RoseGold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Silver/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_7_plus_128gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>24699</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 7 Plus 128Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/JetBlack/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/MatteBlack/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Red/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/RoseGold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Silver/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_7_plus_256gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>25499</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 7 Plus 256Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/JetBlack/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/MatteBlack/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Red/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/RoseGold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Silver/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_8_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>20299</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 8 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Red/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_8_256gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>23199</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 8 256Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Red/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_8_plus_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>29999</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 8 Plus 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Red/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_8_plus_256gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>32299</price>
+			<phone>89584983393</phone>
+			<name>Apple iPhone 8 Plus 256Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Red/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/SpaceGray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="samsung_galaxy_s7_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>9099</price>
+			<phone>89584983393</phone>
+			<name>Samsung Galaxy S7 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7/White/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="samsung_galaxy_s7_edge_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>11899</price>
+			<phone>89584983393</phone>
+			<name>Samsung Galaxy S7 Edge 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7Edge/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7Edge/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7Edge/Pink/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7Edge/Silver/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7Edge/Smoke/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="samsung_galaxy_s8_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>14999</price>
+			<phone>89584983393</phone>
+			<name>Samsung Galaxy S8 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8/Blue/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8/Gray/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8/Silver/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="samsung_galaxy_s8_plus_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>17699</price>
+			<phone>89584983393</phone>
+			<name>Samsung Galaxy S8 Plus 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8Plus/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8Plus/Blue/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8Plus/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8Plus/Gray/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8Plus/Silver/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="samsung_galaxy_s9_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>18499</price>
+			<phone>89584983393</phone>
+			<name>Samsung Galaxy S9 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9/Blue/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9/Gray/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9/Purple/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="samsung_galaxy_s9_plus_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>20499</price>
+			<phone>89584983393</phone>
+			<name>Samsung Galaxy S9 Plus 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9Plus/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9Plus/Blue/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9Plus/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9Plus/Gray/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9Plus/Purple/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="samsung_galaxy_s10_plus_128gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>37899</price>
+			<phone>89584983393</phone>
+			<name>Samsung Galaxy S10 Plus 128Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10Plus/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10Plus/Green/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10Plus/White/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="samsung_galaxy_note_8_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>19099</price>
+			<phone>89584983393</phone>
+			<name>Samsung Galaxy Note 8 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/Note8/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/Note8/Blue/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/Note8/Gold/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="samsung_galaxy_note_9_128gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>24999</price>
+			<phone>89584983393</phone>
+			<name>Samsung Galaxy Note 9 128Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/Note9/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/Note9/Blue/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_2_8gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>2799</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi 2 8Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/2/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/2/White/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_3s_16gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>4399</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi 3S 16Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/3S/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/3S/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/3S/Silver/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_3s_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>4699</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi 3S 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/3S/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/3S/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/3S/Silver/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_4a_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>4599</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi 4A 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4A/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4A/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4A/Pink/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_4x_16gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>4899</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi 4X 16Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Pink/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_4x_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>5599</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi 4X 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Pink/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_4x_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>6499</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi 4X 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Pink/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_4_pro_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>5799</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi 4 Pro 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4Pro/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4Pro/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4Pro/White/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_5_plus_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>7599</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi 5 Plus 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/5Plus/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/5Plus/Blue/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/5Plus/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/5Plus/Pink/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_5_plus_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>8199</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi 5 Plus 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/5Plus/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/5Plus/Blue/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/5Plus/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/5Plus/Pink/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_6_pro_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>7599</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi 6 Pro 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Blue/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Pink/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Red/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_6_pro_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>8699</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi 6 Pro 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Blue/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Pink/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Red/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_7_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>8699</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi 7 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/7/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/7/Blue/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/7/Red/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_7_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>9099</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi 7 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/7/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/7/Blue/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/7/Red/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_note_2_16gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>3999</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi Note 2 16Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note2/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note2/White/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_note_2_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>4299</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi Note 2 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note2/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note2/White/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_note_3_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>4899</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi Note 3 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note3/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note3/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note3/White/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_note_4_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>5699</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi Note 4 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4/Gray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_note_4_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>6399</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi Note 4 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4/Gray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_note_4x_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>6299</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi Note 4X 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4X/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4X/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4X/Gray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_note_4x_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>6799</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi Note 4X 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4X/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4X/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4X/Gray/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_note_5_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>7899</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi Note 5 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Blue/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Pink/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Red/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_note_5_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>8799</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi Note 5 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Blue/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Gold/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Pink/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Red/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_note_7_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>10399</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi Note 7 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note7/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note7/Blue/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note7/Red/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="xiaomi_redmi_note_7_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Москва</address>
+			<price>10699</price>
+			<phone>89584983393</phone>
+			<name>Xiaomi Redmi Note 7 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note7/Black/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note7/Blue/img.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note7/Red/img.jpg</picture>
+			<description>В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.</description>
+			<managerName>Оператор</managerName>
+		</offer>
+	</offers>
+</shop>
+</yml_catalog>
