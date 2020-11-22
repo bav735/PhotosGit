@@ -2,908 +2,2588 @@
 <yml_catalog date="2020-10-29 16:30">
 <shop>
 	<offers>
-		<offer id="apple_iphone_4s_16gb_rfb">
-			<youlaCategoryId>12</youlaCategoryId>
-			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>2499</price>
-			<phone>89584983393</phone>
-			<name>Apple iPhone 4S 16Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/4S/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/4S/White/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
-			<managerName>Оператор</managerName>
-		</offer>
 		<offer id="apple_iphone_5_16gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>3799</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>4499</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 5 16Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5/White/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5/White/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_5_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>4099</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>4899</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 5 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5/White/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5/Black/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5/White/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_5_64gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>5499</price>
+			<phone>89173929827</phone>
+			<name>Apple iPhone 5 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5/Black/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5/White/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_5c_16gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>4699</price>
+			<phone>89173929827</phone>
+			<name>Apple iPhone 5C 16Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5C/Blue/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5C/Green/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5C/Pink/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5C/White/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5C/Yellow/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_5s_16gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>4999</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>5799</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 5S 16Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5S/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5S/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5S/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5S/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5S/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5S/SpaceGray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_5s_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>5599</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>6399</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 5S 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5S/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5S/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/5S/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5S/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5S/Silver/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5S/SpaceGray/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_se_16gb_used">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>8599</price>
+			<phone>89173929827</phone>
+			<name>Apple iPhone SE 16Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/SE/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/SE/RoseGold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/SE/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/SE/SpaceGray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- б/у в оригинале в отличном состоянии
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_se_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>8299</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>9099</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone SE 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/RoseGold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/SE/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/SE/RoseGold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/SE/Silver/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/SE/SpaceGray/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_se_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>8999</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>9899</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone SE 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/RoseGold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/SE/Gold/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/SE/RoseGold/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/SE/Silver/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/SE/SpaceGray/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_se_128gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>10099</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>11099</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone SE 128Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/RoseGold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/SE/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/SE/Gold/kJELBhxPPysE_3.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/SE/RoseGold/kJELBhxPPysE_3.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/SE/Silver/kJELBhxPPysE_3.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/SE/SpaceGray/kJELBhxPPysE_3.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_6_16gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>8499</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>9499</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 6 16Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6/SpaceGray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_6_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>9099</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>10099</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 6 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6/Silver/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6/SpaceGray/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_6_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>9699</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>10999</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 6 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6/Gold/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6/Silver/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6/SpaceGray/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_6_plus_16gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>10499</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>11399</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 6 Plus 16Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6Plus/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6Plus/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6Plus/SpaceGray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_6_plus_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>12499</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>13299</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 6 Plus 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
-			<managerName>Оператор</managerName>
-		</offer>
-		<offer id="apple_iphone_6_plus_128gb_rfb">
-			<youlaCategoryId>12</youlaCategoryId>
-			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>12999</price>
-			<phone>89584983393</phone>
-			<name>Apple iPhone 6 Plus 128Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6Plus/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6Plus/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6Plus/Silver/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6Plus/SpaceGray/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_6s_16gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>10199</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>10699</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 6S 16Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/RoseGold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6S/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6S/RoseGold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6S/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6S/SpaceGray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_6s_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>10499</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>11399</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 6S 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/RoseGold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6S/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6S/RoseGold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6S/Silver/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6S/SpaceGray/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_6s_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>11599</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>12499</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 6S 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/RoseGold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6S/Gold/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6S/RoseGold/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6S/Silver/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6S/SpaceGray/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_6s_128gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>11999</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>13199</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 6S 128Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/RoseGold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6S/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6S/Gold/kJELBhxPPysE_3.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6S/RoseGold/kJELBhxPPysE_3.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6S/Silver/kJELBhxPPysE_3.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6S/SpaceGray/kJELBhxPPysE_3.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_6s_plus_16gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>12199</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>13299</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 6S Plus 16Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/RoseGold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/RoseGold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/SpaceGray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_6s_plus_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>13299</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>14399</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 6S Plus 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/RoseGold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/RoseGold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/Silver/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/SpaceGray/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_6s_plus_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>14099</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>15299</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 6S Plus 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/RoseGold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/Gold/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/RoseGold/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/Silver/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/SpaceGray/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_6s_plus_128gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>14899</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>16699</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 6S Plus 128Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/RoseGold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/6SPlus/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/Gold/kJELBhxPPysE_3.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/RoseGold/kJELBhxPPysE_3.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/Silver/kJELBhxPPysE_3.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/SpaceGray/kJELBhxPPysE_3.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_7_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>13299</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>15199</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 7 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/JetBlack/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/MatteBlack/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Red/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/RoseGold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Silver/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/JetBlack/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/MatteBlack/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/Red/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/RoseGold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_7_32gb_used">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>14099</price>
+			<phone>89173929827</phone>
+			<name>Apple iPhone 7 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7/JetBlack/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7/MatteBlack/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7/Red/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7/RoseGold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- б/у в оригинале в отличном состоянии
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_7_128gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>15799</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>17099</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 7 128Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/JetBlack/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/MatteBlack/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Red/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/RoseGold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Silver/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/JetBlack/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/MatteBlack/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/Red/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/RoseGold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/Silver/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_7_128gb_used">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>16299</price>
+			<phone>89173929827</phone>
+			<name>Apple iPhone 7 128Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7/JetBlack/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7/MatteBlack/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7/Red/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7/RoseGold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7/Silver/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- б/у в оригинале в отличном состоянии
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_7_256gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>16299</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>17599</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 7 256Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/JetBlack/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/MatteBlack/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Red/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/RoseGold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7/Silver/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/Gold/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/JetBlack/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/MatteBlack/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/Red/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/RoseGold/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7/Silver/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_7_plus_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>20999</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>22499</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 7 Plus 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/JetBlack/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/MatteBlack/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Red/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/RoseGold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Silver/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/JetBlack/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/MatteBlack/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/Red/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/RoseGold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_7_plus_128gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>23999</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>25699</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 7 Plus 128Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/JetBlack/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/MatteBlack/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Red/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/RoseGold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Silver/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/JetBlack/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/MatteBlack/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/Red/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/RoseGold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/Silver/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_7_plus_128gb_used">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>25099</price>
+			<phone>89173929827</phone>
+			<name>Apple iPhone 7 Plus 128Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7Plus/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7Plus/JetBlack/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7Plus/MatteBlack/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7Plus/Red/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7Plus/RoseGold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7Plus/Silver/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- б/у в оригинале в отличном состоянии
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_7_plus_256gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>24799</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>26299</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 7 Plus 256Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/JetBlack/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/MatteBlack/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Red/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/RoseGold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/7Plus/Silver/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/Gold/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/JetBlack/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/MatteBlack/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/Red/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/RoseGold/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/Silver/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_8_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>19599</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>21099</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 8 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Red/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8/Red/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8/SpaceGray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_8_64gb_used">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>20999</price>
+			<phone>89173929827</phone>
+			<name>Apple iPhone 8 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/8/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/8/Red/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/8/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/8/SpaceGray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- б/у в оригинале в отличном состоянии
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_8_256gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>22499</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>24099</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 8 256Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Red/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8/Red/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8/Silver/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8/SpaceGray/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_8_plus_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>29199</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>30299</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 8 Plus 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Red/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8Plus/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8Plus/Red/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8Plus/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8Plus/SpaceGray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="apple_iphone_8_plus_256gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>31399</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>33399</price>
+			<phone>89173929827</phone>
 			<name>Apple iPhone 8 Plus 256Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Red/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Apple/iPhone/8Plus/SpaceGray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8Plus/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8Plus/Red/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8Plus/Silver/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8Plus/SpaceGray/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_x_256gb_used">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>38799</price>
+			<phone>89173929827</phone>
+			<name>Apple iPhone X 256Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/X/Silver/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/X/SpaceGray/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- б/у в оригинале в отличном состоянии
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_xr_64gb_used">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>36599</price>
+			<phone>89173929827</phone>
+			<name>Apple iPhone XR 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/XR/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/XR/Blue/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/XR/Coral/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/XR/Red/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/XR/White/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/XR/Yellow/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- б/у в оригинале в отличном состоянии
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_xs_max_64gb_used">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>42099</price>
+			<phone>89173929827</phone>
+			<name>Apple iPhone XS Max 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/XSMax/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/XSMax/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/XSMax/SpaceGray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- б/у в оригинале в отличном состоянии
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_xs_max_256gb_used">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>50399</price>
+			<phone>89173929827</phone>
+			<name>Apple iPhone XS Max 256Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/XSMax/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/XSMax/Silver/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/XSMax/SpaceGray/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- б/у в оригинале в отличном состоянии
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_11_64gb_new">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>54899</price>
+			<phone>89173929827</phone>
+			<name>Apple iPhone 11 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11/Green/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11/Purple/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11/Red/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11/White/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11/Yellow/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- новый неактивированный
+- гарантия 2 года
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_11_128gb_new">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>59099</price>
+			<phone>89173929827</phone>
+			<name>Apple iPhone 11 128Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11/Black/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11/Green/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11/Purple/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11/Red/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11/White/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11/Yellow/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- новый неактивированный
+- гарантия 2 года
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_11_pro_64gb_new">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>78499</price>
+			<phone>89173929827</phone>
+			<name>Apple iPhone 11 Pro 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11Pro/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11Pro/MidnightGreen/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11Pro/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11Pro/SpaceGray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- новый неактивированный
+- гарантия 2 года
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_11_pro_256gb_new">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>91099</price>
+			<phone>89173929827</phone>
+			<name>Apple iPhone 11 Pro 256Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11Pro/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11Pro/MidnightGreen/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11Pro/Silver/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11Pro/SpaceGray/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- новый неактивированный
+- гарантия 2 года
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_11_pro_max_64gb_new">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>88499</price>
+			<phone>89173929827</phone>
+			<name>Apple iPhone 11 Pro Max 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11ProMax/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11ProMax/MidnightGreen/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11ProMax/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11ProMax/SpaceGray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- новый неактивированный
+- гарантия 2 года
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="apple_iphone_11_pro_max_256gb_new">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>104799</price>
+			<phone>89173929827</phone>
+			<name>Apple iPhone 11 Pro Max 256Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11ProMax/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11ProMax/MidnightGreen/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11ProMax/Silver/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Apple/iPhone/11ProMax/SpaceGray/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- новый неактивированный
+- гарантия 2 года
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="samsung_galaxy_s6_32gb_rfb">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>6999</price>
+			<phone>89173929827</phone>
+			<name>Samsung Galaxy S6 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S6/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S6/Blue/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S6/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S6/White/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="samsung_galaxy_s7_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>8599</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>9599</price>
+			<phone>89173929827</phone>
 			<name>Samsung Galaxy S7 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7/White/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S7/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S7/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S7/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S7/White/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="samsung_galaxy_s7_edge_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>11399</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>12499</price>
+			<phone>89173929827</phone>
 			<name>Samsung Galaxy S7 Edge 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7Edge/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7Edge/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7Edge/Pink/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7Edge/Silver/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S7Edge/Smoke/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S7Edge/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S7Edge/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S7Edge/Pink/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S7Edge/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S7Edge/Smoke/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="samsung_galaxy_s8_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>14499</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>15899</price>
+			<phone>89173929827</phone>
 			<name>Samsung Galaxy S8 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8/Blue/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8/Gray/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8/Silver/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S8/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S8/Blue/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S8/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S8/Gray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S8/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="samsung_galaxy_s8_plus_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>17099</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>18499</price>
+			<phone>89173929827</phone>
 			<name>Samsung Galaxy S8 Plus 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8Plus/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8Plus/Blue/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8Plus/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8Plus/Gray/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S8Plus/Silver/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S8Plus/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S8Plus/Blue/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S8Plus/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S8Plus/Gray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S8Plus/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="samsung_galaxy_s9_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>17899</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>19299</price>
+			<phone>89173929827</phone>
 			<name>Samsung Galaxy S9 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9/Blue/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9/Gray/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9/Purple/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S9/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S9/Blue/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S9/Gray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S9/Purple/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="samsung_galaxy_s9_plus_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>19899</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>21299</price>
+			<phone>89173929827</phone>
 			<name>Samsung Galaxy S9 Plus 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9Plus/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9Plus/Blue/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9Plus/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9Plus/Gray/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S9Plus/Purple/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S9Plus/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S9Plus/Blue/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S9Plus/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S9Plus/Gray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/S9Plus/Purple/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
-		<offer id="samsung_galaxy_s10_plus_128gb_rfb">
+		<offer id="samsung_galaxy_s9_plus_64gb_new">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>36899</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>38099</price>
+			<phone>89173929827</phone>
+			<name>Samsung Galaxy S9 Plus 64Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Samsung/Galaxy/S9Plus/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Samsung/Galaxy/S9Plus/Blue/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Samsung/Galaxy/S9Plus/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Samsung/Galaxy/S9Plus/Gray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Samsung/Galaxy/S9Plus/Purple/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- новый неактивированный
+- гарантия 2 года
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="samsung_galaxy_s10_plus_128gb_new">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>51199</price>
+			<phone>89173929827</phone>
 			<name>Samsung Galaxy S10 Plus 128Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10Plus/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10Plus/Green/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/S10Plus/White/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Samsung/Galaxy/S10Plus/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Samsung/Galaxy/S10Plus/Green/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Samsung/Galaxy/S10Plus/White/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- новый неактивированный
+- гарантия 2 года
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="samsung_galaxy_note_8_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>18499</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>19899</price>
+			<phone>89173929827</phone>
 			<name>Samsung Galaxy Note 8 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/Note8/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/Note8/Blue/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/Note8/Gold/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/Note8/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/Note8/Blue/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/Note8/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="samsung_galaxy_note_9_128gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>24299</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>27699</price>
+			<phone>89173929827</phone>
 			<name>Samsung Galaxy Note 9 128Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/Note9/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Samsung/Galaxy/Note9/Blue/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/Note9/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/Note9/Blue/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
+			<managerName>Оператор</managerName>
+		</offer>
+		<offer id="samsung_galaxy_note_9_128gb_new">
+			<youlaCategoryId>12</youlaCategoryId>
+			<youlaCategoryId>1202</youlaCategoryId>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>40699</price>
+			<phone>89173929827</phone>
+			<name>Samsung Galaxy Note 9 128Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Samsung/Galaxy/Note9/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Samsung/Galaxy/Note9/Blue/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- новый неактивированный
+- гарантия 2 года
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_2_8gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>2499</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>3199</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi 2 8Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/2/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/2/White/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/2/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/2/White/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_3s_16gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>3999</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>4799</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi 3S 16Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/3S/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/3S/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/3S/Silver/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/3S/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/3S/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/3S/Silver/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_3s_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>4299</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>5099</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi 3S 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/3S/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/3S/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/3S/Silver/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/3S/Black/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/3S/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/3S/Silver/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_4a_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>4199</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>5799</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi 4A 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4A/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4A/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4A/Pink/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/4A/Black/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/4A/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/4A/Pink/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_4x_16gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>4599</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>4999</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi 4X 16Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Pink/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/4X/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/4X/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/4X/Pink/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_4x_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>5199</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>5299</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi 4X 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Pink/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/4X/Black/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/4X/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/4X/Pink/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_4x_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>6099</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>5999</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi 4X 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4X/Pink/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
-			<managerName>Оператор</managerName>
-		</offer>
-		<offer id="xiaomi_redmi_4_pro_32gb_rfb">
-			<youlaCategoryId>12</youlaCategoryId>
-			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>5399</price>
-			<phone>89584983393</phone>
-			<name>Xiaomi Redmi 4 Pro 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4Pro/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4Pro/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/4Pro/White/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/4X/Black/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/4X/Gold/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/4X/Pink/kJELBhxPPysE_2.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_5_plus_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>7199</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>7499</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi 5 Plus 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/5Plus/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/5Plus/Blue/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/5Plus/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/5Plus/Pink/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/5Plus/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/5Plus/Blue/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/5Plus/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/5Plus/Pink/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_5_plus_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>7799</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>8099</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi 5 Plus 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/5Plus/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/5Plus/Blue/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/5Plus/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/5Plus/Pink/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/5Plus/Black/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/5Plus/Blue/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/5Plus/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/5Plus/Pink/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_6_pro_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>7199</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>8099</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi 6 Pro 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Blue/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Pink/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Red/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/6Pro/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/6Pro/Blue/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/6Pro/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/6Pro/Pink/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/6Pro/Red/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_6_pro_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>8299</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>8999</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi 6 Pro 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Blue/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Pink/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/6Pro/Red/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
-			<managerName>Оператор</managerName>
-		</offer>
-		<offer id="xiaomi_redmi_7_32gb_rfb">
-			<youlaCategoryId>12</youlaCategoryId>
-			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>8299</price>
-			<phone>89584983393</phone>
-			<name>Xiaomi Redmi 7 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/7/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/7/Blue/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/7/Red/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/6Pro/Black/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/6Pro/Blue/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/6Pro/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/6Pro/Pink/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/6Pro/Red/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_7_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>8599</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>9599</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi 7 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/7/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/7/Blue/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/7/Red/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/7/Black/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/7/Blue/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/7/Red/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_note_2_16gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>3699</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>4499</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi Note 2 16Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note2/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note2/White/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note2/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note2/White/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_note_2_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>3899</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>4699</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi Note 2 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note2/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note2/White/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note2/Black/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note2/White/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_note_3_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>4599</price>
-			<phone>89584983393</phone>
-			<name>Xiaomi Redmi Note 3 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note3/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note3/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note3/White/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
-			<managerName>Оператор</managerName>
-		</offer>
-		<offer id="xiaomi_redmi_note_4_32gb_rfb">
-			<youlaCategoryId>12</youlaCategoryId>
-			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
+			<address>Россия, Казань, улица Лушникова, 8</address>
 			<price>5299</price>
-			<phone>89584983393</phone>
-			<name>Xiaomi Redmi Note 4 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4/Gray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<phone>89173929827</phone>
+			<name>Xiaomi Redmi Note 3 32Gb</name>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note3/Black/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note3/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note3/White/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_note_4_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>5999</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>6799</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi Note 4 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4/Gray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note4/Black/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note4/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note4/Gray/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_note_4x_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>5899</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>6699</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi Note 4X 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4X/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4X/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4X/Gray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note4X/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note4X/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note4X/Gray/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_note_4x_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>6399</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>7299</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi Note 4X 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4X/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4X/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note4X/Gray/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note4X/Black/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note4X/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note4X/Gray/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_note_5_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>7499</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>8399</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi Note 5 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Blue/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Pink/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Red/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note5/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note5/Blue/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note5/Gold/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note5/Pink/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note5/Red/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_note_5_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>8399</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>8999</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi Note 5 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Blue/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Gold/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Pink/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note5/Red/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note5/Black/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note5/Blue/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note5/Gold/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note5/Pink/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note5/Red/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_note_7_32gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>9999</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>10999</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi Note 7 32Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note7/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note7/Blue/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note7/Red/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note7/Black/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note7/Blue/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note7/Red/kJELBhxPPysE_0.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 		<offer id="xiaomi_redmi_note_7_64gb_rfb">
 			<youlaCategoryId>12</youlaCategoryId>
 			<youlaCategoryId>1202</youlaCategoryId>
-			<address>Россия, Москва, Москва</address>
-			<price>10299</price>
-			<phone>89584983393</phone>
+			<address>Россия, Казань, улица Лушникова, 8</address>
+			<price>11299</price>
+			<phone>89173929827</phone>
 			<name>Xiaomi Redmi Note 7 64Gb</name>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note7/Black/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note7/Blue/img.jpg</picture>
-			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/site/Xiaomi/Redmi/Note7/Red/img.jpg</picture>
-			<description><![CDATA[В наличии в любом цвете! Оплата: наличными, по карте, в кредит, через р/с юрлиц. Доставка по РФ.]]></description>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note7/Black/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note7/Blue/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/Note7/Red/kJELBhxPPysE_1.jpg</picture>
+			<picture>https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg</picture>
+			<description><![CDATA[В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:
+– наличными и по карте
+– в кредит от 4 до 36 мес
+– по трейд-ин (обмен и выкуп)
+– через р/с юрлица
+
+Только мы предоставляем:
+- гарантию от 1 до 2 лет
+- самовывоз и доставку товара по РФ
+- дропшиппинг и опт по РФ
+
+Информация о товаре:
+- восстановленный до нового
+- гарантия 1 год
+
+Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!
+
+]]></description>
 			<managerName>Оператор</managerName>
 		</offer>
 	</offers>
