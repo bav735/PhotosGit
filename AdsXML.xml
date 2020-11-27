@@ -959,4 +959,64 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>FL85PbpNTgfm</Id>
+		<DateEnd>2020-12-27T18:30:11+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.753541</Latitude>
+		<Longitude>49.157993</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 3S 32Gb</Title>
+		<Description><![CDATA[<p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в кредит от 4 до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию от 1 до 2 лет<br>- самовывоз и доставку товара по РФ<br>- дропшиппинг и опт по РФ</p><p>Информация о товаре:<br>- восстановленный до нового<br>- цвет  Black<br>- рынок China<br>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>5099</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/3S/Black/kJELBhxPPysE_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>5WrafLt5iIkI</Id>
+		<DateEnd>2020-12-27T18:31:19+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.796959</Latitude>
+		<Longitude>49.198475</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 4A 32Gb</Title>
+		<Description><![CDATA[<p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в кредит от 4 до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию от 1 до 2 лет<br>- самовывоз и доставку товара по РФ<br>- дропшиппинг и опт по РФ</p><p>Информация о товаре:<br>- восстановленный до нового<br>- цвет  Pink<br>- рынок China<br>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>5799</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/4A/Pink/kJELBhxPPysE_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>MYC6OgGaWBXs</Id>
+		<DateEnd>2020-12-27T18:32:48+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.814645</Latitude>
+		<Longitude>49.098959</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Xiaomi</GoodsType>
+		<Title>Xiaomi Redmi 4X 16Gb</Title>
+		<Description><![CDATA[<p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в кредит от 4 до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию от 1 до 2 лет<br>- самовывоз и доставку товара по РФ<br>- дропшиппинг и опт по РФ</p><p>Информация о товаре:<br>- восстановленный до нового<br>- цвет  Black<br>- рынок China<br>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>4999</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Xiaomi/Redmi/4X/Black/kJELBhxPPysE_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
