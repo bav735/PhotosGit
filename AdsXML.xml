@@ -579,4 +579,64 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>dzKUebSweHQR</Id>
+		<DateEnd>2020-12-27T18:01:12+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.867813</Latitude>
+		<Longitude>49.122163</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S Plus 16Gb</Title>
+		<Description><![CDATA[<p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в кредит от 4 до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию от 1 до 2 лет<br>- самовывоз и доставку товара по РФ<br>- дропшиппинг и опт по РФ</p><p>Информация о товаре:<br>- восстановленный до нового<br>- цвет  Silver<br>- рынок A1699<br>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>13299</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/Silver/kJELBhxPPysE_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>Q98dz0KVnRcK</Id>
+		<DateEnd>2020-12-27T18:02:30+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.814645</Latitude>
+		<Longitude>49.098959</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S Plus 32Gb</Title>
+		<Description><![CDATA[<p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в кредит от 4 до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию от 1 до 2 лет<br>- самовывоз и доставку товара по РФ<br>- дропшиппинг и опт по РФ</p><p>Информация о товаре:<br>- восстановленный до нового<br>- цвет  Silver<br>- рынок A1687<br>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>14399</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/Silver/kJELBhxPPysE_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>DKxWBPVxVYAV</Id>
+		<DateEnd>2020-12-27T18:03:43+03:00</DateEnd>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.753541</Latitude>
+		<Longitude>49.157993</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6S Plus 64Gb</Title>
+		<Description><![CDATA[<p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в кредит от 4 до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию от 1 до 2 лет<br>- самовывоз и доставку товара по РФ<br>- дропшиппинг и опт по РФ</p><p>Информация о товаре:<br>- восстановленный до нового<br>- цвет  Space Gray<br>- рынок A1699<br>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>15299</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6SPlus/SpaceGray/kJELBhxPPysE_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
