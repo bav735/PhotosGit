@@ -2887,4 +2887,61 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>gI2jUmPARH4p</Id>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.796959</Latitude>
+		<Longitude>49.198475</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 64Gb</Title>
+		<Description><![CDATA[<p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в кредит от 4 до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию от 1 до 2 лет<br>- самовывоз и доставку товара по РФ<br>- дропшиппинг и опт по РФ</p><p>Информация о товаре:<br>- восстановленный до нового<br>- цвет Red<br>- рынок A1906<br>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>21099</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8/Red/kJELBhxPPysE_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>8Zus0xeR3B7R</Id>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.814645</Latitude>
+		<Longitude>49.098959</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 5 32Gb</Title>
+		<Description><![CDATA[<p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в кредит от 4 до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию от 1 до 2 лет<br>- самовывоз и доставку товара по РФ<br>- дропшиппинг и опт по РФ</p><p>Информация о товаре:<br>- восстановленный до нового<br>- цвет Black<br>- рынок A1442<br>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>4899</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/5/Black/kJELBhxPPysE_6.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>J0pLIZkqrWTF</Id>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.753541</Latitude>
+		<Longitude>49.157993</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 6 16Gb</Title>
+		<Description><![CDATA[<p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в кредит от 4 до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию от 1 до 2 лет<br>- самовывоз и доставку товара по РФ<br>- дропшиппинг и опт по РФ</p><p>Информация о товаре:<br>- восстановленный до нового<br>- цвет Space Gray<br>- рынок A1589<br>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>9499</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/6/SpaceGray/kJELBhxPPysE_3.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
