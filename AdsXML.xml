@@ -3096,4 +3096,23 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>K2xm2Im2fsfm</Id>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.796959</Latitude>
+		<Longitude>49.198475</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 Plus 64Gb</Title>
+		<Description><![CDATA[<p>В сети магазинов и сервисных центров AMOLED вы сможете купить самые разные модели смартфонов, оплатив покупку:<br>– наличными и по карте<br>– в кредит от 4 до 36 мес<br>– по трейд-ин (обмен и выкуп)<br>– через р/с юрлица</p><p>Только мы предоставляем:<br>- гарантию от 1 до 2 лет<br>- самовывоз и доставку товара по РФ<br>- дропшиппинг и опт по РФ</p><p>Информация о товаре:<br>- восстановленный до нового<br>- цвет Space Gray<br>- рынок A1864<br>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>30299</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8Plus/SpaceGray/kJELBhxPPysE_2.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
