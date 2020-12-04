@@ -4369,4 +4369,42 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>vAeSV7OcHixM</Id>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.867813</Latitude>
+		<Longitude>49.122163</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone SE 32Gb</Title>
+		<Description><![CDATA[<p>Apple iPhone SE 32Gb</p><p>Информация о товаре:<br>- восстановленный до нового<br>- цвет Silver<br>- рынок A1723<br>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>9099</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/SE/Silver/kJELBhxPPysE_4.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>qkEiU9t3V26o</Id>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.814645</Latitude>
+		<Longitude>49.098959</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 256Gb</Title>
+		<Description><![CDATA[<p>Apple iPhone 8 256Gb</p><p>Информация о товаре:<br>- восстановленный до нового<br>- цвет Space Gray<br>- рынок A1906<br>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>24099</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8/SpaceGray/kJELBhxPPysE_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
