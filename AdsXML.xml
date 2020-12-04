@@ -4312,4 +4312,23 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>bQ8h7qYUoj0P</Id>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.828662</Latitude>
+		<Longitude>49.061186</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 8 Plus 64Gb</Title>
+		<Description><![CDATA[<p>Apple iPhone 8 Plus 64Gb</p><p>Информация о товаре:<br>- восстановленный до нового<br>- цвет Silver<br>- рынок A1864<br>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>30299</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/8Plus/Silver/kJELBhxPPysE_2.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
