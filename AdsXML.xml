@@ -5319,4 +5319,99 @@
 			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
 		</Images>
 	</Ad>
+	<Ad>
+		<Id>mD9GRA0hepDn</Id>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.796959</Latitude>
+		<Longitude>49.198475</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 32Gb</Title>
+		<Description><![CDATA[<p>Apple iPhone 7 32Gb</p><p>Информация о товаре:<br>- б/у в оригинале в отличном состоянии<br>- цвет Jet Black<br>- рынок A1779<br>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>14099</Price>
+		<Condition>Б/у</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/7/JetBlack/kJELBhxPPysE_2.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>B2FhrJN1noxi</Id>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.796959</Latitude>
+		<Longitude>49.198475</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy Note 8 64Gb</Title>
+		<Description><![CDATA[<p>Samsung Galaxy Note 8 64Gb</p><p>Информация о товаре:<br>- восстановленный до нового<br>- цвет Gold<br>- рынок Europe<br>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>19899</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Samsung/Galaxy/Note8/Gold/kJELBhxPPysE_1.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>gFrBvIfLSn5S</Id>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.753541</Latitude>
+		<Longitude>49.157993</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>Samsung</GoodsType>
+		<Title>Samsung Galaxy Note 9 128Gb</Title>
+		<Description><![CDATA[<p>Samsung Galaxy Note 9 128Gb</p><p>Информация о товаре:<br>- новый неактивированный<br>- цвет Blue<br>- рынок Europe<br>- гарантия 2 года</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>40699</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/new/Samsung/Galaxy/Note9/Blue/kJELBhxPPysE_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>PEOnZNTxQZ1K</Id>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.867813</Latitude>
+		<Longitude>49.122163</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone XR 64Gb</Title>
+		<Description><![CDATA[<p>Apple iPhone XR 64Gb</p><p>Информация о товаре:<br>- б/у в оригинале в отличном состоянии<br>- цвет Red<br>- рынок A2106<br>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>36599</Price>
+		<Condition>Б/у</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/used/Apple/iPhone/XR/Red/kJELBhxPPysE_0.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
+	<Ad>
+		<Id>WpgqNrIrRG1V</Id>
+		<AllowEmail>Нет</AllowEmail>
+		<ManagerName>Отдел продаж</ManagerName>
+		<ContactPhone>89173929827</ContactPhone>
+		<Address>Казань</Address>
+		<Latitude>55.814645</Latitude>
+		<Longitude>49.098959</Longitude>
+		<Category>Телефоны</Category>
+		<GoodsType>iPhone</GoodsType>
+		<Title>iPhone 7 Plus 256Gb</Title>
+		<Description><![CDATA[<p>Apple iPhone 7 Plus 256Gb</p><p>Информация о товаре:<br>- восстановленный до нового<br>- цвет Silver<br>- рынок A1784<br>- гарантия 1 год</p><p>Звоните 10:00-20:00 (без выходных), будем рады помочь и ответить на все вопросы!</p>]]></Description>
+		<Price>26299</Price>
+		<Condition>Новое</Condition>
+		<Images>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/ref/Apple/iPhone/7Plus/Silver/kJELBhxPPysE_2.jpg"/>
+			<Image url="https://raw.githubusercontent.com/bav735/PhotosGit/master/avito/base/add/add5_0.jpg"/>
+		</Images>
+	</Ad>
 </Ads>
